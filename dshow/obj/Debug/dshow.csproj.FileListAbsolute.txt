@@ -1,0 +1,10 @@
+C:\utilities\programming\motionDetection\motion_src\dshow\bin\Debug\dshow.dll
+C:\utilities\programming\motionDetection\motion_src\dshow\bin\Debug\dshow.pdb
+C:\utilities\programming\motionDetection\motion_src\dshow\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\motionDetection\motion_src\dshow\obj\Debug\dshow.dll
+C:\utilities\programming\motionDetection\motion_src\dshow\obj\Debug\dshow.pdb
+C:\utilities\programming\examples\motionDetection\motion_src\dshow\bin\Debug\dshow.dll
+C:\utilities\programming\examples\motionDetection\motion_src\dshow\bin\Debug\dshow.pdb
+C:\utilities\programming\examples\motionDetection\motion_src\dshow\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\examples\motionDetection\motion_src\dshow\obj\Debug\dshow.dll
+C:\utilities\programming\examples\motionDetection\motion_src\dshow\obj\Debug\dshow.pdb

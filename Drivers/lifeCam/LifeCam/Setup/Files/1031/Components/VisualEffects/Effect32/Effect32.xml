@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="4860F5C1-3EC2-4014-8BE5-3EF40BAFB18E" 
+		Name="Effect32" 
+		Description="Basketball" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect32\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect32\config.ver"/>
+	</EffectList>
+</Root>

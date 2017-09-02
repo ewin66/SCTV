@@ -1,0 +1,129 @@
+Special Features:
+
+Home Theater PC 
+
+Create, Watch, Edit Rich Media Content in Your Living Room 
+
+Surf the Web and Play Internet Games Wirelessly 
+
+Instant on CD / Radio / MP3 support 
+
+Bundled MSI Media Center Deluxe Software 
+
+5.1ch Surround Sound 
+
+Intelligent Color LCD Display 
+
+Built-in WiFi 
+
+6 in 1 Media Card Reader 
+
+AMD Processor Support 
+
+ System Features 
+ • Supports Socket 462 for AMD® Duron™ and Athlon™ XP processors up to 3000+ 
+• nVIDIA nForce2 (Crush 18G) + MCP2T Chipset  
+• Supports up to 2 DIMMs , 2.0GB DDR 333 memory  
+• Supports 1 x 8X AGP Slot  
+• Supports 1 x PCI 32 bit Slot  
+ 
+  
+Audio Features 
+ • Instant-ON CD / MP3 and Radio Features  
+• Support for 5.1ch Surround Sound Audio  
+• nVIDIA SoundStorm™ Dolby® Digital (Needs Dolby Receiver)  
+• Dual Optical SPIDIF In / Out (Front / Rear)  
+ 
+  
+Video Features  
+ • Integrated nForce2 (8X AGP) 
+• Dual VGA out 
+• S-Video Out  
+ 
+  
+Communication Features 
+ • Wireless LAN 802.11B 
+• 10/100Mbps LAN 
+• 56K Modem 
+ 
+  
+Front Panel Connectivity 
+ • Optical SPIDIF in 
+• Mic-In 
+• Headphone Jack 
+• USB 2.0 x2 
+• IEEE 1394 Firewire x 2 (6 pin and 4 pin)  
+• 6 in 1 Media Card Reader 
+ 
+  
+Rear Panel Connectivity 
+ • Dual VGA 
+• PS2 Keyboard and Mouse 
+• LAN Port (RJ-45) 
+• USB 2.0 x2  
+• Parallel Port 
+• S-Video 
+• Optical SPIDIF Out 
+• Speaker-out / Line-in / Mic – in (5.1ch) 
+• 56K Modem 
+• AGP Slot  
+• PCI Slot 
+ 
+  
+TV Tuner Functions (Optional with MS-8606-040 MEGA TV Tuner Card) 
+ • Free Scan 
+• Time-Shifting 
+• Scheduled Recording (MPEG1, MPEG2, MPEG4) 
+• Channel Preview 
+• Screen Capture 
+• Parental Control 
+• DVD / Photo / Video Authoring Software bundle  
+ 
+  
+Software and Other Features 
+ • Bundled MSI Media Center Deluxe III Software 
+• Microsoft PC 2001 Compliant 
+• Suspend to Ram/Disk Function 
+• Top Tech III (Thermal Overheat Protection Technology) 
+• PC Alert System Hardware Monitor 
+• 250W(PFC 5V/12V SB) Full Range  
+• Dimensions: 202 (w) x 320 (d) x 151 (h) mm 
+ 
+  
+Front View  
+  1. Hi-Fi Power Switch  
+2. Shuttle Controller  
+3. PC Power Switch  
+4. PC Reset  
+5. "Front I/O Cover" Release Button  
+6. Front I/O Cover (Optical SPDIF-In, In, USB, Head-Phone, J1394)  
+7. Mode 
+8. Backward 
+9. Play/Pause 
+10. Forward 
+11. Eject/Stop 
+12. Card Reader  
+ 
+ 
+  
+Rear View  
+  1. Power Jack  
+2. Mouse  
+3. LAN Port  
+4. Parallel Port  
+5. AGP Slot  
+6. PCI Slot  
+7. Radio Antenna Jack  
+8. Phone Jack  
+9. Mic in  
+10. Line-in 
+11. Speaker-out 
+12. SPDIF-out 
+13. S-Video out  
+14. USB 
+15. Keyboard 
+16. VGA1 
+17. VGA2 
+ 
+ 
+ 

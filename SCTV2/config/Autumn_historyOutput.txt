@@ -1,0 +1,85 @@
+
+PsExec v1.94 - Execute processes remotely
+Copyright (C) 2001-2008 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+12/17/2009 3:31:14 PM  - https://login.facebook.com/login.php?login_attempt=1
+12/17/2009 3:31:58 PM Facebook | Home - http://www.facebook.com/home.php?
+12/17/2009 3:32:06 PM K12 Online School - http://online.k12.com/login
+12/17/2009 3:32:38 PM K1ý Login Page - https://login-learn.k12.com/accessui/login.do?__actionName=view
+12/17/2009 3:32:44 PM K1ý Redirecting... Please wait. - https://login-learn.k12.com/accessui/login.do
+12/17/2009 3:32:46 PM  - http://online.k12.com/favicon.ico
+12/17/2009 4:04:38 PM  - https://totalviewstudent.k12.com/cgi-bin/WebObjects/TotalViewStudent.woa/wa/k12KeycodeLogin?pageName=CommCenter&keyCode=O9Q9D9E90989%2D%2DU9N99%2DJ%2DW%2D89J%2DJ%2DU97%2DG9H909F9G909F9I9L%2DU98989F9I9V%2DJ%2D%2D%2DG9D909H989
+12/17/2009 4:04:46 PM K12 My Info Student - https://totalviewstudent.k12.com/cgi-bin/WebObjects/TotalViewStudent.woa/wa/k12KeycodeLogin
+12/17/2009 4:04:46 PM  - https://totalviewstudent.k12.com/favicon.ico
+12/17/2009 4:06:24 PM YouTube - Broadcast Yourself. - http://www.youtube.com/inbox?folder=invites&action_message=1
+12/17/2009 4:23:36 PM YouTube - Playlists - http://www.youtube.com/my_playlists?pi=1&ps=20&sa=0&dm=0&p=5AAC251758FB6F38
+12/17/2009 4:34:06 PM Teachers At Risk ¯ Listening to Music Helps Students Be More Productive in The Classroom Comments Feed - http://www.teachersatrisk.com/2006/09/23/listening-to-music-helps-students-be-more-productive-in-the-classroom/feed
+12/17/2009 4:34:06 PM Atom 0.3 - http://www.teachersatrisk.com/feed/atom
+12/17/2009 4:34:06 PM RSS 2.0 - http://www.teachersatrisk.com/feed
+12/17/2009 4:34:08 PM Listening to Music Helps Students Be More Productive in The Classroom : Teachers At Risk - http://www.teachersatrisk.com/2006/09/23/listening-to-music-helps-students-be-more-productive-in-the-classroom
+12/17/2009 4:41:54 PM History - Unit: New Powers in Asia - Lesson 23807 - http://olsctl.k12.com/apps/printLesson.jsp?mediaURL=http://online.k12.com/media/&lessonURL=http://online.k12.com/curriculum/GRADE_8/SUBJECT_4/UNIT_3504/content_lesson_23807_studentguide.html&studentName=Autumn Lickey&pubFileURL=http://online.k12.com/curriculum/&targetType=0&gender=FEMALE&adultMaterialHeader=&studentMaterialHeader=&printLessonJSPURL=http://olsctl.k12.com/apps/printLesson.jsp
+12/17/2009 5:59:12 PM CheckUpdate - http://vs.mcafeeasap.com/MC/ENU/VS45/CheckUpdate.asp?CompanyKey=04080f0d000a03000e040100&MachineID=bc8f96f7-0e5b-40ef-ac34-d7e2f5407149&G=0&MYCIOAGT=20070306174038&MYUPDATE=20070810095457&VSASAP=20070306174038&MYGETDAT=20091217123913&VSENGINE=20070306174038&EMAILSCN=20070306174038&BOF=20070306174038&PolicyToken=20090707180307590-20091217142708&DATOnly=1
+12/17/2009 6:26:28 PM YouTube - https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3D%252F&hl=en_US&ltmpl=sso
+12/17/2009 6:26:36 PM  - https://www.google.com/accounts/ServiceLoginAuth?service=youtube
+12/17/2009 6:26:46 PM YouTube - Most Discussed Today - http://gdata.youtube.com/feeds/base/standardfeeds/most_discussed?client=ytapi-youtube-index&time=today&v=2
+12/17/2009 6:26:46 PM YouTube - Recently Added - http://gdata.youtube.com/feeds/base/standardfeeds/most_recent?client=ytapi-youtube-index&v=2
+12/17/2009 6:26:46 PM YouTube - Recently Featured - http://gdata.youtube.com/feeds/base/standardfeeds/recently_featured?client=ytapi-youtube-index&v=2
+12/17/2009 6:26:52 PM YouTube - Broadcast Yourself. - http://www.youtube.com/inbox?folder=comments&action_message=1
+12/17/2009 6:27:00 PM RSS - http://gdata.youtube.com/feeds/base/users/AngelCookie1222/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile
+12/17/2009 6:27:10 PM YouTube - AngelCookie1222's Channel - http://www.youtube.com/user/AngelCookie1222
+12/17/2009 6:27:20 PM RSS - http://gdata.youtube.com/feeds/base/users/2010TokioHotel/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile
+12/17/2009 6:27:28 PM YouTube - 2010TokioHotel's Channel - http://www.youtube.com/user/2010TokioHotel
+12/17/2009 6:30:14 PM Outlook Today - outlook:today
+12/17/2009 6:31:18 PM  - outlook:Deleted%20Items
+12/17/2009 6:32:20 PM  - http://www.sundog.net/carolofthechins/flash/card.swf
+12/17/2009 6:38:26 PM  - outlook:00000000A090C61E0EC41E43A60111D4C95F4E7882800000
+12/17/2009 6:41:18 PM  - http://ad-g.doubleclick.net/click;h=v8/3907/0/0/%2a/w;219908875;0-0;0;42108425;3823-300/100;33766306/33784184/1;;~fdr=219996611;0-0;0;38613324;3823-300/100;34453473/34471351/1;;~sscs=%3fhttp://www.youtube.com/thebestofuschallenge
+12/17/2009 6:41:26 PM RSS - http://gdata.youtube.com/feeds/base/users/thebestofuschallenge/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile
+12/17/2009 7:41:10 PM CheckUpdate - http://vs.mcafeeasap.com/MC/ENU/VS45/CheckUpdate.asp?CompanyKey=04080f0d000a03000e040100&MachineID=bc8f96f7-0e5b-40ef-ac34-d7e2f5407149&G=0&MYCIOAGT=20070306174038&MYUPDATE=20070810095457&VSASAP=20070306174038&MYGETDAT=20091217123913&VSENGINE=20070306174038&EMAILSCN=20070306174038&BOF=20070306174038&PolicyToken=20090707180307590-20091217142708
+12/17/2009 7:41:16 PM  - outlook:00000000A090C61E0EC41E43A60111D4C95F4E78E2810000
+12/17/2009 7:41:32 PM New Tab - res://ieframe.dll/tabswelcome.htm
+12/17/2009 7:44:30 PM YouTube - Blog - http://www.youtube.com/rss/global/our_blog.rss
+12/17/2009 7:44:30 PM YouTube - Recently Added - http://gdata.youtube.com/feeds/base/standardfeeds/most_recent?client=ytapi-youtube-index&v=2
+12/17/2009 7:47:36 PM YouTube - Playlists - http://www.youtube.com/my_playlists?pi=0&ps=20&sf=&sa=0&dm=0&p=5AAC251758FB6F38
+12/17/2009 7:47:50 PM Youtube - Playlists of AngelCookie1222 - http://gdata.youtube.com/feeds/base/users/AngelCookie1222/playlists?client=ytapi-youtube-user&v=2
+12/17/2009 7:48:14 PM YouTube - that day lyrics tokio hotelRelated Videos - http://gdata.youtube.com/feeds/base/videos/reX8TxmFdKY/related?client=ytapi-youtube-watch&v=2
+12/17/2009 7:53:46 PM K1ý Online School - http://online.k12.com/login/login.html?keyCode=O9Q9D9E90989--U9N99-J-W-89J-J-U97-G9H909F9G909F9I9L-U98989F9I93-5-J-2929B929H9&tzcode=-25200000|3600000
+12/17/2009 7:58:42 PM Facebook | Home - http://www.facebook.com/?filter=nf
+12/17/2009 8:00:58 PM K12 Online School - http://online.k12.com/login
+12/17/2009 8:00:58 PM K12 Online School - http://online.k12.com/login
+12/17/2009 8:01:04 PM K1ý Login Page - https://login-learn.k12.com/accessui/login.do?__actionName=view
+12/17/2009 8:01:10 PM K1ý Redirecting... Please wait. - https://login-learn.k12.com/accessui/login.do
+12/17/2009 8:06:50 PM YouTube - that day lyrics tokio hotel - http://www.youtube.com/watch?v=reX8TxmFdKY&feature=PlayList&p=5AAC251758FB6F38&index=54
+12/17/2009 8:20:42 PM Super Flair on Facebook - http://apps.facebook.com/superflair/browse.php
+12/17/2009 9:00:00 PM  - http://apps.facebook.com/status-shuffle/index.php?from=side_nav
+12/17/2009 9:00:04 PM YouTube - Tokio Hotel - Humanoid - Track 7 "Pain Of Love" (HQ)Related Videos - http://gdata.youtube.com/feeds/base/videos/ItqYzTsHIVI/related?client=ytapi-youtube-watch&v=2
+12/17/2009 9:00:20 PM Login | Facebook - http://www.facebook.com/login.php?api_key=395278e2c409da1f036e2b0d785d055b&v=1.0&next=http%3A%2F%2Fshuffle-new.experion-apps.com%2Findex.php%3Ffrom%3Dside_nav&canvas=1
+12/17/2009 9:00:34 PM  - https://login.facebook.com/login.php?login_attempt=1&canvas=1
+12/17/2009 9:00:46 PM Status Shuffle on Facebook | Shuffle - http://apps.facebook.com/status-shuffle/index.php?from=side_nav&auth_token=2fee811770122c49373a827e28aa8cb4
+12/17/2009 9:01:14 PM Status Shuffle on Facebook - http://apps.facebook.com/status-shuffle/set_status.php
+12/17/2009 9:04:18 PM YouTube - Tokio Hotel - Humanoid - Track 7 "Pain Of Love" (HQ) - http://www.youtube.com/watch?v=ItqYzTsHIVI&feature=PlayList&p=5AAC251758FB6F38&index=58&playnext=3&playnext_from=PL
+12/17/2009 9:04:28 PM Total Protection for Small Business - Update - myui://Update.htm
+12/17/2009 9:04:30 PM CheckUpdate - http://vs.mcafeeasap.com/MC/ENU/VS45/CheckUpdate.asp?CompanyKey=04080f0d000a03000e040100&MachineID=bc8f96f7-0e5b-40ef-ac34-d7e2f5407149&G=0&MYCIOAGT=20070306174038&MYUPDATE=20070810095457&VSASAP=20070306174038&MYGETDAT=20091217123913&VSENGINE=20070306174038&EMAILSCN=20070306174038&BOF=20070306174038&PolicyToken=20090707180307590-20091217142708
+12/17/2009 9:04:42 PM YouTube - Tokio Hotel - Humanoid - Track 11 "Love  Death" (HQ)Related Videos - http://gdata.youtube.com/feeds/base/videos/_xShgV_c0S0/related?client=ytapi-youtube-watch&v=2
+12/17/2009 9:08:58 PM YouTube - Tokio Hotel - Humanoid - Track 11 "Love & Death" (HQ) - http://www.youtube.com/watch?v=_xShgV_c0S0&feature=PlayList&p=5AAC251758FB6F38&index=59&playnext=4&playnext_from=PL
+12/17/2009 9:09:30 PM YouTube - Tokio Hotel - Humanoid - Track 10 "Hey You" (HQ)Related Videos - http://gdata.youtube.com/feeds/base/videos/0QoUfilvk50/related?client=ytapi-youtube-watch&v=2
+12/17/2009 9:13:04 PM BuddyPoke on Facebook - http://apps.facebook.com/buddypoke
+12/17/2009 9:14:20 PM YouTube - Tokio Hotel - Humanoid - Track 10 "Hey You" (HQ) - http://www.youtube.com/watch?v=0QoUfilvk50&feature=PlayList&p=5AAC251758FB6F38&index=60&playnext=5&playnext_from=PL
+12/17/2009 9:14:40 PM YouTube - Tokio Hotel - Humanoid - Track 9 "Human Connect To Human" (HQ)Related Videos - http://gdata.youtube.com/feeds/base/videos/ALoUVm6nRP8/related?client=ytapi-youtube-watch&v=2
+12/17/2009 9:16:36 PM YouTube - Tokio Hotel - Humanoid - Track 9 "Human Connect To Human" (HQ) - http://www.youtube.com/watch?v=ALoUVm6nRP8&feature=PlayList&p=5AAC251758FB6F38&index=61&playnext=6&playnext_from=PL
+12/17/2009 9:17:14 PM Facebook - http://www.connect.facebook.com/render_fbml.php
+12/17/2009 9:17:22 PM  - http://75.126.76.214/prod_facebook/sisters/sororitywars/skip_helper.php
+12/17/2009 9:19:26 PM YouTube - Tokio Hotel - Humanoid - Track 6 "Forever Now" (HQ)Related Videos - http://gdata.youtube.com/feeds/base/videos/6cfHbzkkK5A/related?client=ytapi-youtube-watch&v=2
+12/17/2009 9:19:54 PM Sorority Life on Facebook - http://apps.facebook.com/sororitylife/index.php?track=bookmark
+12/17/2009 9:36:26 PM YouTube - Tokio Hotel - Humanoid - Track 6 "Forever Now" (HQ) - http://www.youtube.com/watch?v=6cfHbzkkK5A&feature=PlayList&p=5AAC251758FB6F38&index=62&playnext=7&playnext_from=PL
+12/17/2009 9:36:48 PM YouTube - Tokio Hotel - Humanoid - Track 5 "Humanoid" (HQ)Related Videos - http://gdata.youtube.com/feeds/base/videos/GgUSGwH9zr0/related?client=ytapi-youtube-watch&v=2
+12/17/2009 9:36:56 PM Facebook | Home - http://www.facebook.com/home.php?ref=home
+12/17/2009 9:39:24 PM YouTube - Tokio Hotel - Humanoid - Track 5 "Humanoid" (HQ) - http://www.youtube.com/watch?v=GgUSGwH9zr0&feature=PlayList&p=5AAC251758FB6F38&index=63&playnext=8&playnext_from=PL
+12/17/2009 9:39:32 PM YouTube - Tokio Hotel - Humanoid - Track 2 "Darkside Of The Sun" (HQ)Related Videos - http://gdata.youtube.com/feeds/base/videos/mWgSxcubB5s/related?client=ytapi-youtube-watch&v=2
+12/17/2009 9:40:28 PM YouTube - Tokio Hotel - Humanoid - Track 2 "Darkside Of The Sun" (HQ) - http://www.youtube.com/watch?v=mWgSxcubB5s&feature=PlayList&p=5AAC251758FB6F38&index=64
+12/17/2009 9:40:34 PM YouTube - Tokio Hotel - Humanoid - Track 8 "Dogs Unleashed" (HQ)Related Videos - http://gdata.youtube.com/feeds/base/videos/gM6A9BohR3Q/related?client=ytapi-youtube-watch&v=2
+12/17/2009 9:40:36 PM Facebook | Home - http://www.facebook.com/home.php?filter=nf
+12/17/2009 9:40:36 PM YouTube - Tokio Hotel - Humanoid - Track 8 "Dogs Unleashed" (HQ) - http://www.youtube.com/watch?v=gM6A9BohR3Q&feature=PlayList&p=5AAC251758FB6F38&index=65
+Connecting to carly...                                                                              Starting PsExec service on carly...                                                                              Connecting with PsExec service on carly...                                                                              Copying \\fileserver\published projects\browserHistory\browserhistory.exe to carly...                                                                              Starting \\fileserver\published projects\browserHistory\browserhistory.exe on carly...                                                                              
+browserhistory.exe exited on carly with error code 0.

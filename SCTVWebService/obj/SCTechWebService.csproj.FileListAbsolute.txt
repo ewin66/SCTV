@@ -1,0 +1,14 @@
+C:\utilities\programming\SCTV\SCTVWebService\bin\SCTVWebService.dll
+C:\utilities\programming\SCTV\SCTVWebService\bin\SCTVWebService.pdb
+C:\utilities\programming\SCTV\SCTVWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\SCTV\SCTVWebService\obj\Debug\SCTVWebService.dll
+C:\utilities\programming\SCTV\SCTVWebService\obj\Debug\SCTVWebService.pdb
+C:\utilities\programming\SCTV\SCTVWebService\bin\SCTVUtilities.dll
+C:\utilities\programming\SCTV\SCTVWebService\bin\SCTVUtilities.pdb
+C:\utilities\programming\projects\SCTV\SCTVWebService\bin\SCTVWebService.dll
+C:\utilities\programming\projects\SCTV\SCTVWebService\bin\SCTVWebService.pdb
+C:\utilities\programming\projects\SCTV\SCTVWebService\bin\SCTVUtilities.dll
+C:\utilities\programming\projects\SCTV\SCTVWebService\bin\SCTVUtilities.pdb
+C:\utilities\programming\projects\SCTV\SCTVWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV\SCTVWebService\obj\Debug\SCTVWebService.dll
+C:\utilities\programming\projects\SCTV\SCTVWebService\obj\Debug\SCTVWebService.pdb

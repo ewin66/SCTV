@@ -1,0 +1,15 @@
+
+I'm trying to use libvlcnet to playback a video and display audio visualizations too. For this reason, I added the following command line parameters:
+--audio-visual=visual
+--effect-list=scope
+
+no matter what the effect-list is, "visual" will always cause the application to crash with a win32 exception that is impossible to catch, while "goom" just works fine, with the goom output overlayed on the normal video output.
+If I run VLC from dos prompt using the exact same command line parameters, it works fine with both visual and goom, always displaying the audio visualization in a separate window.
+
+I assume that when I run VLC from my C# application using libvlcnet, it "tries" to fit both the video output and the audio visualization output on the same picture box, i.e. not in a separate window. Is there any way to change this behaviour in order to get the audio visualization output on another windows or picture box?
+
+
+
+
+
+vlc <input> --audio-visual visual --effect-list spectrum

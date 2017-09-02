@@ -1,0 +1,14 @@
+<Channels>
+  <channel>
+    <name>clickey</name>
+    <password>sctv</password>
+    <streamKey>live_7292794_3tdoPRg1</streamKey>
+    <inUse>false</inUse>
+  </channel>
+  <channel>
+    <name>justin1010</name>
+    <password>sctv</password>
+    <streamKey>live_15399080_jAc7w3mH4Q0IQCW1QStNgjXyekc98f</streamKey>
+    <inUse>false</inUse>
+  </channel>
+</Channels>

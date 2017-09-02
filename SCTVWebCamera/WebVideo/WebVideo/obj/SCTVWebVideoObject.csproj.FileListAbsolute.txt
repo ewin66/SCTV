@@ -1,0 +1,10 @@
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\bin\Debug\WebVideo.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\bin\Debug\WebVideo.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\obj\Debug\WebVideo.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\obj\Debug\WebVideo.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\bin\Release\WebVideo.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\bin\Release\WebVideo.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\obj\Release\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\obj\Release\WebVideo.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebCamera\WebVideo\WebVideo\obj\Release\WebVideo.pdb

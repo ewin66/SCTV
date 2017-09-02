@@ -1,0 +1,64 @@
+﻿<!-- 409 = american english -->
+<GRAMMAR LANGID="409">
+  <DEFINE>
+    <ID NAME="RID_Close" VAL="2"></ID>
+    <ID NAME="RID_shuffle" VAL="3"></ID>
+    <ID NAME="RID_Play" VAL="4"></ID>
+    <ID NAME="RID_scroll" VAL="7"></ID>
+    <ID NAME="RID_turnOnAgent" VAL="11"></ID>
+    <ID NAME="RID_turnOffAgent" VAL="12"></ID>
+    <ID NAME="RID_startsWith" VAL="14"></ID>
+    <ID NAME="RID_titleSearch" VAL="15"></ID>
+    <ID NAME="RID_media" VAL="16"></ID>
+    <ID NAME="RID_mediaVerbs" VAL="17"></ID>
+  </DEFINE>
+  
+  <RULE NAME="mediaVerbs" ID="RID_mediaVerbs">
+    <L>
+      <P>play</P>
+      <P>show me</P>
+      <P>show</P>
+      <P>display</P>
+      <P>find</P>
+    </L>
+  </RULE>
+
+  <RULE NAME="scroll" ID="RID_scroll" TOPLEVEL="ACTIVE">
+    <!--RULEREF NAME="ComputerName" URL="XMLMain.xml" /-->
+    <L>
+      <P>scroll left</P>
+      <P>scroll right</P>
+      <P>scroll up</P>
+      <P>scroll down</P>
+      <P>scroll stop</P>
+      <P>left</P>
+      <P>right</P>
+      <P>up</P>
+      <P>down</P>
+      <P>stop</P>
+    </L>
+  </RULE>
+  <RULE NAME="playPause" ID="RID_Play" TOPLEVEL="ACTIVE">
+    <L>
+      <P>play</P>
+    </L>
+  </RULE>
+  <RULE NAME="shuffle" ID="RID_shuffle" TOPLEVEL="ACTIVE">
+    <P>shuffle</P>
+  </RULE>
+  <RULE NAME="Close" ID="RID_Close" TOPLEVEL="ACTIVE">
+    <P>close</P>
+  </RULE>
+  <RULE NAME="turnOnAgent" ID="RID_turnOffAgent" TOPLEVEL="ACTIVE">
+    <P>activate character</P>
+  </RULE>
+  <RULE NAME="turnOffAgent" ID="RID_turnOnAgent" TOPLEVEL="ACTIVE">
+    <P>deactivate character</P>
+  </RULE>
+  <RULE NAME="startsWith" ID="RID_startsWith" TOPLEVEL="ACTIVE">
+    <P>starts with</P>
+  </RULE>
+  <RULE NAME="titleSearch" ID="RID_titleSearch" TOPLEVEL="ACTIVE">
+    <P>title search</P>
+  </RULE>
+</GRAMMAR>

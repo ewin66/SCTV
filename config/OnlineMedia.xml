@@ -1,0 +1,210 @@
+﻿<mediaTypes>
+  <type>
+    <name>Hulu</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>TV</category>
+    <description>Online Movies and TV</description>
+    <url>www.hulu.com/browse/alphabetical/episode</url>
+    <coverImage>/images/OnlineMedia/Hulu.jpg</coverImage>
+  </type>
+  <type>
+    <name>Hulu</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Movies</category>
+    <description>Online Movies and TV</description>
+    <url>www.hulu.com/browse/alphabetical/feature_film</url>
+    <coverImage>/images/OnlineMedia/Hulu.jpg</coverImage>
+  </type>
+  <type>
+    <name>JustinTV</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Movies / TV</category>
+    <description>Online Movies and TV</description>
+    <url>www.justin.tv/directory/entertainment</url>
+    <coverImage>/images/OnlineMedia/JustinTV.jpg</coverImage>
+  </type>
+  <type>
+    <name>JustinTV</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Sports</category>
+    <description>Online Sports Events</description>
+    <url>www.justin.tv/directory/sports</url>
+    <coverImage>/images/OnlineMedia/JustinTV.jpg</coverImage>
+  </type>
+  <type>
+    <name>JustinTV</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>News</category>
+    <description>Online News</description>
+    <url>www.justin.tv/directory/news</url>
+    <coverImage>/images/OnlineMedia/JustinTV.jpg</coverImage>
+  </type>
+    <type>
+      <name>Fancast</name>
+      <mediaCategory>Online</mediaCategory>
+      <category>Movies / TV</category>
+      <description>Online Movies and TV</description>
+      <url>www.fancast.com</url>
+      <coverImage>/images/OnlineMedia/Fancast.jpg</coverImage>
+  </type>
+  <type>
+    <name>iTunes</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Music</category>
+    <description>Online Music</description>
+    <url>www.itunes.com</url>
+    <coverImage>/images/OnlineMedia/iTunes.jpg</coverImage>
+  </type>
+  <type>
+    <name>Pandora</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Music</category>
+    <description>Online Radio</description>
+    <url>www.pandora.com</url>
+    <coverImage>/images/OnlineMedia/pandora.jpg</coverImage>
+  </type>
+  <type>
+    <name>Joost</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>TV / Movies</category>
+    <description>Online TV</description>
+    <url>www.joost.com</url>
+    <coverImage>/images/OnlineMedia/Joost.jpg</coverImage>
+  </type>
+  <type>
+    <name>BillboardLive</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Concerts</category>
+    <description>Online Concerts</description>
+    <url>www.billboardlive.com</url>
+    <coverImage>/images/OnlineMedia/BillboardLive.jpg</coverImage>
+  </type>
+  <type>
+    <name>YouTube</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Video / Networking / Movies / TV</category>
+    <description>Online Video</description>
+    <url>www.youtube.com</url>
+    <coverImage>/images/OnlineMedia/YouTube.jpg</coverImage>
+  </type>
+  <type>
+    <name>MiniClip</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Games</category>
+    <description>Online Games</description>
+    <url>www.miniclip.com/games/en/</url>
+    <coverImage>/images/OnlineMedia/MiniClip.jpg</coverImage>
+  </type>
+  <type>
+    <name>Games Games</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Games</category>
+    <description>Online Games</description>
+    <url>www.gamesgames.com</url>
+    <coverImage>/images/OnlineMedia/GamesGames.jpg</coverImage>
+  </type>
+  <type>
+    <name>Addicting Games</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Games</category>
+    <description>Online Games</description>
+    <url>www.addictinggames.com/index.html</url>
+    <coverImage>/images/OnlineMedia/AddictingGames.jpg</coverImage>
+  </type>
+  <type>
+    <name>Hathi Trust Library</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Library</category>
+    <description>Online Digital Library</description>
+    <url>catalog.hathitrust.org/</url>
+    <coverImage>/images/OnlineMedia/HathiTrust.gif</coverImage>
+  </type>
+  <type>
+    <name>Dictionary</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Library / Office</category>
+    <description>Online Dictionary</description>
+    <url>http://dictionary.reference.com/</url>
+    <coverImage>/images/OnlineMedia/dictionary.jpg</coverImage>
+  </type>
+  <type>
+    <name>Thesaurus</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Library / Office</category>
+    <description>Online Thesaurus</description>
+    <url>http://thesaurus.reference.com/</url>
+    <coverImage>/images/OnlineMedia/Thesaurus.jpg</coverImage>
+  </type>
+  <type>
+    <name>Encyclopedia</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Library / Office</category>
+    <description>Online Encyclopedia</description>
+    <url>http://www.reference.com/</url>
+    <coverImage>/images/OnlineMedia/Encyclopedia.jpg</coverImage>
+  </type>
+  <type>
+    <name>Tanslator</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Library / Office</category>
+    <description>Online Tanslator</description>
+    <url>http://translate.reference.com/</url>
+    <coverImage>/images/OnlineMedia/Tanslator.png</coverImage>
+  </type>
+  <type>
+    <name>Veoh</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Movies / TV</category>
+    <description>Online TV's and Movies</description>
+    <url>http://Veoh.com/</url>
+    <coverImage>/images/OnlineMedia/Veoh.gif</coverImage>
+  </type>
+  <type>
+    <name>Google</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Movies / TV</category>
+    <description>Online TV's and Movies</description>
+    <url>http://video.google.com/</url>
+    <coverImage>/images/OnlineMedia/google.jpg</coverImage>
+  </type>
+  <type>
+    <name>Slacker</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Music</category>
+    <description>Online Radio Stations</description>
+    <url>http://slacker.com/</url>
+    <coverImage>/images/OnlineMedia/slacker.jpg</coverImage>
+  </type>
+  <type>
+    <name>ESPN</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Sports</category>
+    <description>Online Sports</description>
+    <url>http://expn.com/</url>
+    <coverImage>/images/OnlineMedia/espn.jpg</coverImage>
+  </type>
+  <type>
+    <name>NBA</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Sports</category>
+    <description>Online basketball</description>
+    <url>http://nba.com/</url>
+    <coverImage>/images/OnlineMedia/nba.jpg</coverImage>
+  </type>
+  <type>
+    <name>MySpace</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Networking</category>
+    <description>Keep in touch with friends and family</description>
+    <url>www.myspace.com</url>
+    <coverImage>/images/OnlineMedia/myspace.jpg</coverImage>
+  </type>
+  <type>
+    <name>FaceBook</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Networking</category>
+    <description>Keep in touch with friends and family</description>
+    <url>www.facebook.com</url>
+    <coverImage>/images/OnlineMedia/facebook.jpg</coverImage>
+  </type>
+</mediaTypes>

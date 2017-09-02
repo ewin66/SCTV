@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FTP24CP.Form1.resources
+obj\Debug\FTP24CP.Properties.Resources.resources
+obj\Debug\FTP24CP.csproj.GenerateResource.Cache
+bin\Debug\FTP24CP.exe
+bin\Debug\FTP24CP.pdb
+obj\Debug\FTP24CP.exe
+obj\Debug\FTP24CP.pdb

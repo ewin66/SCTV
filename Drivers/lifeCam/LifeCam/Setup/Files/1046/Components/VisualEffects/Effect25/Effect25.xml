@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="710C1E70-A61D-43FB-B421-CF3FCDF2D9CF" 
+		Name="Effect25" 
+		Description="Caramujo" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect25\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect25\config.ver"/>
+	</EffectList>
+</Root>

@@ -1,0 +1,7 @@
+C:\utilities\programming\examples\trackbar\MAC_Slider_src\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+C:\utilities\programming\examples\trackbar\MAC_Slider_src\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+C:\utilities\programming\examples\trackbar\MAC_Slider_src\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\examples\trackbar\MAC_Slider_src\MACTrackBarLib\obj\Debug\EConTech.Windows.MACUI.MACTrackBar.resources
+C:\utilities\programming\examples\trackbar\MAC_Slider_src\MACTrackBarLib\obj\Debug\MACTrackBarLib.csproj.GenerateResource.Cache
+C:\utilities\programming\examples\trackbar\MAC_Slider_src\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+C:\utilities\programming\examples\trackbar\MAC_Slider_src\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb

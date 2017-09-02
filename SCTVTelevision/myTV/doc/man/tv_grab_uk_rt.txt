@@ -1,0 +1,72 @@
+NAME
+    tv_grab_uk_rt - Grab TV listings for the United Kingdom, from an
+    alternative source.
+
+SYNOPSIS
+    tv_grab_uk_rt --help
+
+    tv_grab_uk_rt [--config-file FILE] --configure
+
+    tv_grab_uk_rt [--config-file FILE] [--output FILE] [--quiet] [--days N]
+    [--offset N] [--slow [--limit-details HH:MM-HH:MM] --get-categories]
+
+DESCRIPTION
+    Output TV and radio listings in XMLTV format for many stations available
+    in Britain. The data comes from the Radio Times website.
+
+USAGE
+    First you must run tv_grab_uk_rt --configure to choose which stations
+    you want to receive. Then running tv_grab_uk_rt with no arguments will
+    get about a fortnight's listings for the stations you chose.
+
+    --configure Prompt for which stations to download and write the
+    configuration file.
+
+    --config-file FILE Set the name of the configuration file, the default
+    is ~/.xmltv/tv_grab_uk_rt.conf. This is the file written by --configure
+    and read when grabbing.
+
+    --output FILE When grabbing, write output to FILE rather than standard
+    output.
+
+    --days N When grabbing, grab N days rather than as many as possible.
+
+    --offset N Start grabbing at today + N. N may be negative.
+
+    --slow Fetch additional details for each programme. This requires one
+    extra web page fetch per programme, so use with care.
+
+    --limit-details HH:MM-HH:MM (use with --slow) Limit the additional
+    details fetched for programmes by checking that the start time falls
+    within the specified time range, which must be specified in 24-hour
+    clock, eg: 16:00-02:00. This can significantly reduce the number of web
+    page fetches.
+
+    --get-categories (use with --slow) Attempt to find out the category each
+    program is in. This requires another web page get per category per day,
+    so it can really slow down the grab.
+
+    --quiet suppress the progress messages normally written to standard
+    error.
+
+    --help print a help message and exit.
+
+SEE ALSO
+    xmltv(5), tv_grab_uk(1), <http://www.radiotimes.beeb.com/>
+
+AUTHOR
+    Ed Avis, ed@membled.com
+
+BUGS
+    The website parsing isn't perfect and there will often be warning
+    messages about bits of HTML that aren't understood. Some of the details
+    provided by the site have to be thrown away because they cannot be
+    accommodated in the XMLTV format; again, warning messages are printed.
+
+    Rather than the all-or-nothing --slow mode, it would be better to fetch
+    the details only for those programmes that are interesting, in some kind
+    of two-pass grabbing.
+
+    There is code to find out the 'categories' given for each programme, but
+    that involves even more page fetches so it is disabled at present.
+

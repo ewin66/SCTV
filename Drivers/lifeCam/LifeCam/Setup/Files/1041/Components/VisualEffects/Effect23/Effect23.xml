@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="9BB58221-3417-42B9-9350-00D11BF48FB9" 
+		Name="Effect23" 
+		Description="ウサギ" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect23\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect23\config.ver"/>
+	</EffectList>
+</Root>

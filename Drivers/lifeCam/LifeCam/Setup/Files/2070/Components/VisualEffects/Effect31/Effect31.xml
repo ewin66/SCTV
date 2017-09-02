@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="7CD2198B-082B-458B-BC3F-82FFD618CFEE" 
+		Name="Effect31" 
+		Description="Pizza" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect31\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect31\config.ver"/>
+	</EffectList>
+</Root>

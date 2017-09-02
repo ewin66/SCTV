@@ -1,0 +1,20 @@
+<Cameras>
+  <camera>
+    <name>Integrated Webcam</name>
+    <monikerString>@device:pnp:\\?\usb#vid_0408&amp;pid_2fb1&amp;mi_00#7&amp;263fd7d3&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global</monikerString>
+    <frameSize />
+    <frameRate />
+    <channelName>clickey</channelName>
+    <streamKey>live_7292794_3tdoPRg1</streamKey>
+    <filterName>Integrated Webcam</filterName>
+  </camera>
+  <camera>
+    <name>VDP Source</name>
+    <monikerString>@device:sw:{860BB310-5D01-11D0-BD3B-00A0C911CE86}\{8E14549A-DB61-4309-AFA1-3578E927E933}</monikerString>
+    <frameSize />
+    <frameRate />
+    <channelName>clickey</channelName>
+    <streamKey>live_7292794_3tdoPRg1</streamKey>
+    <filterName>VDP Source</filterName>
+  </camera>
+</Cameras>

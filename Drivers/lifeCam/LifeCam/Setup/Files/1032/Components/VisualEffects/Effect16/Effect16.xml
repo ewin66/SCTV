@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="F0E59F3C-A9CE-4301-802A-9D08395E0E25"
+		Name="Effect16"
+		Description="Winter"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect16\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect16\config.ver"/>
+	</EffectList>
+</Root>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<DeviceInfo>
+	<Project ProjectName="AVerMedia TV Series">
+		
+		<ExistInstall InstallType="MCS">
+			<Count>3</Count>
+			<Rect1>404,105,572,144</Rect1>
+			<Rect2>418,169,572,203</Rect2>
+			<Rect3>426,226,512,260</Rect3>
+			<AP1>setup.exe</AP1>
+                                                <AP2>BrowseCD</AP2> 
+			<AP3>exit</AP3>
+			<BKBMP>Image\AutoRun.bmp</BKBMP>
+			<FKBMP>Image\AutoRun1.bmp</FKBMP>
+		</ExistInstall>
+		
+	</Project>
+	
+</DeviceInfo>

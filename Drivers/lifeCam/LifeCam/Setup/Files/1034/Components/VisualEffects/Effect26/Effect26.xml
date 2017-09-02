@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="7D37FC5B-0C98-4D28-B1F2-512788FE5E95" 
+		Name="Effect26" 
+		Description="Tambores" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect26\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect26\config.ver"/>
+	</EffectList>
+</Root>

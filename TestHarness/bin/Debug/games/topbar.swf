@@ -1,0 +1,22 @@
+<html>
+
+<head>
+<title>About Flash</title>
+<meta name="forwarder" content="pbs.dnsix.att">
+<meta name="description" content="Macromedia Flash Training Resource Center">
+<meta name="keywords" content="Macromedia Flash, Training, Resource Center, tutorials">
+</head>
+
+<frameset rows="100%,*" framespacing="0" border="0">
+  <frame frameborder="0" name="MYTOPFRAME" src="http://209.151.78.1/~about7/topbar.swf" noresize="noresize">
+  <noframes>
+    <body>
+      About Flash<br>
+      Macromedia Flash Training Resource Center<br>
+      Macromedia Flash, Training, Resource Center, tutorials<br>
+      <a href="http://209.151.78.1/~about7/topbar.swf">Enter Here</a><hr>
+      | Free Domain Name Registration and Free Domain Name Forwarding by <a href="http://www.MyDomain.com">MyDomain.com - Register your domain name.</a>
+    </body>
+  </noframes>
+</frameset>
+</html>

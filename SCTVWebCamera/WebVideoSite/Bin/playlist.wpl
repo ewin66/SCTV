@@ -1,0 +1,18 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5230"/>
+        <meta name="AverageRating" content="59"/>
+        <meta name="TotalDuration" content="5100"/>
+        <meta name="ItemCount" content="19"/>
+        <title>test1</title>
+    </head>
+    <body>
+        <seq>
+            <media src="C:\\utilities\\programming\\examples\\aviPlayer\\sample3\\WebVideoTest\\video\\test_1.avi"/>
+            <media src="C:\\utilities\\programming\\examples\\aviPlayer\\sample3\\WebVideoTest\\video\\test_2.avi"/>
+            <media src="C:\\utilities\\programming\\examples\\aviPlayer\\sample3\\WebVideoTest\\video\\test_3.avi"/>
+	<media src="C:\\utilities\\programming\\examples\\aviPlayer\\sample3\\WebVideoTest\\video\\test_4.avi"/>
+        </seq>
+    </body>
+</smil>

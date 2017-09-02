@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="F9529E9E-D75F-417D-BF61-51593C9C221B"
+		Name="Effect12"
+		Description="Blooming Flower"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect12\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect12\config.ver"/>
+	</EffectList>
+</Root>

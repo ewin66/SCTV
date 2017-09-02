@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8BF61093-64DD-47CF-9BA9-941D3349F6D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SCTVCamera</RootNamespace>
+    <AssemblyName>SCTVCamera</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=1.2.0.0, Culture=neutral, PublicKeyToken=75f8e82c5042a70f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=1.2.0.0, Culture=neutral, PublicKeyToken=38eb47741dd0492e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math, Version=1.2.0.0, Culture=neutral, PublicKeyToken=e12ceb15b47eb5cc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="DShowNET, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\examples\videoCapture\2\DirectX.Capture\bin\Debug\DShowNET.dll</HintPath>
+    </Reference>
+    <Reference Include="InstallerBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Common\InstallerBase.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Camera.cs" />
+    <Compile Include="cameraAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cameraAdmin.Designer.cs">
+      <DependentUpon>cameraAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cameraControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="cameraControl.Designer.cs">
+      <DependentUpon>cameraControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cameraDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cameraDisplay.Designer.cs">
+      <DependentUpon>cameraDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CameraWindow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMotionDetector.cs" />
+    <Compile Include="MotionDetector1.cs" />
+    <Compile Include="MotionDetector2.cs" />
+    <Compile Include="MotionDetector3.cs" />
+    <Compile Include="MotionDetector3Optimized.cs" />
+    <Compile Include="MotionDetector4.cs" />
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cameraAdmin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cameraAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cameraControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cameraControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cameraDisplay.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cameraDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CameraWindow.resx">
+      <DependentUpon>CameraWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCTVCameraMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SCTVCameraMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="URLForm.resx">
+      <DependentUpon>URLForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VLCCameraDisplay.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>VLCCameraDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SCTVCameraMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCTVCameraMain.Designer.cs">
+      <DependentUpon>SCTVCameraMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SecurityCamera.cs" />
+    <Compile Include="URLForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VideoSource\ByteArrayUtils.cs" />
+    <Compile Include="VideoSource\CameraEvents.cs" />
+    <Compile Include="VideoSource\IVideoSource.cs" />
+    <Compile Include="VideoSource\JPEGStream.cs" />
+    <Compile Include="VideoSource\MJPEGStream.cs" />
+    <Compile Include="VLCCameraDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VLCCameraDisplay.Designer.cs">
+      <DependentUpon>VLCCameraDisplay.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App.ico" />
+    <None Include="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="config\Cameras.xml" />
+    <None Include="config\speech\vocab\xmlCameras.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="Resources\1.gif" />
+    <Content Include="Resources\2.gif" />
+    <Content Include="Resources\3.gif" />
+    <Content Include="Resources\4.gif" />
+    <Content Include="Resources\5.gif" />
+    <Content Include="Resources\6.gif" />
+    <Content Include="Resources\7.gif" />
+    <Content Include="Resources\8.gif" />
+    <Content Include="Resources\9.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DirectX.Capture\DirectX.Capture.csproj">
+      <Project>{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}</Project>
+      <Name>DirectX.Capture</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Objects\SCTVObjects.csproj">
+      <Project>{0F15BE7D-D1BE-4EA8-A57A-F9FA41AB4A4D}</Project>
+      <Name>SCTVObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVFTP\SCTVFTP.csproj">
+      <Project>{B8540641-C487-457A-8718-8D770B7C4A48}</Project>
+      <Name>SCTVFTP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVSpeech\SCTVSpeech.csproj">
+      <Project>{47CD4E1A-E8E4-4295-B7CE-385AE70B3CB0}</Project>
+      <Name>SCTVSpeech</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVUtilities\SCTechUtilities.csproj">
+      <Project>{D4310F40-D400-49EA-B044-F1043F8331C6}</Project>
+      <Name>SCTechUtilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Video\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

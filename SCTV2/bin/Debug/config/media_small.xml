@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<mediaFiles>
+  <media>
+    <title>Bangkok Dangerous (2008)</title>
+    <previousTitle>Bangkok Dangerous</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>violence, language and some sexuality.</ratingDescription>
+    <description>There's only one way out.</description>
+    <stars />
+    <category>Action / Crime / Thriller</category>
+    <timesPlayed>1</timesPlayed>
+    <filePath>C:\Movies\Bangkok_Dangerous.CEL</filePath>
+    <grammar>Bangkok Dangerous (2008)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0814022.jpg</coverImage>
+    <IMDBNum>tt0814022</IMDBNum>
+    <SortBy />
+    <LastPlayed />
+    <MediaType>Movie</MediaType>
+  </media>
+  <media>
+    <title>Friday the 13th (2009)</title>
+    <previousTitle>FRIDA Y TH E 13T H KILLERCU T</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong bloody violence, some graphic sexual content, language and drug material.; Rated R for strong bloody violence, some graphic sexual content, nudity, language and drug material. (killer cut)</ratingDescription>
+    <description>Welcome to Crystal Lake</description>
+    <stars />
+    <category>Horror</category>
+    <Director>Marcus Nispel</Director>
+    <ReleaseYear>2009</ReleaseYear>
+    <DateAdded>7/22/2009</DateAdded>
+    <timesPlayed />
+    <filePath>C:\Movies\FRIDAY_THE_13TH_KILLERCUT.ISO</filePath>
+    <grammar>Friday the 13th (2009)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0758746.jpg</coverImage>
+    <IMDBNum>tt0758746</IMDBNum>
+    <SortBy />
+    <LastPlayed />
+    <MediaType>TV</MediaType>
+  </media>
+  <media>
+    <title>Kate &amp; Leopold (2001)</title>
+    <previousTitle>KAT E AN D LEOPOL D</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>brief strong language.</ratingDescription>
+    <description>If they lived in the same century they'd be perfect for each other.</description>
+    <stars />
+    <category>Comedy / Fantasy / Romance</category>
+    <Director>James Mangold</Director>
+    <ReleaseYear>2001</ReleaseYear>
+    <DateAdded>6/16/2009</DateAdded>
+    <timesPlayed />
+    <filePath>C:\Movies\KATE_AND_LEOPOLD.ISO</filePath>
+    <grammar>Kate &amp; Leopold (2001)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0035423.jpg</coverImage>
+    <IMDBNum>tt0035423</IMDBNum>
+    <SortBy />
+    <LastPlayed />
+    <MediaType>Music</MediaType>
+  </media>
+  <media>
+    <title>Spider-Man (2002)</title>
+    <previousTitle>Spiderman2</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>stylized violence and action.</ratingDescription>
+    <description>With great power comes great responsibility.</description>
+    <stars />
+    <category>Action / Sci-Fi / Thriller</category>
+    <timesPlayed>8</timesPlayed>
+    <filePath>C:\Movies\spiderman2.avi</filePath>
+    <grammar>Spider-Man (2002)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0145487.jpg</coverImage>
+    <IMDBNum>tt0145487</IMDBNum>
+    <SortBy />
+    <LastPlayed />
+    <MediaType>Movie</MediaType>
+  </media>
+</mediaFiles>

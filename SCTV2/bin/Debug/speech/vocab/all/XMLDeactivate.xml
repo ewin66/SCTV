@@ -1,0 +1,33 @@
+<GRAMMAR LANGID="409">
+	<DEFINE>
+		<ID NAME="RID_Deactivate" VAL="0"></ID>
+		<ID NAME="RID_Escape" VAL="6"></ID>
+		<ID NAME="RID_TV" VAL="13"></ID>
+		<ID NAME="RID_mediaLibrary" VAL="14"></ID>
+		<ID NAME="RID_king" VAL="15"></ID>
+		<ID NAME="RID_turnOffAgent" VAL="11"></ID>
+		<ID NAME="RID_turnOnAgent" VAL="12"></ID>
+	</DEFINE>
+
+	<RULE NAME="Deactivate" ID="RID_Deactivate" TOPLEVEL="ACTIVE">
+		<P>sctv deactivate</P>
+	</RULE>
+	<RULE NAME="Escape" ID="RID_Escape" TOPLEVEL="ACTIVE">
+		<P>close</P>
+	</RULE>
+	<RULE NAME="TV" ID="RID_TV" TOPLEVEL="ACTIVE">
+		<P>television</P>
+	</RULE>
+	<RULE NAME="mediaLibrary" ID="RID_mediaLibrary" TOPLEVEL="ACTIVE">
+		<P>media library</P>
+	</RULE>
+	<RULE NAME="turnOnAgent" ID="RID_turnOnAgent" TOPLEVEL="ACTIVE">
+		<P>turn character on</P>
+	</RULE>
+	<RULE NAME="turnOnAgent" ID="RID_turnOffAgent" TOPLEVEL="ACTIVE">
+		<P>turn character off</P>
+	</RULE>
+	<RULE NAME="king" ID="RID_king" TOPLEVEL="ACTIVE">
+		<P>who is the master</P>
+	</RULE>
+</GRAMMAR>

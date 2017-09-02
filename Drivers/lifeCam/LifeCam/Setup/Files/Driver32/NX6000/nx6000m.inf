@@ -1,0 +1,155 @@
+;==========================================================================
+; USB PC Cameras with Microphone (NX6000, NX3000, VX7000) INF
+; (c) 2007 Microsoft Corporation
+; Last modified: 02/27/2007
+;==========================================================================
+
+
+
+[Version]
+Signature="$CHICAGO$"
+Class=MEDIA
+ClassGUID={4d36e96c-e325-11ce-bfc1-08002be10318}
+Provider=%Microsoft%
+LayoutFile=layout.inf
+CatalogFile.NT = NX6000m.cat
+DriverVer = 12/13/2006,6.0.6001.2
+
+[Manufacturer]
+%Microsoft.Mfg%=Microsoft.Section, NTx86.5.1, NTx86.6.0
+
+;============================================================================
+[ControlFlags]
+ExcludeFromSelect = *
+
+[Microsoft.Section.NTx86.5.1]
+%USB\VID_045E&PID_00F8&MI_02.DeviceDesc%=USBMic.Microsoft.XP,USB\VID_045E&PID_00F8&MI_02
+%USB\VID_045E&PID_0721&MI_02.DeviceDesc%=USBMic3000.Microsoft.XP,USB\VID_045E&PID_0721&MI_02
+%USB\VID_045E&PID_0723&MI_02.DeviceDesc%=USBMic7000.Microsoft.XP,USB\VID_045E&PID_0723&MI_02
+
+[Microsoft.Section.NTx86.6.0]
+%USB\VID_045E&PID_00F8&MI_02.DeviceDesc%=USBMic.Microsoft.XP,USB\VID_045E&PID_00F8&MI_02
+%USB\VID_045E&PID_0721&MI_02.DeviceDesc%=USBMic3000.Microsoft.XP,USB\VID_045E&PID_0721&MI_02
+%USB\VID_045E&PID_0723&MI_02.DeviceDesc%=USBMic7000.Microsoft.XP,USB\VID_045E&PID_0723&MI_02
+
+[DestinationDirs]
+
+[SourceDisksNames]
+
+[SourceDisksFiles]
+
+;============================================================================
+
+[USBMic.Microsoft.XP]
+Include=wdma_usb.inf,ks.inf,wdmaudio.inf
+Needs = USBMic, KS.Registration, WDMAudio.Registration
+AddReg = USBMic.Microsoft.Addreg
+
+[USBMic3000.Microsoft.XP]
+Include=wdma_usb.inf,ks.inf,wdmaudio.inf
+Needs = USBMic, KS.Registration, WDMAudio.Registration
+AddReg = USBMic.Microsoft.Addreg
+
+[USBMic7000.Microsoft.XP]
+Include=wdma_usb.inf,ks.inf,wdmaudio.inf
+Needs = USBMic, KS.Registration, WDMAudio.Registration
+AddReg = USBMic.Microsoft.Addreg
+
+;============================================================================
+[USBMic.Microsoft.Addreg]
+HKR,,IgnoreHWString,0x10001,0x01
+
+;============================================================================
+
+[USBMic.Microsoft.XP.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,"GLOBAL",USBAudio.Interface.Microsoft,
+AddInterface=%KSCATEGORY_RENDER%,"GLOBAL",USBAudio.Interface.Microsoft,
+AddInterface=%KSCATEGORY_CAPTURE%,"GLOBAL",USBAudio.Interface.Microsoft,
+
+[USBMic3000.Microsoft.XP.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,"GLOBAL",USBAudio3000.Interface.Microsoft,
+AddInterface=%KSCATEGORY_RENDER%,"GLOBAL",USBAudio3000.Interface.Microsoft,
+AddInterface=%KSCATEGORY_CAPTURE%,"GLOBAL",USBAudio3000.Interface.Microsoft,
+
+[USBMic7000.Microsoft.XP.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,"GLOBAL",USBAudio7000.Interface.Microsoft,
+AddInterface=%KSCATEGORY_RENDER%,"GLOBAL",USBAudio7000.Interface.Microsoft,
+AddInterface=%KSCATEGORY_CAPTURE%,"GLOBAL",USBAudio7000.Interface.Microsoft,
+
+;============================================================================
+
+[USBMic.Microsoft.XP.Services]
+Include=wdma_usb.inf
+Needs = USBAudio.NT.Services
+
+[USBMic3000.Microsoft.XP.Services]
+Include=wdma_usb.inf
+Needs = USBAudio.NT.Services
+
+[USBMic7000.Microsoft.XP.Services]
+Include=wdma_usb.inf
+Needs = USBAudio.NT.Services
+
+;============================================================================
+
+[USBMic.Microsoft.XP.HW]
+AddReg=USBMic.Microsoft.XP.HW.Addreg
+
+[USBMic.Microsoft.XP.HW.Addreg]
+HKR,,FriendlyName,,%USB\VID_045E&PID_00F8&MI_02.DeviceDesc%
+
+[USBMic3000.Microsoft.XP.HW]
+AddReg=USBMic3000.Microsoft.XP.HW.Addreg
+
+[USBMic3000.Microsoft.XP.HW.Addreg]
+HKR,,FriendlyName,,%USB\VID_045E&PID_0721&MI_02.DeviceDesc%
+
+[USBMic7000.Microsoft.XP.HW]
+AddReg=USBMic7000.Microsoft.XP.HW.Addreg
+
+[USBMic7000.Microsoft.XP.HW.Addreg]
+HKR,,FriendlyName,,%USB\VID_045E&PID_0723&MI_02.DeviceDesc%
+
+;============================================================================
+
+[USBAudio.Interface.Microsoft]
+AddReg=USBAudio.Interface.Addreg.Microsoft
+
+[USBAudio.Interface.AddReg.Microsoft]
+HKR,,FriendlyName,,%USB\VID_045E&PID_00F8&MI_02.DeviceDesc%
+HKR,,CLSID,,%Proxy.CLSID%
+
+[USBAudio3000.Interface.Microsoft]
+AddReg=USBAudio3000.Interface.Addreg.Microsoft
+
+[USBAudio3000.Interface.AddReg.Microsoft]
+HKR,,FriendlyName,,%USB\VID_045E&PID_0721&MI_02.DeviceDesc%
+HKR,,CLSID,,%Proxy.CLSID%
+
+[USBAudio7000.Interface.Microsoft]
+AddReg=USBAudio7000.Interface.Addreg.Microsoft
+
+[USBAudio7000.Interface.AddReg.Microsoft]
+HKR,,FriendlyName,,%USB\VID_045E&PID_0723&MI_02.DeviceDesc%
+HKR,,CLSID,,%Proxy.CLSID%
+
+;============================================================================
+
+
+[Strings]
+Microsoft="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F8&MI_02.DeviceDesc="Microsoft LifeCam NX-6000."
+USB\VID_045E&PID_0721&MI_02.DeviceDesc="Microsoft LifeCam NX-3000."
+USB\VID_045E&PID_0723&MI_02.DeviceDesc="Microsoft LifeCam VX-7000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+

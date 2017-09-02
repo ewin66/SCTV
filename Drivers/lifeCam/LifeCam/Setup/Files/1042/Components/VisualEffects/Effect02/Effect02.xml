@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="258D8E1F-2EB4-4b0c-8669-8FC8C68EFC40" Name="해변" Description="해변" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect02\tn.bmp" DataRelativePath="Components\VisualEffects\Effect02\config.ver"/>
+	</EffectList>
+</Root>

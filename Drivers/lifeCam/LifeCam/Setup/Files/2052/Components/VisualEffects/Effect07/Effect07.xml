@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="0E38821F-1EB9-4b0f-A231-C804B392CFEF"
+		Name="落叶"
+		Description="落叶"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect07\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect07\config.ver"/>
+	</EffectList>
+</Root>

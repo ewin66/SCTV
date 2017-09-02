@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFavorites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <favorites>
+    <title>Roseanne</title>
+  </favorites>
+  <favorites>
+    <title>The Wayne Brady Show</title>
+  </favorites>
+  <favorites>
+    <title>The Simpsons</title>
+  </favorites>
+  <favorites>
+    <title>Everybody Loves Raymond</title>
+  </favorites>
+  <favorites>
+    <title>That '70s Show</title>
+  </favorites>
+  <favorites>
+    <title>Matlock</title>
+  </favorites>
+  <favorites>
+    <title>Matlock</title>
+  </favorites>
+  <favorites>
+    <title>Matlock</title>
+  </favorites>
+  <favorites>
+    <title>The Andy Griffith Show</title>
+  </favorites>
+  <favorites>
+    <title>Matlock</title>
+  </favorites>
+</ArrayOfFavorites>

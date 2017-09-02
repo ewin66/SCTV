@@ -1,0 +1,409 @@
+########	Security	##########
+- stream to server so client doesn't have any flashing
+- save all of camera capabilities so we know the values before turning on the camera
+- put min and max for each camera on the drop downs
+- remove old files from hard drive
+- add motion detection
+- add recording file path to edit camera tab
+- when you close a camera window the ui needs to update the status to Stopped
+
+- stream capture to second sctv with vlc
+
+########	TV player	##########
+- work on xmltv
+- get tuner
+- create a config file automatically for each user - tv_grab_na_dd.conf
+
+##########	Integrated content	############
+- fix justin downloads - can't find file
+- when a justin file is played need to add all related files to the playlist
+- add ability to download youtube
+- download all archives for any channels that have been viewed on justin
+- be able to schedule daily/weekly downloads
+- make download list/queue to track downloads
+- make sure any new paths are added to locations.xml so they will show up in library
+- make a play bar for justin that can be pulled back and seemlessly play archives according to where you pull the bar to
+- create a good way to close browser                                                              
+
+########	Media player	##########
+- make on-screen keyboard - drop down from the top
+- play visualizations while playing music or anytime - they might just want to listen to a video and watch a visualization
+
+########	Media library	##########
+? be able to play all search results
+? create playlists
+? create slideshows for images
+- make playlists compatible with media player and the remote
+- make activation wait a few days before blocking you
+- get content for the home page - possibly have a feed from a webservice
+- update listview without locking up UI - look at: http://msdn.microsoft.com/en-us/library/system.windows.forms.listview.redrawitems.aspx and http://msdn.microsoft.com/en-us/library/system.windows.forms.listview.virtualmode(VS.80).aspx and http://www.codeproject.com/KB/list/ListViewVirtualMode.aspx
+- categorize justin download media type correctly
+- be able to play/record a dvd from a button
+- if the genre can't be determined use the parent folder name for music and video
+- be able to create playlists from search results
+- make standard tabs (new, popular, etc...) configured from xml file
+- add poker to online content
+- add cbs.com
+- update status bar when refreshing media
+- be able to add your own picture to media
+- re-order tabs/media when name changes - has some errors
+- get pictures on advanced info search - charlies angels full throttle - unleashed - titanic
+- get more imdb info - full description, actors, etc...
+- be able to update multiple media items (all selected)
+
+########	Misc	###########
+- need to create locations file if it doesn't exist
+- make sctv configs updateable from webservice
+- make backups of config files
+- make SCTV logo
+- make volume use scroll wheel
+- create status log file
+- put version number on UI
+- check for password for certain ratings
+
+########	Music	##########
+- get music info from web - from http://www.onlinemusicdatabase.com/ and amazon
+- create an "image not available" cover
+
+########	Games	##########
+- get game info and filter games - show game thumbnails
+- create a game object
+- be able to update game info
+
+###########	Low priority	#############
+- make cel files display current position and seek - try changing the extension
+- display video properties (contrast, brightness, etc and save them per video)
+- fix slidingBar
+
+----- camera code choices -----
+- rotesys works and has motion but no capture - got capture to work
+- captureTest works and has capture but no motion - using this one now
+- motion_src is my favorite and has motion and capture but doesn't work with new camera
+----- camera code choices -----
+
+
+------- Done -------
+-------- Version 3.0.0.9 -------
+########	Media library	##########
+- when refreshing media need to update media that doesn't have a genre
+
+##########	Integrated content	############
+- display justin in library correctly
+- update all related justin files when one is updated (update to one seinfeld file needs to propagate to the other seinfeld files)
+
+
+-------- Version 3.0.0.8 -------
+########	Media library	##########
+- improve imdb search results and best matches
+- write media results to file more often
+- look up info in media has no imdb number
+- save all date history about lastPlayed times - to help determine an automatic schedule system
+
+########	Misc	###########
+- allow edit of recorded file name from dvd
+
+########	Media player	##########
+- add resume feature - save the last point played per movie/media
+- be able to view currently playing media info
+- fixed media player so whats next wouldn't start playing if manually closed/stopped
+
+
+-------- Version 3.0.0.7 -------
+########	Misc	###########
+- re-enable "activate" button on activation failure
+- display volume changes and mute
+- get muted icon
+- get volume icon
+- get volume slider image
+- turn on filesystemwatcher for media
+- get icons for forms
+
+########	Media player	##########
+- be able to rate media while watching it
+- be able to view/set the next random video to play
+- Add next button to watch what's on next
+
+########	Media library	##########
+- display star rating on star rating tab - put them into groups
+- create star rating tab
+- everytime the library refreshes it needs to keep the same tabs selected
+- set alphabet tabs back to "all" when parent tab changed - I don't think this needs to be done since I have added color to the tabs
+- add activation so software can't be copied
+
+
+
+-------- Version 3.0.0.6 -------
+########	Media player	##########
+- be able to play continous in given category
+- create events to let other classes know what is going on
+- be able to play entire category
+- display media title on popup screen
+
+########	Media library	##########
+- multithread imdb searches
+- add a "Recent" tab
+
+
+
+-------- Version 3.0.0.5 -------
+########	Media library	##########
+- color tabs
+
+########	Media player	##########
+- be able to automatically play sequels
+
+
+-------- Version 3.0.0.4 -------
+##########	Integrate content	############
+- when downloading - download the oldest first so you can start watching
+- auto populate show name when channel name is entered
+
+########	Media library	##########
+- multiThread refresh
+- fix imdb search
+
+
+-------- Version 3.0.0.3 -------
+########	Media player	##########
+- close player when movie is over
+
+########	Media library	##########
+- remove html tags from imdb info
+- fix getting genre info from imdb
+- get description
+- return more results for multiple match
+
+
+-------- Version 3.0.0.2 -------
+########	Media library	##########
+- put justin downloads in library
+- use tabbed browser for "Home" online tab
+- add sports on justin
+- add sports content - nba.com, espn.com
+
+
+-------- Version 3.0.0.1 -------
+########	Security	##########
+- send video to remote webserver with ftp
+- integrate video in DNN
+- integrate activation with DNN
+
+##########	Integrate content	############
+- be able to record in the past
+- be able to schedule downloads for the future
+- be able to record in the past
+- clean up channel name - remove everything after #
+
+########	Media library	##########
+- if there is not internet connection don't show featured online content
+- be able to add new categories and mediaTypes from edit screen
+- create "home" tabs
+
+
+-------- Version 3.0.0.0 -------
+########	General 	##########
+- add volume to browser
+- add splash screens
+
+########	Media player	##########
+- stop multiple players from opening up
+
+##########	Integrate content	############
+- make confirmation of justin recording starting
+- block closing of last tab
+- put hulu flash on "choose one" tab
+
+
+-------- Version 2.0.0.9 -------
+########	Media library	##########
+- add picture support
+- fix "popular" tab - doesn't display in correct order
+- fix "New" tab - doesn't display in correct order
+- fix "not-so popular" tab - doesn't display in correct order
+
+
+-------- Version 2.0.0.8 -------
+########	Media library	##########
+- download/record justin video
+- add dictionary/encyclopedia content
+- made media sort by sortBy
+- add games to online content
+
+
+-------- Version 2.0.0.7 -------
+########	Media library	##########
+- add a "remember this" option to the internet connection is down box
+- add mediaType values to edit screens
+- display online content providers the same way media is displayed
+- add confirmation box to "remove from category"
+- add a status bar at the bottom to let the user know what is going on
+- make all online content use safeSurf
+- destroy browser object when tabs are changed
+- change "no category" to "Misc"
+- supress script errors when browsing internet
+
+
+-------- Version 2.0.0.6 -------
+########	Media library	##########
+- make sure blank categories don't get displayed
+- make skipDVDMenu a config setting
+- be able to add media to a category on media edit form using 2 listBoxes
+- integrate facebook
+- integrate youtube
+- integrate SafeSurf
+- make looking for media recursive
+
+
+-------- Version 2.0.0.5 -------
+##########	Integrate content	############
+- determine mediaType tv from imdb info
+- integrate pandora radio
+- integrate joost
+- integrate fancast
+- integrate BillboardLive.com
+- integrate iTunes
+
+########	Media library	##########
+- fix spacing of names on tabs
+
+########	Media player	##########
+? fix mute button and volume buttons
+
+
+-------- Version 2.0.0.4 -------
+##########	Integrate content	############
+- integrate justin.tv
+- integrate hulu
+
+########	Media player	##########
+- make the default saveTo path a default source path for the media library
+- give the ability to skip DVD menu when playing or recording
+- created a DVD folder to hold the dvd recordings
+- by default SCTV will look in DVD folder for video when refreshing media
+
+########	Misc	###########
+- create media handler class
+
+########	Media library	##########
+- be able to remove media from a category with a right click menu
+- validate xml files when read in and repair if needed
+- need to update categories when a new mediaType is chosen
+- add a media type tab control
+- make music seperate in library
+- display more results on advanced info search - display results from title and title + "2"
+
+
+-------- Version 2.0.0.3 -------
+########	Media player	##########
+- made bootleg DVD's work for recording and play
+- removed the "Record" button from inserted media form
+
+
+-------- Version 2.0.0.2 -------
+########	Misc	###########
+- removed installerBase from installer for vista compatibility
+
+########	Media library	###########
+- after recording a DVD need to automatically add to media library
+
+
+-------- Version 2.0.0.1 -------
+########	Media library	##########
+- add sortBy to media xml
+- add lastPlayed to media xml
+- add mediaType to media xml
+########	Security	##########
+- put links to video on website
+- add drop down for cameras on website
+########	Misc	###########
+- make a record button to record DVD's
+
+
+-------- Version 2.0.0.0 -------
+########	Security	##########
+- make sctvCameraMain handle camera xml file
+- save settings when camera starts
+- debug camera UI
+- lower frame rate
+- simplify camera UI
+- set default resolution low when recording for web
+- make multiple wireless cameras work
+
+########	Media library	##########
+- add alphabet subcategory
+
+########	Misc	##########
+- install authentication webservice
+- make web activation work
+- make installer for only media, one for only security and one for both and one for website
+
+
+-------- Version 1.0.0.5 -------
+- change installer image
+- check for internet connection and alert when down
+- error: have to hit refresh media twice to get it to display
+- add milliseconds to recorded file names
+- display message when refreshing media and there are no sources
+- check for internet connection when refreshing media
+- create camera object
+- only split recorded video when a web interface is needed
+- need to check for switch between watching and recording cameras
+- be able to add additional cameras
+- start and stop recording with voice commands/buttons
+- format name of recorded video correctly - [name]_[series]_[sequence#].avi
+- split recorded video for viewing over web
+
+
+-------- Version 1.0.0.3 -------
+- update camera name on admin UI
+- make voice commands for cameras
+- make background of speech invisible
+- add webserver for internet access and control - for security cams, etc... - using IIS
+- fix sources - they sometimes double up
+- update vlc volume
+- fix refresh media
+	- the categories don't show up after refresh
+- replace "IMDb Search" in titles with file name
+- catch error if there is no speech installed
+- when updating media don't overwrite current info
+- place camera windows in corners
+- fix bug when starting every other camera instance
+- add camera buttons to mediaplayer ui
+- update timesPlayed
+- add speech
+- make music work
+- add "popular" category
+- add "not-so popular" category
+- make a "filters" tab to display filtering options like ratings, actors, stars, etc
+- add a "new" category
+- add a "no category" category
+- media search option
+- make splash screens
+- make consecutive movies work - the second one is taking a long time to start if it does at all
+- add minimize button to mediaPlayer
+- display media details in library
+- fix volume
+- be able to make playlists
+- add timestamps to logs
+- multiple match is acting funny - ghost
+- clean up names for multiple matches
+- be able to delete games
+- add properties to Media to match imdb info
+- edit detailed media info
+- show detailed media info
+- integrate games
+- do silent install
+- auto populate title of advanced search
+- look at results for three and fix
+- why do so many movies have waxwork2 image?
+- add camera functionality
+- mediaPlayer doesn't restart
+- make errors go to log file
+- play an entire category
+- make sure refreshing data doesn't wipe out any modifications made by user
+- categories disapear after refreshing media when media already exists
+- keep duplicates out of locations
+- clean up results for details/tagline and all scrapes
+
+- get detailed media info from imdb
+	- need to handle multiple matches

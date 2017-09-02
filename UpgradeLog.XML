@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SCTV2">
+</Property><Property Name="Solution File" Value="D:\utilities\Programming\SCTV2\SCTV2.sln">
+</Property><Property Name="Date" Value="Saturday, September 10, 2011">
+</Property><Property Name="Time" Value="23:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SCTV2" Source="SCTV2\SCTV2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTV2" Source="SCTV2\SCTV2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVControls" Source="SCTVControls\SCTVControls.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVControls" Source="SCTVControls\SCTVControls.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVDeviceVolumeMonitor" Source="DeviceVolumeMonitor\SCTVDeviceVolumeMonitor.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SCTVDeviceVolumeMonitor" Source="DeviceVolumeMonitor\SCTVDeviceVolumeMonitor.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SCTVMediaLibrary" Source="MediaLibrary\SCTVMediaLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVMediaLibrary" Source="MediaLibrary\SCTVMediaLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVMediaPlayer" Source="MediaPlayer\SCTVMediaPlayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVMediaPlayer" Source="MediaPlayer\SCTVMediaPlayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVObjects" Source="Objects\SCTVObjects.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVObjects" Source="Objects\SCTVObjects.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVSpeech" Source="SCTVSpeech\SCTVSpeech.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVSpeech" Source="SCTVSpeech\SCTVSpeech.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVIMDB" Source="SCTVIMDB\SCTVIMDB.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVIMDB" Source="SCTVIMDB\SCTVIMDB.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVCamera" Source="SCTVCamera\SCTVCamera.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVCamera" Source="SCTVCamera\SCTVCamera.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVHulu" Source="SCTVHulu\SCTVHulu.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVHulu" Source="SCTVHulu\SCTVHulu.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVFlashPlayer" Source="SCTVFlashPlayer\SCTVFlashPlayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVFlashPlayer" Source="SCTVFlashPlayer\SCTVFlashPlayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="SCTVGames" Source="SCTVGames\SCTVGames.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="SCTVJustinTV" Source="SCTVJustinTV\SCTVJustinTV.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVJustinTV" Source="SCTVJustinTV\SCTVJustinTV.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVFTP" Source="SCTVFTP\SCTVFTP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVFTP" Source="SCTVFTP\SCTVFTP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVWebVideoObject" Source="SCTVWebCamera\WebVideo\WebVideo\SCTVWebVideoObject.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVWebVideoObject" Source="SCTVWebCamera\WebVideo\WebVideo\SCTVWebVideoObject.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVWebService" Source="SCTVWebService\SCTVWebService.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVWebService" Source="SCTVWebService\SCTVWebService.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTechUtilities" Source="SCTVUtilities\SCTechUtilities.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTechUtilities" Source="SCTVUtilities\SCTechUtilities.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVWebServiceTest" Source="SCTVWebServiceTest\SCTVWebServiceTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVWebServiceTest" Source="SCTVWebServiceTest\SCTVWebServiceTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SafeSurf" Source="SafeSurf\SafeSurf.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SafeSurf" Source="SafeSurf\SafeSurf.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TabCtrl" Source="TabCtrl\TabCtrl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TabCtrl" Source="TabCtrl\TabCtrl.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="FTPUploader" Source="..\..\examples\ftp\FTPUploader\FTPUploader.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="SCTVTelevision" Source="SCTVTelevision\SCTVTelevision.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVTelevision" Source="SCTVTelevision\SCTVTelevision.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTVJustinTVFileManager" Source="SCTVJustinTVFileManager\SCTVJustinTVFileManager.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCTVJustinTVFileManager" Source="SCTVJustinTVFileManager\SCTVJustinTVFileManager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\TestHarness.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestHarness" Source="TestHarness\TestHarness.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SCTV2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SCTV2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCTV2" Source="SCTV2\SCTV2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVControls" Source="SCTVControls\SCTVControls.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVMediaLibrary" Source="MediaLibrary\SCTVMediaLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVMediaPlayer" Source="MediaPlayer\SCTVMediaPlayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVObjects" Source="Objects\SCTVObjects.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVSpeech" Source="SCTVSpeech\SCTVSpeech.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVIMDB" Source="SCTVIMDB\SCTVIMDB.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVCamera" Source="SCTVCamera\SCTVCamera.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVHulu" Source="SCTVHulu\SCTVHulu.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVFlashPlayer" Source="SCTVFlashPlayer\SCTVFlashPlayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVJustinTV" Source="SCTVJustinTV\SCTVJustinTV.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVFTP" Source="SCTVFTP\SCTVFTP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVWebVideoObject" Source="SCTVWebCamera\WebVideo\WebVideo\SCTVWebVideoObject.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVWebService" Source="SCTVWebService\SCTVWebService.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTechUtilities" Source="SCTVUtilities\SCTechUtilities.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVWebServiceTest" Source="SCTVWebServiceTest\SCTVWebServiceTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SafeSurf" Source="SafeSurf\SafeSurf.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TabCtrl" Source="TabCtrl\TabCtrl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVTelevision" Source="SCTVTelevision\SCTVTelevision.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SCTVJustinTVFileManager" Source="SCTVJustinTVFileManager\SCTVJustinTVFileManager.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\TestHarness.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

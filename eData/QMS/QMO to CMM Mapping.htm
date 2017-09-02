@@ -1,0 +1,798 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Security" content="Confidential">
+   <meta name="CUID" content="ugiri, rboelte, rfwilli, ukini">
+   <meta name="GENERATOR" content="Mozilla/4.5 [en]C-CCK-MCD {U S WEST.net}  (WinNT; I) [Netscape]">
+   <title>QMO and the SEI-CMM</title>
+</head>
+<body bgcolor="#FFFFFF" vlink="#0000FF">
+&nbsp;
+<table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="500" colstart="1"><a NAME="top"></a>
+<p><b><font face="Arial"><font size=+0>QMO Quality Method of Operation&nbsp;</font></font></b></td>
+
+<td ALIGN=RIGHT colstart="2"><a href="Index.htm"><img SRC="home.gif" BORDER=0 height=80 width=70 align=TEXTTOP></a>
+<br><font size=-1>Back to Index&nbsp;</font></td>
+</tr>
+</table>
+
+<pre><b><font face="Arial"><font size=+1>QMO-to-CMM Mapping</font></font></b></pre>
+
+<hr>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=+0>Overview</font></font></b></td>
+</tr>
+</table>
+<font face="Arial"><font size=-1>The <b>Capability Maturity Model for Software
+(CMM)</b> developed by the Software Engineering Institute (SEI) of Carnegie
+Mellon University is a framework that describes the key elements of an
+effective software process. CMM is the most sought after standard in the
+US and is rapidly expanding internationally.</font></font>
+<p><font face="Arial"><font size=-1>The CMM describes an evolutionary improvement
+path for software organizations from an ad hoc, immature process to a mature,
+disciplined one. This path is encompassed by five levels of maturity. They
+are:</font></font>
+<ol>
+<li>
+<font face="Arial"><font size=-1><b>Initial</b> - The software process
+is characterized as ad hoc, and occasionally even chaotic. Few processes
+are defined, and success depends on individual effort and heroics.</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1><b>Repeatable</b> - Basic project management
+processes are established to track cost, schedule, and functionality. The
+necessary process discipline is in place to repeat earlier successes on
+projects with similar applications.</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1><b>Defined</b> - The software process
+for both management and engineering activities is documented, standardized,
+and integrated into a standard software process for the organization. All
+projects use an approved, tailored version of the organization's standard
+software process for developing and maintaining software.</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1><b>Managed</b> - Detailed measures of
+the software process and product quality are collected. Both the software
+process and products are quantitatively understood and controlled.</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1><b>Optimizing</b> - Continuous process
+improvement is enabled by quantitative feedback from the process and from
+piloting innovative ideas and technologies.</font></font></li>
+</ol>
+<font face="Arial"><font size=-1>SEI is currently updating the CMM. Version
+2.0 is expected to be available by mid-1999. Levels 4 and 5 will be heavily
+impacted.</font></font>
+<br>&nbsp;
+<p><br>
+<center>
+<p><font face="Arial"><font size=-1>| <a href="#top">Top</a> |</font></font></center>
+
+<hr>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A2"></a><b><font face="Arial"><font size=+0>QMO-to-CMM
+Mapping</font></font></b></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>LEVEL
+2 - REPEATABLE</font></font></b></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Requirements
+Management</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>Requirements allocated to software are
+controlled to establish a baseline for software engineering and management
+use.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Development of Requirements</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baseline of Requirements (internal and
+external)</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Software plans, products, and activities
+are kept consistent with the requirement allocated to software.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baselined Project Plan</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined Requirements</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined Designs</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined Test Case Specifications</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Change Control Procedure</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined Technical Operating Environment</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined System Architecture</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Traceability</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Project
+Planning&nbsp;</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>Software estimates are documented for
+use in planning and tracking the software project.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Estimation summary sheet</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Thin Requirements</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Pre-Commitment Project Plan</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Plans and their project schedules</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Lessons Learned at project close-out</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Software activities and commitments are
+planned and documented.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baselined Project Plan</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined Configuration Management Plan</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined Technical Operating Environment</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Pre-Commitment Architecture Specifications</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined Master Test Plan</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Information Development Plan</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Affected groups and individuals agree
+to their commitments related to the software project.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Risk Management (Documented in Project
+Plan and reviewed at Project Status Meetings)</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baselined Requirements, Designs, Technical
+Operating Environment, System Architecture, Test Case Specifications, and
+Master Test Plan: e.g., Review Tracking Sheets</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Project
+Tracking and Oversight</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>Actual results and performance are tracked
+against the software plans.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Project Status Meeting: schedule, budget/cost,
+resources, risk(s), jeopardy(s), action item register, and QUIP</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Blueprint</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Corrective actions are taken and managed
+to closure when actual results and performance deviate significantly from
+software plans</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Change Control Procedure</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Jeopardy Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Status Meeting, Schedule, Action
+Item Register</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Changes to software commitments are agreed
+to by all affected groups and individuals.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Change Control Procedure/Review Tracking
+Sheet</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Subcontract
+Management</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>The prime contractor selects qualified
+software subcontractors.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Subcontractor Management</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>The prime contractor and the software
+subcontractor agree to their commitments to each other.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Subcontractor Management</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>The prime contractor and the software
+subcontractor maintain communications.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Subcontractor Management</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>The prime contractor tracks the software
+subcontractor's actual results and performance against its commitments.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Subcontractor Management</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Software
+Quality Assurance</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>Software quality assurance activities
+are planned.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Internal Audit Schedule</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QUIP</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Master Test Plan</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Lessons Learned</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Root Cause Analysis</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Adherence of products and activities to
+the applicable standards, procedures, and requirements is verified objectively.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Internal Audit Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Baseline Process/Review Tracking Sheet(s)
+for baselined documents</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project self-audits</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Test Case Specifications</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Affected groups and individuals are informed
+of software quality assurance activities and results.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Project-level QMT meetings (documented
+Internal Audit results)</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Internal Audit schedules, and closing
+conferences</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Test Metrics</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Noncompliance issues that cannot be resolved
+within the software project are addressed by senior management.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Internal Audit escalation procedure</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Jeopardy Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QMT meetings</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Configuration
+Management</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>Configuration management activities are
+planned.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baselined Configuration Management Plan</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Build Schedule</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Selected software work products are identified,
+controlled, and available.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baselined Configuration Management Plan</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Build Schedule</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Trouble Tracking Tool</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Changes to identified work products are
+controlled.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Change Control Procedure</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Change Control Log/Review Tracking Sheet
+(including CR process)</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Affected groups and individuals are informed
+of the status and content of software baselines.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Integrity Report</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Change Control Log/Review Tracking Sheet</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>LEVEL
+3 - DEFINED</font></font></b></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Organization
+Process Focus</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>Software process development and improvement
+activities are coordinated across the organization.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>QMO Release Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QMT</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Management Review (QMT)</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project QUIP</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Q-Tip</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>The strengths and weaknesses of the software
+processes used are identified relative to a process standard.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>CMM assessment</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Internal Audits</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Organization-level process development
+and improvement activities are planned.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>QMO Release Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QMT</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QUIP</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project QUIP</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QMO Training</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Organization
+Process Definition</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>A standard software process for the organization
+is developed and maintained.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>QMO</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Local procedures</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Information related to the use of the
+organization's standard software process by the software projects is collected,
+reviewed, and made available.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Project Library</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Metrics</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QMT</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Q-Tips</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Integrated
+Software Management</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>The project's defined software process
+is a tailored version of the organization's standard software process.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>QMO</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Local procedures</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Job Aid</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>The project is planned and managed according
+to the project's defined software process.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>QMO</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Local Procedures</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QMO Exception Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Schedule</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Jeopardy Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Status Meeting</font></font></li>
+</ul>
+</ol>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Software
+Product Engineering</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>The software engineering tasks are defined,
+integrated, and consistently performed to produce the software.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>QMO</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Teams</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Local Procedures</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Local test Practices</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Information Development Plan</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Software work products are kept consistent
+with each other.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Change Control Procedure/Review Tracking
+Sheet</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Traceability</font></font></li>
+</ul>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Training
+Program</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>Training activities are planned.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Training Plans</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Training for developing the skills and
+knowledge needed to perform software management and technical roles is
+provided.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Training Plans</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Individuals in the software engineering
+group and software-related groups receive the training necessary to perform
+their roles.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Training Plans and Training Records</font></font></li>
+</ul>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Intergroup
+Coordination</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>The client's requirements are agreed to
+by all affected groups.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baselined Requirements</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Review Tracking Sheet</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Client concurrence</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Teams</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>The commitments between the engineering
+groups are agreed to by the affected groups.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baseline Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Teams</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Status Meeting / Action Item Register</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>QMT</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>The engineering groups identify, track,
+and resolve intergroup issues.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Project Teams</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Status Meeting / Action Item Register</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Jeopardy</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Review Tracking Sheet</font></font></li>
+</ul>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="450" colstart="0"><a NAME="A1"></a><b><font face="Arial"><font size=-1>Peer
+Reviews</font></font></b></td>
+</tr>
+</table>
+
+<ol>
+<li>
+<font face="Arial"><font size=-1>Peer review activities are planned.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baseline Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Review Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Code Inspections</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Defects in the software work products
+are identified and removed.</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baseline Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Review Process</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Code Inspections</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Trouble Tracking Tool</font></font></li>
+</ul>
+</ol>
+
+<center>
+<p><br><font face="Arial"><font size=-1>| <a href="#top">Top</a> |</font></font></center>
+
+<blockquote>
+<hr WIDTH="100%"></blockquote>
+</ol>
+</ol>
+</ol>
+
+</body>
+</html>

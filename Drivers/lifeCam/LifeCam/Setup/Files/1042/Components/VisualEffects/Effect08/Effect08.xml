@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="A31B2F1F-506B-4bbb-B70F-E1BF4735E48C" Name="구름" Description="구름" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect08\tn.bmp" DataRelativePath="Components\VisualEffects\Effect08\config.ver"/>
+	</EffectList>
+</Root>

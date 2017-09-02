@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="50FE6549-679F-4bc6-9DFA-F68B658CB92E" Name="연" Description="연" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect05\tn.bmp" DataRelativePath="Components\VisualEffects\Effect05\config.ver"/>
+	</EffectList>
+</Root>

@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{113C0576-6E73-4A95-82F3-52B44C5B2F00}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SCTV</RootNamespace>
+    <AssemblyName>MediaLibrary</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MediaToolTip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MediaToolTip.Designer.cs">
+      <DependentUpon>MediaToolTip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="objects\ListViewEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="mediaLibrary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mediaLibrary.Designer.cs">
+      <DependentUpon>mediaLibrary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mediaLibrary_Listview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mediaLibrary_Listview.Designer.cs">
+      <DependentUpon>mediaLibrary_Listview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="objects\MediaDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="objects\MediaDisplay.Designer.cs">
+      <DependentUpon>MediaDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayList.Designer.cs">
+      <DependentUpon>PlayList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="mediaLibrary.resx">
+      <DependentUpon>mediaLibrary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mediaLibrary_Listview.resx">
+      <DependentUpon>mediaLibrary_Listview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaToolTip.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MediaToolTip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="objects\MediaDisplay.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MediaDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PlayList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SourcePathForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SourcePathForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="objects\ReadOnlyRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SourcePathForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SourcePathForm.Designer.cs">
+      <DependentUpon>SourcePathForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MediaPlayer\SCTVMediaPlayer.csproj">
+      <Project>{5221FEAA-AEA5-46C4-83F9-E2308A10E3E6}</Project>
+      <Name>SCTVMediaPlayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Objects\SCTVObjects.csproj">
+      <Project>{0F15BE7D-D1BE-4EA8-A57A-F9FA41AB4A4D}</Project>
+      <Name>SCTVObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SafeSurf\SafeSurf.csproj">
+      <Project>{2BB5EE82-0735-40B7-B376-D5F6103C4B1B}</Project>
+      <Name>SafeSurf</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVCamera\SCTVCamera.csproj">
+      <Project>{8BF61093-64DD-47CF-9BA9-941D3349F6D4}</Project>
+      <Name>SCTVCamera</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVControls\SCTVControls.csproj">
+      <Project>{4548FB10-C90B-4EED-92B6-202CAE443F3B}</Project>
+      <Name>SCTVControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVFlashPlayer\SCTVFlashPlayer.csproj">
+      <Project>{9C2FC88A-0387-4539-AD90-FDABC82000E0}</Project>
+      <Name>SCTVFlashPlayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVGames\SCTVGames.csproj">
+      <Project>{31817769-9A7D-4476-B904-54AD5E310A3A}</Project>
+      <Name>SCTVGames</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVIMDB\SCTVIMDB.csproj">
+      <Project>{653CEAFC-6570-40F7-94A5-855131FCD72F}</Project>
+      <Name>SCTVIMDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVJustinTV\SCTVJustinTV.csproj">
+      <Project>{C939418B-A6D1-4422-A691-C8D1CD98E047}</Project>
+      <Name>SCTVJustinTV</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVSpeech\SCTVSpeech.csproj">
+      <Project>{47CD4E1A-E8E4-4295-B7CE-385AE70B3CB0}</Project>
+      <Name>SCTVSpeech</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVUtilities\SCTechUtilities.csproj">
+      <Project>{D4310F40-D400-49EA-B044-F1043F8331C6}</Project>
+      <Name>SCTechUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TabCtrl\TabCtrl.csproj">
+      <Project>{12E470D6-9B68-4226-AE77-667636B28026}</Project>
+      <Name>TabCtrl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hulu.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\App.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\action.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_action.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_adventure.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_animation.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_banned.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_biography.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_chickflicks.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_chickflicks2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_comedy.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_comics.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_crime.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_cultClassic.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_disaster.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_documentary.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_drama.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_family.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_fantasy.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_gameAdaptation.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_historical.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_horror.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_martialArts.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_music.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_musical.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_mystery.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_romance.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_scifi.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_scifiHorror.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_sport.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_teenMovies.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_thriller.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_unknown.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_war.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\genres\chrome_western.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\glassForms\blackFrost.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\glassForms\blue_big.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\glassForms\castle.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\glassForms\expglass1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\glassForms\expglass2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\glassForms\glassplain.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\glassForms\images.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\glassForms\vistaGlass.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Media\coverImages\NotAvailable.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\addictingGames.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\BillboardLive.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\cbs.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\dictionary.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\Encyclopedia.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\facebook.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\fancast.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\fox.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\gamesgames.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\google.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\HathiTrust.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\Hulu.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\iTunes.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\joost.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\justin-tv.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\justinTV.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\MiniClip.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\Pandora.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\slacker.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\thesaurus.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\translator.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\veoh.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\OnlineMedia\youTube.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\tooltip.gif" />
+    <None Include="Resources\MainBkgd.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

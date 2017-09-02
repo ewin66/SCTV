@@ -1,0 +1,52 @@
+NAME
+    tv_grab_es - Grab TV listings for Spain.
+
+SYNOPSIS
+    tv_grab_es --help
+
+    tv_grab_es [--config-file FILE] --configure
+
+    tv_grab_es [--config-file FILE] [--output FILE] [--days N] [--offset N]
+    [--quiet]
+
+    tv_grab_es --list-channels
+
+DESCRIPTION
+    Output TV listings for several channels available in Spain. Now supports
+    the terrestrial analog tv listings, which is the most common tv viewed
+    in Spain that currently has no EPG information. I have plans to add
+    Satelite listings (now the Spanish platforms are in a merger process
+    between providers and also cable (the listings has to be grabbed from
+    different sites)). The tv listings comes from www.elpais.es The grabber
+    relies on parsing HTML so it might stop working at any time.
+
+    First run tv_grab_es --configure to choose, which channels you want to
+    download. Then running tv_grab_es with no arguments will output listings
+    in XML format to standard output.
+
+    --configure Prompt for which channels, and write the configuration file.
+
+    --config-file FILE Set the name of the configuration file, the default
+    is ~/.xmltv/tv_grab_es.conf. This is the file written by --configure and
+    read when grabbing.
+
+    --output FILE write to FILE rather than standard output.
+
+    --days N grab N days. The default is 3.
+
+    --offset N start N days in the future. The default is to start from
+    today.
+
+    --quiet suppress the progress messages normally written to standard
+    error.
+
+    --help print a help message and exit.
+
+SEE ALSO
+    xmltv(5).
+
+AUTHOR
+    Ramon Roca, Ramon.Roca@XCombo.com, based on tv_grab_fi, from Matti
+    Airas.
+
+BUGS

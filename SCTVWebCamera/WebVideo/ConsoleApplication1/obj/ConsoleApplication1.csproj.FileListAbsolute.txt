@@ -1,0 +1,5 @@
+C:\utilities\programming\examples\aviPlayer\sample3\WebVideo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\utilities\programming\examples\aviPlayer\sample3\WebVideo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\utilities\programming\examples\aviPlayer\sample3\WebVideo\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\examples\aviPlayer\sample3\WebVideo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\utilities\programming\examples\aviPlayer\sample3\WebVideo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

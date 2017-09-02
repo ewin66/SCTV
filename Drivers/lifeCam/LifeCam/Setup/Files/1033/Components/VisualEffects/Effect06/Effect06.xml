@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="DAFBFE1D-B166-434C-9D7E-5384C66E6B2B"
+		Name="Effect06"
+		Description="Aquarium"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect06\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect06\config.ver"/>
+	</EffectList>
+</Root>

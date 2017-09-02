@@ -1,0 +1,501 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Security" content="Confidential">
+   <meta name="CUID" content="ugiri, rboelte, rfwilli, ukini">
+   <meta name="GENERATOR" content="Mozilla/4.5 [en]C-CCK-MCD {U S WEST.net}  (WinNT; I) [Netscape]">
+   <title>QMO Implementation </title>
+<!--Combo Job Aid for Small, Rapid, etc.-->
+</head>
+<body bgcolor="#FFFFFF" vlink="#0000FF">
+&nbsp;
+<table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="500" colstart="1"><a NAME="top"></a>
+<p><b><font face="arial"><font size=+0>QMO Quality Method of Operation&nbsp;</font></font></b>
+<br><b><font face="arial"><font size=+0></font></font></b>&nbsp;</td>
+
+<td ALIGN=RIGHT colstart="2"><a href="Index.htm"><img SRC="home.gif" BORDER=0 height=80 width=70 align=TEXTTOP></a>
+<br><font size=-1>Back to Index&nbsp;</font></td>
+</tr>
+</table>
+
+<p><b><font face="arial"><font size=+1>Job Aid for Small Projects &amp;
+Rapid Development, Prototyping, &amp; Patch/Maintenance/Emergency Releases</font></font></b>
+<br>
+<hr>
+<center><font face="Arial"><font size=-1>| <a href="#A1">Introduction</a>
+| <a href="#A2">Small &amp; Rapid Development</a> | <a href="#A3">Prototyping</a>
+| <a href="#A4">Unplanned Maintenance or Patch</a> |</font></font></center>
+
+<hr>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="A1"></a><b><font face="Arial"><font size=-2>Introduction&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>The QMO describes
+the Network, Service Delivery and User Access COE's software development
+methodology. As a process architecture, it specifies "what" has to be done,
+leaving the "how" to the individual project. This job aid will outline
+some valid implementation strategies that may be useful on your project.</font></font>
+<p><b><font face="Arial"><font size=-1>Local Procedures must contain:</font></font></b>
+<ul>
+<li>
+<font face="Arial"><font size=-1>Reference to current organization chart.
+This may be an electronic location or kept in a paper Project Library.
+To maintain accuracy, we strongly recommend electronic copies.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Implementation of the Project Library.
+This may be an electronic location and/or paper/file location. Be sure
+to include the details referenced in the QMO Introduction (e.g., index,
+access, etc.).&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project specific procedures must address
+the following, for example:&nbsp;</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Baseline Procedure: E-mail messages and
+electronic signatures are allowable&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Review Procedure: E-mail messages and
+electronic signatures are allowable&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Coding Standards&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Criteria for performing Root Cause Analysis&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Traceability scheme if different than
+outlined in the QMO Introduction&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Change Control Procedure&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Client Concurrence Procedure&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>When Lessons Learned will be performed&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Standing agendas for project team meetings,
+include any standard outcomes, e.g. all presentations from these meetings
+should be saved at this location&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project processes for estimating size,
+effort, and cost.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Documentation procedure:&nbsp;</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>how Information Development materials
+are developed&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>how documentation will be developed and
+conveyed; 1 or 2 sentences stating the way the team operates. For example,
+it can be stated:&nbsp;</font></font></li>
+
+<br><font face="Arial"><font size=-1>The CR (Change Request) will contain
+sufficient information to be considered the Requirement. If not, the CR
+will state a Requirement is needed.&nbsp;</font></font>
+<br><font face="Arial"><font size=-1>Unless noted in the CR, no design
+document will be required.&nbsp;</font></font>
+<br><font face="Arial"><font size=-1>The team will use generic documents,
+and information specific to a particular release will be documented as
+an addendum overriding the generic document.&nbsp;</font></font>
+<li>
+<font face="Arial"><font size=-1>Local procedures should also reference
+the following generic documents which may not be release specific:&nbsp;</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Configuration Management Plan&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Master Test Plan&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Plan. Note, keep the information
+to a functional level, rather than a "person" level.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Generic approvers with a pointer to the
+current list of names&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Technical Operating Environment&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>System Architecture, specify where re-usable
+components are stored and documented&nbsp;</font></font></li>
+</ul>
+<font face="Arial"><font size=-1>These generic documents may be applicable
+across a Company IT COE, several departments, a single department, or a
+group. The more widely applicable they are, the more effective these become,
+for example, TPSPs.&nbsp;</font></font>
+<p><b><font face="Arial"><font size=-1>Suggested QMO Implementation Strategies</font></font></b>
+<p><font face="Arial"><font size=-1>Any monitoring of the project status
+should follow your documented procedure and should include a review of
+your QUIP. An effective QUIP will have 1-2 specific items to measure and
+track with each release. An example would be:&nbsp;</font></font>
+<ul>
+<li>
+<font face="Arial"><font size=-1>Goal: Uncover problems earlier in the
+life cycle&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Action: Perform more rigorous inspections&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Measure: 10% reduction in defects found
+in next phase of testing.&nbsp;</font></font></li>
+</ul>
+</ul>
+</ul>
+</ul>
+</td>
+</tr>
+</table>
+
+<center>
+<p><font face="Arial"><font size=-1>| <a href="#top">Top</a> |&nbsp;</font></font>
+<hr></center>
+
+<center><table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="A2"></a><b><font face="Arial"><font size=-2>Small
+&amp; Rapid Development</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Small projects
+can be characterized by staff size. Headcount funding generally does not
+support dedicated individuals for each task so staff members often perform
+multiple roles, e.g. System Analyst and Developer. A small project may
+be a totally new project, an existing project with new features or an existing
+project with non-defect related maintenance.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Rapid development projects usually
+have the following characteristics:&nbsp;</font></font>
+<ul>
+<li>
+<font face="Arial"><font size=-1>limited duration (typically up to 6 months,
+but some are longer)&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>limited scope, complexity and integration
+with other projects&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>clearly defined input and output criteria
+(e.g., middleware)&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>managed by a small core team, preferably
+co-located, and dedicated to the project. Again, some staff members may
+assume several roles.&nbsp;</font></font></li>
+</ul>
+<font face="Arial"><font size=-1>Although both small and rapid development
+projects follow the QMO, documentation is less formal, proportional to
+the size of the team, and often several documents may be combined into
+one.&nbsp;</font></font>
+<p><b><font face="Arial"><font size=-1>Section 1 Initiate the Project</font></font></b>
+<p><font face="Arial"><font size=-1>The team must follow the QMO, retaining
+the:&nbsp;</font></font>
+<ul>
+<li>
+<font face="Arial"><font size=-1>Estimation Summary Report to demonstrate
+the teams concurrence with the estimates&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Document or other medium identifying the
+deliverables, e.g., task order&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Plan (completed by the Project
+Manager). Note, if a generic Project Plan is used, addenda would include
+specific risks, staffing information, etc.&nbsp;</font></font></li>
+</ul>
+<b><font face="Arial"><font size=-1>Sections 2/3 Define/Design the System:</font></font></b>
+<p><font face="Arial"><font size=-1>The team needs to complete the missing
+sections of the Project Plan, or point to the generic document. Addenda
+would state the:&nbsp;</font></font>
+<ul>
+<li>
+<font face="Arial"><font size=-1>CRs to be included or a reference to a
+trouble tracking tool with release number and the pointer to the project
+schedule (preferably in a recommended tool)&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>schedule including the Work Breakdown
+Structure (WBS) down to Unit-Test Complete dates, and Code Inspection Complete
+dates to eliminate the need for a Blueprint&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>re-useable code to be developed.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>supplier projects and supplier project
+issues. Use <a href="../appa/blprocii.htm#scmii">Subcontractors</a> section
+to help manage suppliers.&nbsp;</font></font></li>
+</ul>
+<font face="Arial"><font size=-1>There needs to be a Review Tracking Sheet
+for the Project Plan, a controlled document. It is more than acceptable
+to have a generic Project Plan and to include this information as an addendum,
+or the team may combine this information into one artifact to use throughout
+the development effort.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Requirements: If stated as a Local
+Procedure, document the need for a Requirements document in the CR, including
+the document number. If it is a deliverable, enter a CR and then track
+it throughout the system with the trouble tracking tool. Follow the local
+procedures and complete a Review Tracking Sheet for each requirements document.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>The requirements document should use
+the QMO template as a guideline, presenting only the required information
+in the most effective manner.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Technical Operating Environment/System
+Architecture: Apply addenda to the generic document as needed. The Project
+Plan will document if a new document is needed.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Overlapping the Requirements, with
+the Designs (Detailed and Database) is strongly encouraged. This information
+may be contained in one document that includes the test cases. While working
+on these activities, the Information Development, Test and Deployment planning
+activities are also underway.</font></font>
+<p><b><font face="Arial"><font size=-1>Section 4 Build the System</font></font></b>
+<p><font face="Arial"><font size=-1>Coding may begin after the requirements
+are baselined, or the CR is approved for a release, or after prototyping
+is complete. The code must be inspected using the code inspection guidelines.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>The Pre-Release Letter is required.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Baseline the Test Plan using an addendum.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Baseline the Test Cases as a document
+or identify the test cases in the CR.</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;Follow the QMO and retain the
+Integration Test Sign-Off Checklist and Integration Test metrics.&nbsp;</font></font>
+<p><b><font face="Arial"><font size=-1>Section 5/6 Test/Deploy the System</font></font></b>
+<p><font face="Arial"><font size=-1>Follow the QMO retaining the necessary
+controlled documents and quality records.&nbsp;</font></font></td>
+</tr>
+</table></center>
+
+<center>
+<p><font face="Arial"><font size=-1>| <a href="#top">Top</a> |&nbsp;</font></font>
+<hr></center>
+
+<center><table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="A3"></a><b><font face="Arial"><font size=-2>Prototyping&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Prototyping
+is an approach to software development that involves developing software
+as quickly as possible and then modifying that software until it demonstrates
+functionality. It is an effective way to demonstrate feasibility or obtain
+client concurrence that we have understood their needs. Once it is determined
+that the prototype system is adequate for the purposes intended, it can
+be used as the Requirements and possibly the Design for the resulting project.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>The code is immediately placed under
+Software Configuration Management (SCM) control. The developer will work
+closely with the systems analyst to document any missing information as
+an addendum to the source code to complete the "requirements". The developer
+ultimately determines if the prototype code is appropriate to be upgraded
+to production code or if it is destroyed.&nbsp;</font></font>
+<p><b><font face="Arial"><font size=-1>Section 1 Initiate the Project</font></font></b>
+<p><font face="Arial"><font size=-1>Client need is identified. A prototype
+is created to further identify the client need. Client concurrence is obtained
+on the prototype features.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>The team is assembled and agrees on
+the set of features to produce. The team, including representatives from
+the Project Team, produce a Thin Requirements document. This document describes
+performance requirements from a feature specific perspective.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>The document is reviewed by the team,
+and concerns are recorded. Provided the concerns are "not critical", consider
+the document baselined and add the additional information using the Change
+Control procedure.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Estimates are obtained and a schedule
+is produced. The Project Plan is documented, including the schedule, down
+to the unit-test complete and code inspection complete dates, thus eliminating
+the need for a Blueprint.&nbsp;</font></font>
+<p><b><font face="Arial"><font size=-1>Section 4 Build the System</font></font></b>
+<p><font face="Arial"><font size=-1>Developers use the prototype and the
+Thin Requirements to guide their development, producing any additional
+information needed.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Developers assemble as a team and perform
+code inspections, for example, reviewing functionality of each module,
+verifying formats of inputs and outputs and interfaces (may use Fagan,
+Clean Room Code Inspection, or general code inspection techniques). For
+the purpose of prototyping, 'code inspection' means an evaluation of the
+prototype to determine whether the functions meet the needs. This does
+not require a line-by-line inspection of the code.&nbsp;</font></font>
+<ul>
+<li>
+<font face="Arial"><font size=-1>Code inspections should be done as "thoroughly"
+as possible. The entire development team (or subsets of the team in groupings
+that make sense) assembles and white boards a systematic description of
+the system. At this session, each developer insures that his or her module
+is exhibiting the desired functionality and conforms to the interfaces
+agreed upon. No lines of code need to be actually reviewed, although it
+is helpful to have the team agree on details of interface modules or header
+definition files. A code inspection sheet should be filled out at the end
+of this meeting.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Code inspections can be done (even multiple
+times) at any point in the development cycle at any development meeting.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Performance Testing can be done in design
+sessions by examining the system design and the system flow and assessing
+that no bottlenecks exist to preclude performance at the target levels
+specified in the requirements document.&nbsp;</font></font></li>
+</ul>
+<font face="Arial"><font size=-1>Developers take all whiteboarded descriptions
+(best if captured using a laptop), meeting minutes, E-mail messages and
+append them to the design and store in the Project Library.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Meanwhile, the testers are preparing
+the Test Cases, Information Development, Installation and Deployment, and
+the remaining team members are following the QMO.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>With Code development completed, enter
+Integration Test. Integration Test test cases are a list of features to
+test.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>With Integration Test completed, produce
+any additional design documents needed to maintain the code. Stress design
+of system, maintainability, reusable code and modules.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>At the discretion of the team, client
+guest prototype testing, client guest Integration Test testing and client
+guest system testing may be conducted.&nbsp;</font></font>
+<p><b><font face="Arial"><font size=-1>Section 5 Test the Project</font></font></b>
+<p><font face="Arial"><font size=-1>System test is conducted in the regular
+fashion.&nbsp;</font></font>
+<p><b><font face="Arial"><font size=-1>Section 6 Deploy the Project</font></font></b>
+<p><font face="Arial"><font size=-1>A Lessons Learned Session should be
+held at the end (and anywhere in the cycle where it makes sense).&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>The system is deployed via the QMO.&nbsp;</font></font></td>
+</tr>
+</table></center>
+
+<center>
+<p><font face="Arial"><font size=-1>| <a href="#top">Top</a> |&nbsp;</font></font>
+<hr></center>
+
+<center><table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="A4"></a><b><font face="Arial"><font size=-2>Unplanned
+Maintenance or Patch&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Managing CRs
+not scheduled for a planned release, typically Severity 1 CRs, emergency/patch
+releases that lend themselves to quick turnaround are covered here.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>An analysis is performed on all CRs
+to determine their impact, and a schedule is prepared to manage development,
+test, and release to the field. This will identify the items to be completed:&nbsp;</font></font>
+<ul>
+<li>
+<font face="Arial"><font size=-1>Additional requirements: a new document,
+an addendum to an existing document, or information detailed in the CR,
+which may imply the CR is explicit. It is most effective to use the CR
+and place the document number in it for traceability&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Design consideration: a new document,
+an addendum to an existing document, information detailed in the CR, or
+not required&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Information Development considerations&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Test considerations&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Deployment (Transition/Installation) considerations&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Client considerations: any additional
+information or concurrence needed from the client&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Supplier considerations&nbsp;</font></font></li>
+
+<br>&nbsp;
+<p>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<p><font face="Arial"><font size=-1>This information may be stored in a
+separate schedule or contained within the CR. The more information contained
+in the CR the more mechanized and easily retrieved.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>After the evaluation, the schedule
+is baselined; this may be as simple as an E-mail message, or a more formal
+project schedule. Minimally it will contain code start date, code development
+complete, unit test complete, code inspection complete, System Test complete,
+CR shipped. The other considerations will be added based on the analysis.
+Performing System Test is the minimum requirement. Projects may or may
+not require Integration Test.&nbsp;</font></font></ul>
+<font face="Arial"><font size=-1>Deploy the modification following the
+deployment procedures.&nbsp;</font></font>
+<p><b><font face="Arial"><font size=-1>Controlled Documents:</font></font></b>
+<ul>
+<li>
+<font face="Arial"><font size=-1>Generic Documents from Library (discussed
+in the <a href="#A1">Introduction</a> of this Job Aid).&nbsp;</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Configuration Management Plan&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Test Plan&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Project Plan. Note, keep the information
+to a functional level, rather than a "person" level.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Generic approvers with a pointer to the
+current list of names&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Technical Operating Environment&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>System Architecture, specify where re-usable
+components are stored and documented</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>CR Schedule and Review Tracking Sheet&nbsp;</font></font></li>
+</ul>
+<b><font face="Arial"><font size=-1>Quality records:</font></font></b>
+<ul>
+<li>
+<font face="Arial"><font size=-1>Ship Sign-Off Checklist&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Test Metrics (when practical) (includes
+Integration Test if required)&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>CR&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Client notification or other artifacts
+to demonstrate that the release was shipped to the client (also suffices
+as Release Record)&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Integrity Report&nbsp;</font></font></li>
+</ul>
+
+<center>
+<p><br><font face="Arial"><font size=-1>| <a href="#top">Top</a> |&nbsp;</font></font></center>
+</td>
+</tr>
+</table></center>
+
+</body>
+</html>

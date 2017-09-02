@@ -1,0 +1,46 @@
+9/24/2009 3:06 PM : System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at SCTVCamera.SCTVCameraMain.getCameraInfo() in C:\utilities\programming\projects\SCTV2\SCTVCamera\SCTVCameraMain.cs:line 115
+10/7/2009 8:41 PM : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DirectX.Capture.FilterCollection.get_Item(Int32 index) in C:\utilities\programming\examples\videoCapture\2\DirectX.Capture\FilterCollection.cs:line 92
+   at SCTVCamera.SCTVCameraMain.getCameraInfo() in C:\utilities\programming\projects\SCTV2\SCTVCamera\SCTVCameraMain.cs:line 156
+10/7/2009 8:41 PM : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DirectX.Capture.FilterCollection.get_Item(Int32 index) in C:\utilities\programming\examples\videoCapture\2\DirectX.Capture\FilterCollection.cs:line 92
+   at SCTVCamera.SCTVCameraMain.getCameraInfo() in C:\utilities\programming\projects\SCTV2\SCTVCamera\SCTVCameraMain.cs:line 156
+10/7/2009 8:42 PM : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DirectX.Capture.FilterCollection.get_Item(Int32 index) in C:\utilities\programming\examples\videoCapture\2\DirectX.Capture\FilterCollection.cs:line 92
+   at SCTVCamera.SCTVCameraMain.getCameraInfo() in C:\utilities\programming\projects\SCTV2\SCTVCamera\SCTVCameraMain.cs:line 156
+10/7/2009 8:44 PM : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DirectX.Capture.FilterCollection.get_Item(Int32 index) in C:\utilities\programming\examples\videoCapture\2\DirectX.Capture\FilterCollection.cs:line 92
+   at SCTVCamera.SCTVCameraMain.getCameraInfo() in C:\utilities\programming\projects\SCTV2\SCTVCamera\SCTVCameraMain.cs:line 156
+10/7/2009 8:44 PM : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DirectX.Capture.FilterCollection.get_Item(Int32 index) in C:\utilities\programming\examples\videoCapture\2\DirectX.Capture\FilterCollection.cs:line 92
+   at SCTVCamera.SCTVCameraMain.getCameraInfo() in C:\utilities\programming\projects\SCTV2\SCTVCamera\SCTVCameraMain.cs:line 156
+10/7/2009 8:45 PM : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DirectX.Capture.FilterCollection.get_Item(Int32 index) in C:\utilities\programming\examples\videoCapture\2\DirectX.Capture\FilterCollection.cs:line 92
+   at SCTVCamera.SCTVCameraMain.getCameraInfo() in C:\utilities\programming\projects\SCTV2\SCTVCamera\SCTVCameraMain.cs:line 156
+10/7/2009 8:47 PM : System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DirectX.Capture.FilterCollection.get_Item(Int32 index) in C:\utilities\programming\examples\videoCapture\2\DirectX.Capture\FilterCollection.cs:line 92
+   at SCTVCamera.SCTVCameraMain.getCameraInfo() in C:\utilities\programming\projects\SCTV2\SCTVCamera\SCTVCameraMain.cs:line 156
+1/9/2010 4:13 PM : System.Configuration : The configuration is read only.

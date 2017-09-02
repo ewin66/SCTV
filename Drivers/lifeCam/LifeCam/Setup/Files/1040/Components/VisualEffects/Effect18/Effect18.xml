@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="82D521D7-0846-456b-8CFF-B54CAE10EAB2" Name="Fumetto" Description="Fumetto" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect18\tn.bmp" DataRelativePath="Components\VisualEffects\Effect18\config.ver"/>
+	</EffectList>
+</Root>

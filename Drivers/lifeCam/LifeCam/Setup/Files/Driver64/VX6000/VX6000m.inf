@@ -1,0 +1,292 @@
+;==========================================================================
+; USB2.0 PC Camera with Microphone (VX6000) INF (for Windows XP64)
+; (c) 2006 Microsoft Corporation
+; Last modified: 2006-10-03
+;==========================================================================
+
+
+
+[Version]
+Signature="$CHICAGO$"
+Class=MEDIA
+ClassGUID={4d36e96c-e325-11ce-bfc1-08002be10318}
+provider=%SX%
+LayoutFile=layout.inf
+CatalogFile.NT = VX6000m.cat
+DriverVer= 12/13/2006,6.0.6001.2
+
+[Manufacturer]
+%Microsoft.Mfg%=Microsoft.Section, ntamd64, ntamd64.6.0
+
+;============================================================================
+[ControlFlags]
+ExcludeFromSelect = *
+
+[Microsoft.Section.ntamd64]
+%USB\VID_045E&PID_00F4&MI_01.DeviceDesc%=USBMic.Microsoft.x64,USB\VID_045E&PID_00F4&MI_01
+
+[Microsoft.Section.ntamd64.6.0]
+%USB\VID_045E&PID_00F4&MI_01.DeviceDesc%=USBMic.Microsoft.x64,USB\VID_045E&PID_00F4&MI_01
+
+[DestinationDirs]
+
+[SourceDisksNames]
+
+[SourceDisksFiles]
+
+;============================================================================
+
+[USBMic.Microsoft.x64]
+Include=wdma_usb.inf,ks.inf,wdmaudio.inf
+Needs = USBMic, KS.Registration, WDMAudio.Registration
+AddReg = USBMic.Microsoft.Addreg
+
+;============================================================================
+[USBMic.Microsoft.Addreg]
+HKR,,IgnoreHWString,0x10001,0x01
+
+;============================================================================
+
+[USBMic.Microsoft.x64.Interfaces]
+AddInterface=%KSCATEGORY_AUDIO%,"GLOBAL",USBAudio.Interface.Microsoft,
+AddInterface=%KSCATEGORY_RENDER%,"GLOBAL",USBAudio.Interface.Microsoft,
+AddInterface=%KSCATEGORY_CAPTURE%,"GLOBAL",USBAudio.Interface.Microsoft,
+
+;============================================================================
+
+[USBMic.Microsoft.x64.Services]
+Include=wdma_usb.inf
+Needs = USBAudio.NT.Services
+
+;============================================================================
+
+[USBMic.Microsoft.x64.HW]
+AddReg=USBAudio.HW.Addreg.Microsoft
+
+[USBAudio.HW.Addreg.Microsoft]
+HKR,,FriendlyName,,%USB\VID_045E&PID_00F4&MI_01.DeviceDesc%
+
+;============================================================================
+
+[USBAudio.Interface.Microsoft]
+AddReg=USBAudio.Interface.Addreg.Microsoft
+
+[USBAudio.Interface.AddReg.Microsoft]
+HKR,,FriendlyName,,%USB\VID_045E&PID_00F4&MI_01.DeviceDesc%
+HKR,,CLSID,,%Proxy.CLSID%
+
+;==========================================================================
+; String Table (English - 1033)
+;==========================================================================
+[Strings]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (German - 1031)
+;==========================================================================
+[Strings.0407]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (French - 1036)
+;==========================================================================
+[Strings.040C]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Japanese - 1041)
+;==========================================================================
+[Strings.0411]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Chinese Traditional - 1028)
+;==========================================================================
+[Strings.0404]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Greek - 1032)
+;==========================================================================
+[Strings.0408]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Spanish - 1034)
+;==========================================================================
+[Strings.040A]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Italian - 1040)
+;==========================================================================
+[Strings.0410]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Korean - 1042)
+;==========================================================================
+[Strings.0412]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Portuguese Brazilian - 1046)
+;==========================================================================
+[Strings.0416]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Chinese Simplified - 2052)
+;==========================================================================
+[Strings.0804]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+
+;==========================================================================
+; String Table (Portuguese Iberian - 2070)
+;==========================================================================
+[Strings.0816]
+SX="Microsoft"
+
+USBGenericDesc="USB Audio Device"
+
+Microsoft.Mfg="Microsoft"
+USB\VID_045E&PID_00F4&MI_01.DeviceDesc="Microsoft LifeCam VX-6000."
+
+USBAudio.SvcDesc="USB Audio Driver (WDM)"
+
+Proxy.CLSID = "{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_AUDIO="{6994ad04-93ef-11d0-a3cc-00a0c9223196}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"

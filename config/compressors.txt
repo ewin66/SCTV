@@ -1,0 +1,50 @@
+****  VideoCompressor DirectX.Capture.Filter
+vCompressors  - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\iyuv
+vCompressors Cinepak Codec by Radius - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\cvid
+vCompressors DV Video Encoder - @device:sw:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\DV Video Encoder
+vCompressors Indeo® video 5.10 - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\iv50
+vCompressors Indeo® video 5.10 Compression Filter - @device:sw:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\Indeo® video 5.10 Compression Filter
+vCompressors Intel 4:2:0 Video V2.50 - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\i420
+vCompressors Intel Indeo(R) Video R3.2 - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\iv32
+vCompressors Microsoft H.261 Video Codec - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\m261
+vCompressors Microsoft H.263 Video Codec - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\m263
+vCompressors Microsoft MPEG-4 Video Codec V1 - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\mpg4
+vCompressors Microsoft MPEG-4 Video Codec V2 - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\mp42
+vCompressors Microsoft RLE - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\mrle
+vCompressors Microsoft Video 1 - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\msvc
+vCompressors Microsoft Windows Media Video 9 - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\wmv3
+vCompressors MJPEG Compressor - @device:sw:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\MJPEG Compressor
+vCompressors MSScreen 9 encoder DMO - @device:dmo:{F7FFE0A0-A4F5-44B5-949E-15ED2BC66F9D}{33D9A760-90C8-11D0-BD43-00A0C911CE86}
+vCompressors MSScreen encoder DMO - @device:dmo:{8CB9CC06-D139-4AE6-8BB4-41E612E141D5}{33D9A760-90C8-11D0-BD43-00A0C911CE86}
+vCompressors TechSmith Screen Capture Codec - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\tscc
+vCompressors Toshiba YUV Codec - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\yvu9
+vCompressors WMVideo Encoder DMO - @device:dmo:{3181343B-94A2-4FEB-ADEF-30A1DDE617B4}{33D9A760-90C8-11D0-BD43-00A0C911CE86}
+vCompressors WMVideo8 Encoder DMO - @device:dmo:{BA2F0162-CAA4-48FC-89EA-DB0D1DFF40CA}{33D9A760-90C8-11D0-BD43-00A0C911CE86}
+vCompressors WMVideo9 Encoder DMO - @device:dmo:{96B57CDD-8966-410C-BB1F-C97EEA765C04}{33D9A760-90C8-11D0-BD43-00A0C911CE86}
+vCompressors Xirlink H.263 Video Codec - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\d263
+vCompressors XviD MPEG-4 Codec - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\yv12
+vCompressors XviD MPEG-4 Codec - @device:cm:{33D9A760-90C8-11D0-BD43-00A0C911CE86}\xvid
+aCompressors ACELP.net - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\304ACELP.net
+aCompressors CCITT A-Law - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\6CCITT A-Law
+aCompressors CCITT u-Law - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\7CCITT u-Law
+aCompressors DSP Group TrueSpeech(TM) - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\34DSP Group TrueSpeech(TM)
+aCompressors GSM 6.10 - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\49GSM 6.10
+aCompressors IAC2 - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\1026IAC2
+aCompressors IMA ADPCM - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\17IMA ADPCM
+aCompressors Lernout & Hauspie CELP 4.8kbit/s - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\112Lernout & Hauspie CELP 4.8kbit/s
+aCompressors Lernout & Hauspie SBC 12kbit/s - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\114Lernout & Hauspie SBC 12kbit/s
+aCompressors Lernout & Hauspie SBC 16kbit/s - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\115Lernout & Hauspie SBC 16kbit/s
+aCompressors Lernout & Hauspie SBC 8kbit/s - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\113Lernout & Hauspie SBC 8kbit/s
+aCompressors Microsoft ADPCM - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\2Microsoft ADPCM
+aCompressors Microsoft G.723.1 - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\66Microsoft G.723.1
+aCompressors MPEG Layer-3 - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\85MPEG Layer-3
+aCompressors PCM - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\1PCM
+aCompressors Vorbis Encoder - @device:sw:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\Vorbis Encoder
+aCompressors Voxware MetaSound - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\117Voxware MetaSound
+aCompressors Voxware MetaVoice - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\116Voxware MetaVoice
+aCompressors Voxware v1.1.6/1.1.8 File-Mode Codecs - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\98Voxware v1.1.6/1.1.8 File-Mode Codecs
+aCompressors Voxware v1.1.8 Bitstream-Mode Codecs - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\105Voxware v1.1.8 Bitstream-Mode Codecs
+aCompressors Windows Media Audio V1 - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\352Windows Media Audio V1
+aCompressors Windows Media Audio V2 - @device:cm:{33D9A761-90C8-11D0-BD43-00A0C911CE86}\353Windows Media Audio V2
+aCompressors WM Speech Encoder DMO - @device:dmo:{67841B03-C689-4188-AD3F-4C9EBEEC710B}{33D9A761-90C8-11D0-BD43-00A0C911CE86}
+aCompressors WMAudio Encoder DMO - @device:dmo:{70F598E9-F4AB-495A-99E2-A7C4D3D89ABF}{33D9A761-90C8-11D0-BD43-00A0C911CE86}

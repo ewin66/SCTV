@@ -1,0 +1,66 @@
+﻿<mediaTypes>
+  <type>
+    <name>Hulu</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Movies / TV</category>
+    <description>Online Movies and TV</description>
+    <url>www.hulu.com</url>
+    <coverImage>/images/OnlineMedia/Hulu.jpg</coverImage>
+  </type>
+  <type>
+    <name>JustinTV</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Movies / TV</category>
+      <description>Online Movies and TV</description>
+      <url>www.justin.tv</url>
+      <coverImage>/images/OnlineMedia/JustinTV.jpg</coverImage>
+    </type>
+    <type>
+      <name>Fancast</name>
+      <mediaCategory>Online</mediaCategory>
+      <category>Movies / TV</category>
+      <description>Online Movies and TV</description>
+      <url>www.fancast.com</url>
+      <coverImage>/images/OnlineMedia/Fancast.jpg</coverImage>
+  </type>
+  <type>
+    <name>iTunes</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Music</category>
+    <description>Online Music</description>
+    <url>www.itunes.com</url>
+    <coverImage>/images/OnlineMedia/iTunes.jpg</coverImage>
+  </type>
+  <type>
+    <name>Pandora</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Music</category>
+    <description>Online Radio</description>
+    <url>www.pandora.com</url>
+    <coverImage>/images/OnlineMedia/pandora.jpg</coverImage>
+  </type>
+  <type>
+    <name>Joost</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>TV / Movies</category>
+    <description>Online TV</description>
+    <url>www.joost.com</url>
+    <coverImage>/images/OnlineMedia/Joost.jpg</coverImage>
+  </type>
+  <type>
+    <name>BillboardLive</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Concerts</category>
+    <description>Online Concerts</description>
+    <url>www.billboardlive.com</url>
+    <coverImage>/images/OnlineMedia/BillboardLive.jpg</coverImage>
+  </type>
+  <type>
+    <name>YouTube</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Video / Networking</category>
+    <description>Online Video</description>
+    <url>www.youtube.com</url>
+    <coverImage>/images/OnlineMedia/YouTube.jpg</coverImage>
+  </type>
+</mediaTypes>

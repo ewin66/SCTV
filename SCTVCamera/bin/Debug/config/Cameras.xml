@@ -1,0 +1,66 @@
+<Cameras>
+  <camera>
+    <name>Front Door</name>
+    <monikerString>@device:pnp:\\?\usb#vid_0545&amp;pid_8002#5&amp;f34cdd1&amp;0&amp;2#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize>320 x 240</frameSize>
+    <frameRate>5</frameRate>
+  </camera>
+  <camera>
+    <name>Emmy's Room</name>
+    <monikerString>@device:pnp:\\?\usb#vid_07ca&amp;pid_c038#07575_09030m#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{9b365890-165f-11d0-a195-0020afd156e4}</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize>320 x 240</frameSize>
+    <frameRate>5</frameRate>
+  </camera>
+  <camera>
+    <name>Hall</name>
+    <monikerString>@device:pnp:\\?\usb#vid_07ca&amp;pid_c038#05395_09050m#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{9b365890-165f-11d0-a195-0020afd156e4}</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize>320 x 240</frameSize>
+    <frameRate>29</frameRate>
+  </camera>
+  <camera>
+    <name>IBM PC Camera</name>
+    <monikerString>@device:pnp:\\?\usb#vid_0545&amp;pid_8002#5&amp;12e05fc5&amp;0&amp;2#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize>320 x 240</frameSize>
+    <frameRate>5</frameRate>
+  </camera>
+  <camera>
+    <name>IBM PC Camera</name>
+    <monikerString>@device:pnp:\\?\usb#vid_0545&amp;pid_8002#5&amp;12e05fc5&amp;0&amp;1#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize>320 x 240</frameSize>
+    <frameRate>5</frameRate>
+  </camera>
+  <camera>
+    <name>Integrated Webcam</name>
+    <monikerString>@device:pnp:\\?\usb#vid_0408&amp;pid_2fb1&amp;mi_00#7&amp;263fd7d3&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize>320 x 240</frameSize>
+    <frameRate>5</frameRate>
+  </camera>
+  <camera>
+    <name>Logitech Webcam 250</name>
+    <monikerString>@device:pnp:\\?\usb#vid_046d&amp;pid_0804&amp;mi_00#7&amp;6ce2ddf&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{bbefb6c7-2fc4-4139-bb8b-a58bba724083}</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize>320 x 240</frameSize>
+    <frameRate>5</frameRate>
+  </camera>
+  <camera>
+    <name>VDP Source</name>
+    <monikerString>@device:sw:{860BB310-5D01-11D0-BD3B-00A0C911CE86}\{8E14549A-DB61-4309-AFA1-3578E927E933}</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize />
+    <frameRate />
+  </camera>
+</Cameras>

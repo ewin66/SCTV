@@ -1,0 +1,34 @@
+﻿<mediaTypes>
+  <type>
+    <name>Hulu</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Movies / TV</category>
+    <description>Online Movies and TV</description>
+    <url>www.hulu.com</url>
+    <coverImage></coverImage>
+  </type>
+  <type>
+    <name>JustinTV</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Movies / TV</category>
+      <description>Online Movies and TV</description>
+      <url>www.justin.tv</url>
+      <coverImage></coverImage>
+    </type>
+    <type>
+      <name>Fancast</name>
+      <mediaCategory>Online</mediaCategory>
+  <category>Movies / TV</category>
+  <description>Online Movies and TV</description>
+  <url>www.fancast.com</url>
+  <coverImage></coverImage>
+  </type>
+  <type>
+    <name>iTunes</name>
+    <mediaCategory>Online</mediaCategory>
+    <category>Music</category>
+    <description>Online Music</description>
+    <url>www.itunes.com</url>
+    <coverImage></coverImage>
+  </type>
+</mediaTypes>

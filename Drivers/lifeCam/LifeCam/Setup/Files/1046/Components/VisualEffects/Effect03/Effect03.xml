@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="2364113A-7A69-4cfa-8E85-6B4D028B63E0" Name="Flores" Description="Flores" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect03\tn.bmp" DataRelativePath="Components\VisualEffects\Effect03\config.ver"/>
+	</EffectList>
+</Root>

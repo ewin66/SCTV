@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="mediaFiles">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="media">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="title" type="xs:string" />
+              <xs:element name="previousTitle" type="xs:string" />
+              <xs:element name="performers" type="xs:string" />
+              <xs:element name="rating" type="xs:string" />
+              <xs:element name="ratingDescription" type="xs:string" />
+              <xs:element name="description" type="xs:string" />
+              <xs:element name="stars" />
+              <xs:element name="category" type="xs:string" />
+              <xs:element minOccurs="0" name="Director" type="xs:string" />
+              <xs:element minOccurs="0" name="ReleaseYear" type="xs:string" />
+              <xs:element minOccurs="0" name="DateAdded" type="xs:string" />
+              <xs:element name="timesPlayed" type="xs:string" />
+              <xs:element name="filePath" type="xs:string" />
+              <xs:element name="grammar" type="xs:string" />
+              <xs:element name="coverImage" type="xs:string" />
+              <xs:element name="IMDBNum" type="xs:string" />
+              <xs:element name="SortBy" type="xs:string" />
+              <xs:element name="LastPlayed" type="xs:string" />
+              <xs:element name="MediaType" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

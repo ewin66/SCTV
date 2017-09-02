@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="E62DFC33-50EF-4c42-BCCB-CD420CB4A91C" Name="Nave espacial" Description="Nave espacial" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect13\tn.bmp" DataRelativePath="Components\VisualEffects\Effect13\config.ver"/>
+	</EffectList>
+</Root>

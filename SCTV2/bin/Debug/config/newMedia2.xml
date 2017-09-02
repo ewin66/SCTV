@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <media>
+    <title>A Bug's Life (1998)</title>
+    <previousTitle>A BUG S LIF E</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>An epic of miniature proportions.</description>
+    <stars />
+    <category>Family / Animation / Comedy / Adventure</category>
+    <Director>John Lasseter</Director>
+    <ReleaseYear>1998</ReleaseYear>
+    <DateAdded>7/13/2009</DateAdded>
+    <timesPlayed />
+    <filePath>C:\Movies\A_BUGS_LIFE.avi</filePath>
+    <grammar>A Bug's Life (1998)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0120623.jpg</coverImage>
+    <IMDBNum>tt0120623</IMDBNum>
+  </media>
+  <media>
+    <title>En bilf&amp;#xF6;rs&amp;#xE4;ljare fr&amp;#xE5;n Gotland (1977) (TV)</title>
+    <previousTitle>Got Sand</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category />
+    <Director>Per Berglund</Director>
+    <ReleaseYear>1977</ReleaseYear>
+    <DateAdded>7/13/2009</DateAdded>
+    <timesPlayed />
+    <filePath>C:\Movies\GotSand.avi</filePath>
+    <grammar>En bilf&amp;#xF6;rs&amp;#xE4;ljare fr&amp;#xE5;n Gotland (1977) (TV)</grammar>
+    <coverImage />
+    <IMDBNum>tt0195554</IMDBNum>
+  </media>
+  <media>
+    <title>Once Bitten (1985)</title>
+    <previousTitle>ONC E BITTE N</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>Mark Kendall just found out that his one-night stand has been around for centuries.</description>
+    <stars />
+    <category>Comedy / Horror</category>
+    <Director>Howard Storm</Director>
+    <ReleaseYear>1985</ReleaseYear>
+    <DateAdded>7/13/2009</DateAdded>
+    <timesPlayed />
+    <filePath>C:\Movies\ONCE_BITTEN.avi</filePath>
+    <grammar>Once Bitten (1985)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0089730.jpg</coverImage>
+    <IMDBNum>tt0089730</IMDBNum>
+  </media>
+  <media>
+    <title>Kate &amp; Leopold (2001)</title>
+    <previousTitle>KAT E AN D LEOPOL D</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>brief strong language.</ratingDescription>
+    <description>If they lived in the same century they'd be perfect for each other.</description>
+    <stars />
+    <category>Comedy / Fantasy / Romance</category>
+    <Director>James Mangold</Director>
+    <ReleaseYear>2001</ReleaseYear>
+    <DateAdded>6/16/2009</DateAdded>
+    <timesPlayed />
+    <filePath>C:\Movies\KATE_AND_LEOPOLD.ISO</filePath>
+    <grammar>Kate &amp; Leopold (2001)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0035423.jpg</coverImage>
+    <IMDBNum>tt0035423</IMDBNum>
+  </media>
+</DocumentElement>

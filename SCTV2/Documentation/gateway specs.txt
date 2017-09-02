@@ -1,0 +1,115 @@
+Gateway FMC-901  
+  
+ PRODUCT DETAILS 
+  
+  Operating System:   Microsoft® Windows® XP Media Center Edition 2004 
+ 
+Processor:   Intel® Celeron® Processor 2.6GHz 
+ 
+Memory:   256MB 333MHz DDR SDRAM 
+ 
+Hard Drive:   80GB Ultra ATA100 7200rpm hard drive 
+ 
+Floppy Drive:   Integrated 6-in-1 memory card reader 
+ 
+Optical Drive:   DVD/CD-RW combo drive 
+ 
+Extended Service Plan Including Limited Warranty:   Desktop Value Service Plan -- 3 year parts/labor/no on-site/3 year technical support 
+ 
+External Ports:   (4) USB 2.0 Ports and (3) Integrated IEEE 1394 (FireWire) 
+ 
+Input/Output Jacks:   5.1 Line Out, SPDIFF Optical Out, S-Video In, Composite A/V In, Headphone and Microphone In jacks 
+ 
+Dimensions:   17" x 5.75" x 14.5" (WxHxD), approximately 26.46lb. 
+ 
+Video:   128MB NVIDIA FX5200 Graphics with VGA, DVI and S-Video Out 
+ 
+Keyboard and Mouse:   Wireless Gyration Multifunction Keyboard and Wireless Gyration Mouse and Mouse Pad 
+ 
+Remote Control:   Infrared Media Center Remote and Receiver 
+ 
+TV Tuner:   Integrated TV Tuner 
+ 
+Music Sampler:   Napster 2.0 and 150 Song Sampler (pre-loaded on hard disk) 
+ 
+Speakers:   External speakers not selected 
+ 
+Modem:   V.92 56K Modem w/ 6 month America Online® Internet Access 
+ 
+Network Adapter:   Integrated Intel® 10/100 Ethernet Adapter 
+ 
+Part Number:   1007962/2900090 
+ 
+
+ 
+
+ 
+ 
+ ADDITIONAL TECHNICAL SPECIFICATIONS 
+  
+  Processor: 
+Intel® Celeron® 2.6GHz processor
+128k Level 2 cache
+400Mhz front side bus
+mPGA478 pin socket 
+ 
+Chipset: 
+Intel® M865G
+4MB FWH Flash BIOS
+Supports 400/533/800 MHz 
+ 
+Memory Slots: 
+2 DDR SDRAM slots
+Dual or Single Channel Support
+Support for 266/333/400 MHz
+184-pin DIMM sockets 
+ 
+Audio: 
+Integrated 5.1 Channel Audio 
+ 
+Dimensions: 
+17" W x 5.75" H x 14.5" D 
+ 
+Weight: 
+Approximate-26.46lbs. 
+ 
+USB Ports: 
+4-USB version 2.0 USB ports
+(2-Rear/2-Front) 
+ 
+Other Ports: 
+Front
+One 4 pin & One 6 pin IEEE 1394 Ports
+Universal front-panel jacks with Headphone and Mic-in functionality
+(If headphones are connected to the system, the 5.1 Channel will be muted)
+Rear
+One 6 pin IEEE 1394 Port
+10/100 Ethernet
+5.1 Line Out
+SPDIFF Optical Out
+56K Modem
+IR Control 
+ 
+Power Supply: 
+Integrated 250 Watt Power Supply 
+ 
+Certifications: 
+CUL/UL 60950-1,FCC Class B Part 68, Industry Canada CS 03 & ICES 003 Class B, NOM/NYCE marked for Mexico 
+ 
+
+ 
+
+ 
+ 
+ 
+ Price:   $1,149.98  
+ Prices exclude applicable taxes and shipping and handling on Plasma TV's and Accessory Store purchases.  
+  
+  Actual speeds may vary.
+
+Click here, call 800-846-2000 or write to Gateway Terms & Conditions, P.O. Box 1951, North Sioux City, SD 57049-1951 for a free copy of applicable limited warranties and service agreements. Services may be provided by third parties. An authorized representative will determine the method of service provided. You may be required to take or send your product to an authorized location for service. If you purchased on-site service, it will be provided only if an authorized representative determines it is necessary because your problem cannot be corrected through other means. On-site service is not available in all locations and excludes mice, keyboards, docking stations, external peripherals and monitors. See agreements for specific terms and limitations. 
+
+TO AVOID BEING CHARGED A MONTHLY FEE, CANCEL BEFORE PROMOTIONAL PERIOD ENDS. Must register within the first 30 days after receipt of system to receive promotional offer.You may incur surcharges even during promotional period for premium services, or long distance charges on your phone bill, depending on location and calling plan. Communication surcharges may also apply with some access numbers and in AK. For details and access numbers call 1-800-846-2000. Check with your local phone company to determine whether the access number you select is a local call for your calling plan. New U.S. members 18 and older only. Major credit card or checking account required. Use may be limited, especially during peak usage.
+
+Certain Microsoft® software product(s) included with this computer may use technological measures for copy protection. IN SUCH EVENT, YOU WILL NOT BE ABLE TO USE THE PRODUCT IF YOU DO NOT FULLY COMPLY WITH THE PRODUCT ACTIVATION PROCEDURES. Product activation procedures and Microsoft's privacy policy will be detailed during initial launch of the product, or upon certain reinstallations of the software product(s) or reconfigurations of the computer, and may be completed by Internet or telephone (toll charges may apply).
+ 

@@ -1,0 +1,29 @@
+Usage: C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug [options] [stream] ...
+You can specify multiple streams on the commandline. They will be enqueued in the playlist.
+The first item specified will be played first.
+
+Options-styles:
+  --option  A global option that is set for the duration of the program.
+   -option  A single letter version of a global --option.
+   :option  An option that only applies to the stream directly before it
+            and that overrides previous settings.
+
+Stream MRL syntax:
+  [[access][/demux]://]URL[@[title][:chapter][-[title][:chapter]]] [:option=value ...]
+
+  Many of the global --options can also be used as MRL specific :options.
+  Multiple :option=value pairs can be specified.
+
+URL syntax:
+  [file://]filename              Plain media file
+  http://ip:port/file            HTTP URL
+  ftp://ip:port/file             FTP URL
+  mms://ip:port/file             MMS URL
+  screen://                      Screen capture
+  [dvd://][device][@raw_device]  DVD device
+  [vcd://][device]               VCD device
+  [cdda://][device]              Audio CD device
+  udp:[[<source address>]@[<bind address>][:<bind port>]]
+                                 UDP stream sent by a streaming server
+  vlc:pause:<seconds>            Special item to pause the playlist for a certain time
+  vlc:quit                       Special item to quit VLC

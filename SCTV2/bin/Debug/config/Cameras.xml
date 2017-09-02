@@ -1,0 +1,10 @@
+<Cameras>
+  <camera>
+    <name>AVerMedia C038 USB Capture Card</name>
+    <monikerString>@device:pnp:\\?\usb#vid_07ca&amp;pid_c038#07575_09030m#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{9b365890-165f-11d0-a195-0020afd156e4}</monikerString>
+    <recordPath>
+    </recordPath>
+    <frameSize>320 x 240</frameSize>
+    <frameRate>5</frameRate>
+  </camera>
+</Cameras>

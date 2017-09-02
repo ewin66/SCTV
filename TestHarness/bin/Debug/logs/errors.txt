@@ -1,0 +1,1780 @@
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:24 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : A generic error occurred in GDI+.
+   at System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   at System.Drawing.Image.Save(String filename, ImageFormat format)
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 427
+12/28/2010 12:25 AM : Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+   at System.Drawing.SafeNativeMethods.Gdip.GdipDrawString(HandleRef graphics, String textString, Int32 length, HandleRef font, GPRECTF& layoutRect, HandleRef stringFormat, HandleRef brush)
+   at System.Drawing.Graphics.DrawString(String s, Font font, Brush brush, RectangleF layoutRectangle, StringFormat format)
+   at System.Drawing.Graphics.DrawString(String s, Font font, Brush brush, Single x, Single y)
+   at SCTV.Controls.ScrollingTabs.button1_Paint(Object sender, PaintEventArgs e) in C:\utilities\programming\projects\SCTV2\SCTVControls\ScrollingTabs.cs:line 244
+12/28/2010 12:36 AM : Cross-thread operation not valid: Control 'FlashPlayer' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.get_InternalHandle()
+   at System.Windows.Forms.Control.DestroyHandle()
+   at System.Windows.Forms.Control.Dispose(Boolean disposing)
+   at System.Windows.Forms.ContainerControl.Dispose(Boolean disposing)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at SCTV.FlashPlayer.Dispose(Boolean disposing) in C:\utilities\programming\projects\SCTV2\SCTVFlashPlayer\FlashPlayer.Designer.cs:line 20
+   at System.ComponentModel.Component.Dispose()
+   at MyTest.TestHarness.displayGame() in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 403
+   at MyTest.TestHarness.takeScreenShot(Object gameName) in C:\utilities\programming\projects\SCTV2\TestHarness\TestHarness.cs:line 445

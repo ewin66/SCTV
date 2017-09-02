@@ -1,0 +1,16 @@
+C:\utilities\programming\projects\FileFixer\FileFixer\bin\Debug\FileFixer.exe
+C:\utilities\programming\projects\FileFixer\FileFixer\bin\Debug\FileFixer.pdb
+C:\utilities\programming\projects\FileFixer\FileFixer\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\FileFixer\FileFixer\obj\Debug\FileFixer.Form1.resources
+C:\utilities\programming\projects\FileFixer\FileFixer\obj\Debug\FileFixer.Properties.Resources.resources
+C:\utilities\programming\projects\FileFixer\FileFixer\obj\Debug\FileFixer.csproj.GenerateResource.Cache
+C:\utilities\programming\projects\FileFixer\FileFixer\obj\Debug\FileFixer.exe
+C:\utilities\programming\projects\FileFixer\FileFixer\obj\Debug\FileFixer.pdb
+C:\utilities\programming\projects\SCTV2\FileFixer\FileFixer\obj\Debug\FileFixer.exe
+C:\utilities\programming\projects\SCTV2\FileFixer\FileFixer\obj\Debug\FileFixer.pdb
+C:\utilities\programming\projects\SCTV2\FileFixer\FileFixer\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\FileFixer\FileFixer\obj\Debug\FileFixer.Form1.resources
+C:\utilities\programming\projects\SCTV2\FileFixer\FileFixer\obj\Debug\FileFixer.Properties.Resources.resources
+C:\utilities\programming\projects\SCTV2\FileFixer\FileFixer\obj\Debug\FileFixer.csproj.GenerateResource.Cache
+C:\utilities\programming\projects\SCTV2\FileFixer\FileFixer\bin\Debug\FileFixer.exe
+C:\utilities\programming\projects\SCTV2\FileFixer\FileFixer\bin\Debug\FileFixer.pdb

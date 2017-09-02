@@ -1,0 +1,236 @@
+7/1/2009 11:28 AM : SaveJpeg error: A generic error occurred in GDI+.
+7/1/2009 11:28 AM : SaveJpeg error: A generic error occurred in GDI+.
+12/23/2010 1:30 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 2:17 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getPhoto(Media media) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 226
+   at SCTVObjects.IMDBScraper.getInfo(Media media, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 434
+   at SCTVObjects.IMDBScraper.getInfoByNumber(Media media) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 169
+   at SCTVObjects.MultipleMatches.selectMedia() in C:\utilities\programming\projects\SCTV2\Objects\IMDBMultipleMatches.cs:line 85
+   at SCTVObjects.MultipleMatches.btnSelect_Click(Object sender, EventArgs e) in C:\utilities\programming\projects\SCTV2\Objects\IMDBMultipleMatches.cs:line 72
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at SCTVObjects.IMDBScraper.getInfo(Media media, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 337
+   at SCTVObjects.IMDBScraper.getInfoByTitle(String title, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 194
+12/23/2010 2:19 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 2:20 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getPhoto(Media media) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 226
+   at SCTVObjects.IMDBScraper.getInfo(Media media, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 434
+   at SCTVObjects.IMDBScraper.getInfoByNumber(Media media) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 169
+   at SCTVObjects.MultipleMatches.selectMedia() in C:\utilities\programming\projects\SCTV2\Objects\IMDBMultipleMatches.cs:line 85
+   at SCTVObjects.MultipleMatches.listView1_MouseDoubleClick(Object sender, MouseEventArgs e) in C:\utilities\programming\projects\SCTV2\Objects\IMDBMultipleMatches.cs:line 67
+   at System.Windows.Forms.Control.OnMouseDoubleClick(MouseEventArgs e)
+   at System.Windows.Forms.ListView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at SCTVObjects.IMDBScraper.getInfo(Media media, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 337
+   at SCTVObjects.IMDBScraper.getInfoByTitle(String title, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 194
+12/23/2010 2:20 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 2:23 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getPhoto(Media media) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 226
+   at SCTVObjects.IMDBScraper.getInfo(Media media, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 434
+   at SCTVObjects.IMDBScraper.getInfoByNumber(Media media) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 169
+   at SCTVObjects.MultipleMatches.selectMedia() in C:\utilities\programming\projects\SCTV2\Objects\IMDBMultipleMatches.cs:line 85
+   at SCTVObjects.MultipleMatches.btnSelect_Click(Object sender, EventArgs e) in C:\utilities\programming\projects\SCTV2\Objects\IMDBMultipleMatches.cs:line 72
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at SCTVObjects.IMDBScraper.getInfo(Media media, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 337
+   at SCTVObjects.IMDBScraper.getInfoByTitle(String title, Boolean bestMatch) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 194
+12/23/2010 2:23 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 2:50 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace)
+12/23/2010 3:07 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 3:12 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 3:21 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 3:23 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 3:35 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace)
+12/23/2010 6:12 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 6:18 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 6:18 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 564
+12/23/2010 6:32 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 6:32 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 564
+12/23/2010 6:35 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 6:35 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 564
+12/23/2010 6:37 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 6:37 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 564
+12/23/2010 10:54 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 10:54 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 568
+12/23/2010 11:10 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace)
+12/23/2010 11:10 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content)
+12/23/2010 11:12 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace)
+12/23/2010 11:12 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content)
+12/23/2010 11:13 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace)
+12/23/2010 11:13 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content)
+12/23/2010 11:13 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace)
+12/23/2010 11:13 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content)
+12/23/2010 11:30 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.MediaHandler.FormatNameString(String stringToSpace) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 2199
+12/23/2010 11:30 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVObjects.IMDBScraper.getTitle(String content) in C:\utilities\programming\projects\SCTV2\Objects\IMDBScraper.cs:line 568

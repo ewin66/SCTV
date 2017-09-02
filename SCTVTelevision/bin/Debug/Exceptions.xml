@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<ProgramExceptions>
+  <ExceptionInformation>
+    <AdditionalInformationProperty ExceptionManager.MachineName="BOB" ExceptionManager.TimeStamp="5/1/2004 11:35:51 PM" ExceptionManager.FullName="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral, PublicKeyToken=null" ExceptionManager.AppDomainName="SCTV.exe" ExceptionManager.ThreadIdentity="" ExceptionManager.WindowsIdentity="BOB\Administrator" />
+    <Exception ExceptionType="System.IO.FileNotFoundException" Message="File or assembly name TVListings, or one of its dependencies, was not found." FileName="TVListings" FusionLog="=== Pre-bind state information ===&#xD;&#xA;LOG: DisplayName = TVListings, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null&#xA; (Fully-specified)&#xD;&#xA;LOG: Appbase = H:\Documents and Settings\Administrator.BOB\My Documents\Visual Studio Projects\SCTV\bin\Debug\&#xD;&#xA;LOG: Initial PrivatePath = NULL&#xD;&#xA;Calling assembly : Microsoft.ApplicationBlocks.ConfigurationManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.&#xD;&#xA;===&#xA;&#xD;&#xA;LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).&#xD;&#xA;LOG: Post-policy reference: TVListings, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null&#xD;&#xA;LOG: Attempting download of new URL file:///H:/Documents and Settings/Administrator.BOB/My Documents/Visual Studio Projects/SCTV/bin/Debug/TVListings.DLL.&#xD;&#xA;LOG: Attempting download of new URL file:///H:/Documents and Settings/Administrator.BOB/My Documents/Visual Studio Projects/SCTV/bin/Debug/TVListings/TVListings.DLL.&#xD;&#xA;LOG: Attempting download of new URL file:///H:/Documents and Settings/Administrator.BOB/My Documents/Visual Studio Projects/SCTV/bin/Debug/TVListings.EXE.&#xD;&#xA;LOG: Attempting download of new URL file:///H:/Documents and Settings/Administrator.BOB/My Documents/Visual Studio Projects/SCTV/bin/Debug/TVListings/TVListings.EXE.&#xD;&#xA;" TargetSite="System.Type GetType(System.String, Boolean)" Source="mscorlib">
+      <StackTrace>   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.XmlSerializerSectionHandler.System.Configuration.IConfigurationSectionHandler.Create(Object parent, Object configContext, XmlNode section)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.ConfigurationManager.Read(String sectionName)
+   at SCTV.Form1.Form1_Load(Object sender, EventArgs e) in h:\documents and settings\administrator.bob\my documents\visual studio projects\sctv\form1.cs:line 2653</StackTrace>
+    </Exception>
+  </ExceptionInformation>
+  <ExceptionInformation>
+    <AdditionalInformationProperty ExceptionManager.MachineName="BOB" ExceptionManager.TimeStamp="5/14/2004 9:40:07 AM" ExceptionManager.FullName="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral, PublicKeyToken=null" ExceptionManager.AppDomainName="SCTV.exe" ExceptionManager.ThreadIdentity="" ExceptionManager.WindowsIdentity="BOB\Administrator" />
+    <Exception ExceptionType="System.InvalidOperationException" Message="There is an error in the XML document." TargetSite="System.Object Deserialize(System.Xml.XmlReader, System.String)" Source="System.Xml">
+      <StackTrace>   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.XmlSerializerSectionHandler.System.Configuration.IConfigurationSectionHandler.Create(Object parent, Object configContext, XmlNode section)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.ConfigurationManager.Read(String sectionName)
+   at SCTV.Form1.Form1_Load(Object sender, EventArgs e) in h:\documents and settings\administrator.bob\my documents\visual studio projects\sctv\form1.cs:line 2616</StackTrace>
+      <Exception ExceptionType="System.InvalidOperationException" Message="'StartTime,Channel' is not a valid value for ESortBy." TargetSite="ESortBy Read3_ESortBy(System.String)" Source="rt6eljuy">
+        <StackTrace>   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read3_ESortBy(String s)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read1_ConfigurationData(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read10_ConfigurationData()</StackTrace>
+      </Exception>
+    </Exception>
+  </ExceptionInformation>
+  <ExceptionInformation>
+    <AdditionalInformationProperty ExceptionManager.MachineName="BOB" ExceptionManager.TimeStamp="5/27/2004 4:42:31 PM" ExceptionManager.FullName="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral, PublicKeyToken=null" ExceptionManager.AppDomainName="SCTV.exe" ExceptionManager.ThreadIdentity="" ExceptionManager.WindowsIdentity="BOB\Administrator" />
+    <Exception ExceptionType="SCTV.TVException" Version="1.0.1608.28270" Message="Error encountered when trying to load the TV listings.">
+      <Exception ExceptionType="System.InvalidOperationException" Message="There is an error in XML document (65045, 4)." TargetSite="System.Object Deserialize(System.Xml.XmlReader, System.String)" Source="System.Xml">
+        <StackTrace>   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at SCTV.ProgrammeOrganizer.LoadListingsFromUrl(String location) in h:\documents and settings\administrator.bob\my documents\visual studio projects\sctv\programmeorganizer.cs:line 155
+   at SCTV.ProgrammeOrganizer.LoadListings(String url) in h:\documents and settings\administrator.bob\my documents\visual studio projects\sctv\programmeorganizer.cs:line 166</StackTrace>
+        <Exception ExceptionType="System.Xml.XmlException" Message="This is an unexpected token. The expected token is 'NAME'. Line 65045, position 12." LineNumber="65045" LinePosition="12" TargetSite="Void SetAttributeValues()" Source="System.Xml">
+          <StackTrace>   at System.Xml.XmlTextReader.SetAttributeValues()
+   at System.Xml.XmlTextReader.ParseElement()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Xml.Serialization.XmlSerializationReader.ReadEndElement()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read6_programmeType(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read1_tv(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read29_tv()</StackTrace>
+        </Exception>
+      </Exception>
+    </Exception>
+  </ExceptionInformation>
+  <ExceptionInformation>
+    <AdditionalInformationProperty ExceptionManager.MachineName="BOB" ExceptionManager.TimeStamp="5/27/2004 4:43:17 PM" ExceptionManager.FullName="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral, PublicKeyToken=null" ExceptionManager.AppDomainName="SCTV.exe" ExceptionManager.ThreadIdentity="" ExceptionManager.WindowsIdentity="BOB\Administrator" />
+    <Exception ExceptionType="SCTV.TVException" Version="1.0.1608.28270" Message="Error encountered when trying to load the TV listings.">
+      <Exception ExceptionType="System.InvalidOperationException" Message="There is an error in XML document (65045, 4)." TargetSite="System.Object Deserialize(System.Xml.XmlReader, System.String)" Source="System.Xml">
+        <StackTrace>   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at SCTV.ProgrammeOrganizer.LoadListingsFromUrl(String location) in h:\documents and settings\administrator.bob\my documents\visual studio projects\sctv\programmeorganizer.cs:line 155
+   at SCTV.ProgrammeOrganizer.LoadListings(String url) in h:\documents and settings\administrator.bob\my documents\visual studio projects\sctv\programmeorganizer.cs:line 166</StackTrace>
+        <Exception ExceptionType="System.Xml.XmlException" Message="This is an unexpected token. The expected token is 'NAME'. Line 65045, position 12." LineNumber="65045" LinePosition="12" TargetSite="Void SetAttributeValues()" Source="System.Xml">
+          <StackTrace>   at System.Xml.XmlTextReader.SetAttributeValues()
+   at System.Xml.XmlTextReader.ParseElement()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Xml.Serialization.XmlSerializationReader.ReadEndElement()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read6_programmeType(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read1_tv(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read29_tv()</StackTrace>
+        </Exception>
+      </Exception>
+    </Exception>
+  </ExceptionInformation>
+  <ExceptionInformation>
+    <AdditionalInformationProperty ExceptionManager.MachineName="BOB" ExceptionManager.TimeStamp="5/27/2004 4:44:47 PM" ExceptionManager.FullName="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral, PublicKeyToken=null" ExceptionManager.AppDomainName="SCTV.exe" ExceptionManager.ThreadIdentity="" ExceptionManager.WindowsIdentity="BOB\Administrator" />
+    <Exception ExceptionType="SCTV.TVException" Version="1.0.1608.28270" Message="Error encountered when trying to load the TV listings.">
+      <Exception ExceptionType="System.InvalidOperationException" Message="There is an error in XML document (65045, 4)." TargetSite="System.Object Deserialize(System.Xml.XmlReader, System.String)" Source="System.Xml">
+        <StackTrace>   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at SCTV.ProgrammeOrganizer.LoadListingsFromUrl(String location) in h:\documents and settings\administrator.bob\my documents\visual studio projects\sctv\programmeorganizer.cs:line 155
+   at SCTV.ProgrammeOrganizer.LoadListings(String url) in h:\documents and settings\administrator.bob\my documents\visual studio projects\sctv\programmeorganizer.cs:line 166</StackTrace>
+        <Exception ExceptionType="System.Xml.XmlException" Message="This is an unexpected token. The expected token is 'NAME'. Line 65045, position 12." LineNumber="65045" LinePosition="12" TargetSite="Void SetAttributeValues()" Source="System.Xml">
+          <StackTrace>   at System.Xml.XmlTextReader.SetAttributeValues()
+   at System.Xml.XmlTextReader.ParseElement()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Xml.Serialization.XmlSerializationReader.ReadEndElement()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read6_programmeType(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read1_tv(Boolean isNullable, Boolean checkType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReader1.Read29_tv()</StackTrace>
+        </Exception>
+      </Exception>
+    </Exception>
+  </ExceptionInformation>
+  <ExceptionInformation>
+    <AdditionalInformationProperty ExceptionManager.MachineName="CLICKEY-LT2" ExceptionManager.TimeStamp="5/12/2010 3:10:32 PM" ExceptionManager.FullName="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral, PublicKeyToken=null" ExceptionManager.AppDomainName="SCTVTelevision.vshost.exe" ExceptionManager.ThreadIdentity="" ExceptionManager.WindowsIdentity="VALKYRIE\Chad.Lickey" />
+    <Exception ExceptionType="System.IO.FileNotFoundException" Message="Could not load file or assembly 'SCTV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified." FileName="SCTV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FusionLog="=== Pre-bind state information ===&#xD;&#xA;LOG: User = VALKYRIE\Chad.Lickey&#xD;&#xA;LOG: DisplayName = SCTV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null&#xA; (Fully-specified)&#xD;&#xA;LOG: Appbase = file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/&#xD;&#xA;LOG: Initial PrivatePath = NULL&#xD;&#xA;Calling assembly : Microsoft.ApplicationBlocks.ConfigurationManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.&#xD;&#xA;===&#xD;&#xA;LOG: This bind starts in default load context.&#xD;&#xA;LOG: Using application configuration file: C:\utilities\programming\projects\SCTV2\SCTVTelevision\bin\Debug\SCTVTelevision.vshost.exe.config&#xD;&#xA;LOG: Using machine configuration file from c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\config\machine.config.&#xD;&#xA;LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).&#xD;&#xA;LOG: Attempting download of new URL file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/SCTV.DLL.&#xD;&#xA;LOG: Attempting download of new URL file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/SCTV/SCTV.DLL.&#xD;&#xA;LOG: Attempting download of new URL file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/SCTV.EXE.&#xD;&#xA;LOG: Attempting download of new URL file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/SCTV/SCTV.EXE.&#xD;&#xA;" Data="System.Collections.ListDictionaryInternal" TargetSite="Void* _GetTypeByName(System.String, Boolean, Boolean, Boolean, System.Threading.StackCrawlMark ByRef, Boolean)" Source="mscorlib">
+      <StackTrace>   at System.RuntimeTypeHandle._GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark, Boolean loadTypeFromPartialName)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark)
+   at System.RuntimeType.PrivateGetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.XmlSerializerSectionHandler.System.Configuration.IConfigurationSectionHandler.Create(Object parent, Object configContext, XmlNode section)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.ConfigurationManager.Read(String sectionName)
+   at SCTVTelevision.Form1.Form1_Load(Object sender, EventArgs e) in C:\utilities\programming\projects\SCTV2\SCTVTelevision\Form1.cs:line 2575</StackTrace>
+    </Exception>
+  </ExceptionInformation>
+  <ExceptionInformation>
+    <AdditionalInformationProperty ExceptionManager.MachineName="CLICKEY-LT2" ExceptionManager.TimeStamp="5/12/2010 3:11:25 PM" ExceptionManager.FullName="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral, PublicKeyToken=null" ExceptionManager.AppDomainName="SCTVTelevision.exe" ExceptionManager.ThreadIdentity="" ExceptionManager.WindowsIdentity="VALKYRIE\Chad.Lickey" />
+    <Exception ExceptionType="System.IO.FileNotFoundException" Message="Could not load file or assembly 'SCTV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified." FileName="SCTV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FusionLog="WRN: Assembly binding logging is turned OFF.&#xD;&#xA;To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.&#xD;&#xA;Note: There is some performance penalty associated with assembly bind failure logging.&#xD;&#xA;To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].&#xD;&#xA;" Data="System.Collections.ListDictionaryInternal" TargetSite="Void* _GetTypeByName(System.String, Boolean, Boolean, Boolean, System.Threading.StackCrawlMark ByRef, Boolean)" Source="mscorlib">
+      <StackTrace>   at System.RuntimeTypeHandle._GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark, Boolean loadTypeFromPartialName)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark)
+   at System.RuntimeType.PrivateGetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.XmlSerializerSectionHandler.System.Configuration.IConfigurationSectionHandler.Create(Object parent, Object configContext, XmlNode section)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.ConfigurationManager.Read(String sectionName)
+   at SCTVTelevision.Form1.Form1_Load(Object sender, EventArgs e) in C:\utilities\programming\projects\SCTV2\SCTVTelevision\Form1.cs:line 2575</StackTrace>
+    </Exception>
+  </ExceptionInformation>
+  <ExceptionInformation>
+    <AdditionalInformationProperty ExceptionManager.MachineName="CLICKEY-LT2" ExceptionManager.TimeStamp="5/13/2010 7:20:58 PM" ExceptionManager.FullName="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral, PublicKeyToken=null" ExceptionManager.AppDomainName="SCTVTelevision.vshost.exe" ExceptionManager.ThreadIdentity="" ExceptionManager.WindowsIdentity="VALKYRIE\chad.lickey" />
+    <Exception ExceptionType="System.IO.FileNotFoundException" Message="Could not load file or assembly 'SCTV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified." FileName="SCTV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" FusionLog="=== Pre-bind state information ===&#xD;&#xA;LOG: User = VALKYRIE\chad.lickey&#xD;&#xA;LOG: DisplayName = SCTV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null&#xA; (Fully-specified)&#xD;&#xA;LOG: Appbase = file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/&#xD;&#xA;LOG: Initial PrivatePath = NULL&#xD;&#xA;Calling assembly : Microsoft.ApplicationBlocks.ConfigurationManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.&#xD;&#xA;===&#xD;&#xA;LOG: This bind starts in default load context.&#xD;&#xA;LOG: Using application configuration file: C:\utilities\programming\projects\SCTV2\SCTVTelevision\bin\Debug\SCTVTelevision.vshost.exe.config&#xD;&#xA;LOG: Using machine configuration file from c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\config\machine.config.&#xD;&#xA;LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).&#xD;&#xA;LOG: Attempting download of new URL file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/SCTV.DLL.&#xD;&#xA;LOG: Attempting download of new URL file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/SCTV/SCTV.DLL.&#xD;&#xA;LOG: Attempting download of new URL file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/SCTV.EXE.&#xD;&#xA;LOG: Attempting download of new URL file:///C:/utilities/programming/projects/SCTV2/SCTVTelevision/bin/Debug/SCTV/SCTV.EXE.&#xD;&#xA;" Data="System.Collections.ListDictionaryInternal" TargetSite="Void* _GetTypeByName(System.String, Boolean, Boolean, Boolean, System.Threading.StackCrawlMark ByRef, Boolean)" Source="mscorlib">
+      <StackTrace>   at System.RuntimeTypeHandle._GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark, Boolean loadTypeFromPartialName)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark)
+   at System.RuntimeType.PrivateGetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark&amp; stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.XmlSerializerSectionHandler.System.Configuration.IConfigurationSectionHandler.Create(Object parent, Object configContext, XmlNode section)
+   at Microsoft.ApplicationBlocks.ConfigurationManagement.ConfigurationManager.Read(String sectionName)
+   at SCTVTelevision.Form1.Form1_Load(Object sender, EventArgs e) in C:\utilities\programming\projects\SCTV2\SCTVTelevision\Form1.cs:line 2575</StackTrace>
+    </Exception>
+  </ExceptionInformation>
+</ProgramExceptions>

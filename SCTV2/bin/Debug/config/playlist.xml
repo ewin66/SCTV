@@ -1,0 +1,6 @@
+﻿<playlistItems>
+  <playlistItem>
+    <mediaSource>//fileserver/music/test.mp3</mediaSource>
+    <playlistName>testing</playlistName>
+  </playlistItem>
+</playlistItems>

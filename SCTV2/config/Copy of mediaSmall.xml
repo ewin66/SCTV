@@ -1,0 +1,554 @@
+<mediaFiles>
+  <media>
+    <title>Indiana Jones</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>Comedy</category>
+    <timesPlayed />
+    <filePath>\\fileserver\video\movies\mrdeeds.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\Media\coverImages\RaidersoOfTheLostArk.jpg</coverImage>
+  </media>
+  <media>
+    <title>Indiana Jones2</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>Drama</category>
+    <timesPlayed />
+    <filePath>C:\movies\IndianaJones4.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\Media\coverImages\RaidersoOfTheLostArk.jpg</coverImage>
+  </media>
+  <media>
+    <title>Indiana Jones3</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>TV</category>
+    <timesPlayed />
+    <filePath>C:\movies\IndianaJones4.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\Media\coverImages\RaidersoOfTheLostArk.jpg</coverImage>
+  </media>
+  <media>
+    <title>13Ghosts</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>Movies</category>
+    <timesPlayed />
+    <filePath>Z:\Video\Movies\13Ghosts.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>babyEinstein-Numbers</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>baby</category>
+    <timesPlayed />
+    <filePath>Z:\Video\baby\babyEinstein-Numbers.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>babyEinstein</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>baby</category>
+    <timesPlayed />
+    <filePath>Z:\Video\baby\babyEinstein.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>babyGenius</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>baby</category>
+    <timesPlayed />
+    <filePath>Z:\Video\baby\babyGenius.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>bikes</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bikes</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bikes\bikes.mpeg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>smashes face on bike</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bikes</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bikes\smashes face on bike.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>(Bugs Bunny) Fright Before Christmas</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\(Bugs Bunny) Fright Before Christmas.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>02 - Speedy Gonzales - 1957 - Tabasco Road</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\02 - Speedy Gonzales - 1957 - Tabasco Road.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>1979 - Bugs Bunny's Christmas Carol</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\1979 - Bugs Bunny's Christmas Carol.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Banned Cartoons - Bugs Bunny - 1938 - Jungle Jitters</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Banned Cartoons - Bugs Bunny - 1938 - Jungle Jitters.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Banned Cartoons - Bugs Bunny - Herr Meets Hare (banned on TV as offensive)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Banned Cartoons - Bugs Bunny - Herr Meets Hare (banned on TV as offensive).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Banned Cartoons--Japs--Bugs Bunny - Tokio Jokio - 1943 - B&amp;W - Upgraded(1)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Banned Cartoons--Japs--Bugs Bunny - Tokio Jokio - 1943 - B&amp;W - Upgraded(1).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Banned Cartoons--Negro--Looney Tunes - 1942 - Fresh Hare (Bugs Bunny &amp; Elmer Fudd)(1)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Banned Cartoons--Negro--Looney Tunes - 1942 - Fresh Hare (Bugs Bunny &amp; Elmer Fudd)(1).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny &amp; Daffy Duck-season</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny &amp; Daffy Duck-season.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny &amp; Yosemite Sam - Fair-Haired Hare</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny &amp; Yosemite Sam - Fair-Haired Hare.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny &amp; Yosemite Sam - Roman Legion-Hare (1955)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny &amp; Yosemite Sam - Roman Legion-Hare (1955).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny &amp; Yosemite Sam - Sahara Hare</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny &amp; Yosemite Sam - Sahara Hare.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - A Star is Bored</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - A Star is Bored.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - A Witch's Tangled Hare</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - A Witch's Tangled Hare.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Ali Baba bunny</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Ali Baba bunny.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Ballot Box Bunny</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Ballot Box Bunny.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Barbary Coast Bunny (5.40 What'choo got sucka!)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Barbary Coast Bunny (5.40 What'choo got sucka!).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Baseball Bugs (1946)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Baseball Bugs (1946).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Bowery Bugs</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Bowery Bugs.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Buccaneer Bunny</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Buccaneer Bunny.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Bugs Bunny Rides Again</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Bugs Bunny Rides Again.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Bugs Bunny vs. The Germans</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Bugs Bunny vs. The Germans.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Bugsy and Mugsy - 1957</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Bugsy and Mugsy - 1957.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Bully for Bugs</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Bully for Bugs.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Bunker Hill Bunny</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Bunker Hill Bunny.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Christmas Carol</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Christmas Carol.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Daffy Duck - Duck Dodgers</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Daffy Duck - Duck Dodgers.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Devil's Feud Cake</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Devil's Feud Cake.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Dr. Devil and Mr. Hare (1964)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Dr. Devil and Mr. Hare (1964).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - education for death (banned cartoon)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - education for death (banned cartoon).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Experimental Rabbit No. 46</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Experimental Rabbit No. 46.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Gorilla My Dreams</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Gorilla My Dreams.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs bunny - Hare-breadth Hurry</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs bunny - Hare-breadth Hurry.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Haredevil Hare (Marvin Martian)(1957)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Haredevil Hare (Marvin Martian)(1957).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Haredevil Hare</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Haredevil Hare.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Hillbilly Hare</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Hillbilly Hare.mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>Bugs Bunny - Homeless Hare (1950)</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\Bugs Bunny - Homeless Hare (1950).mpg</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+  <media>
+    <title>bugs bunny - hyde and hare</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>bugs bunny</category>
+    <timesPlayed />
+    <filePath>Z:\Video\bugs bunny\bugs bunny - hyde and hare.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage></coverImage>
+  </media>
+</mediaFiles>

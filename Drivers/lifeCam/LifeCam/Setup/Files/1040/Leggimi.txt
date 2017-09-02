@@ -1,0 +1,352 @@
+﻿File Leggimi di Microsoft LifeCam
+Maggio 2007
+(c) 2007 Microsoft Corporation. Tutti i diritti riservati.
+
+Questo documento fornisce informazioni aggiornate sul prodotto a integrazione della documentazione software di Microsoft LifeCam.
+
+Per informazioni dettagliate sul software LifeCam, vedere la Guida Microsoft LifeCam installata con il software LifeCam.
+
+>>>Per aprire la Guida Microsoft LifeCam, fare clic su Start, scegliere Tutti i programmi, quindi Microsoft LifeCam e fare clic su Guida LifeCam.
+
+--------------------------------------
+Come utilizzare questo documento
+--------------------------------------
+
+Per visualizzare il file Leggimi in Blocco note, ingrandire la finestra di Blocco note. Nel menu Formato, fare clic su A capo automatico. Per stampare il file Leggimi, aprirlo in Blocco note o in un altro elaboratore di testi, quindi utilizzare il comando Stampa del menu File.
+
+-------------
+SOMMARIO
+-------------
+
+1.0  Installazione e aggiornamenti
+2.0  Hardware
+3.0  Acquisizione video
+4.0  Programmi di messaggistica immediata
+5.0  Altre applicazioni
+6.0  Messaggi di errore
+---------------------
+
+
+
+1.0  Installazione e aggiornamenti
+---------------------
+
+1.1  "Per installare il software Microsoft LifeCam è necessario prima installare un aggiornamento"
+
+È possibile che durante l'installazione venga visualizzato il seguente messaggio:
+"Per installare il software Microsoft LifeCam è necessario prima installare un aggiornamento. 
+È possibile scaricare questo aggiornamento dal sito Web Microsoft (KB822603)".
+
+NOTA: il messaggio NON viene visualizzato se il programma di installazione rileva che l'aggiornamento NON è necessario oppure che è già presente sul computer.
+
+>>In questo caso:
+1. Visitare il sito http://support.microsoft.com/support.
+2. Cercare KB822603.
+3. Fare clic sul collegamento "Download del pacchetto 822603".
+4. Seguire le istruzioni per scaricare e installare l'aggiornamento.
+
+Dopo aver installato l'aggiornamento, riavviare il programma di installazione di LifeCam per installare il relativo software. 
+
+---------------------
+
+1.2  "Errore di installazione"
+
+In Windows Vista N e KN, è possibile che durante l'installazione venga visualizzato il seguente messaggio:
+"Errore di installazione"
+
+>>In questo caso:
+1. Visitare il sito http://support.microsoft.com/support.
+2. Cercare KB929399.
+3. Fare clic sul collegamento per scaricare Windows Media Format 11 SDK per il computer in uso.
+4. Seguire le istruzioni per scaricare e installare l'aggiornamento.
+
+Al termine dell'installazione:
+   Andare nella directory C:\WMSDK\WMFSDK11\Redist e installarvi il programma SDK.
+
+
+---------------------
+
+1.3  Messaggio di errore di installazione: spazio su disco insufficiente o si è verificato un errore
+
+È possibile ricevere questo tipo di errore per diversi motivi:
+- L'installazione potrebbe essere interrotta da programmi per la protezione dai virus, per il blocco dei popup o per l'individuazione di spyware. Per ulteriori informazioni, vedere la sezione 1.4.
+- Il disco rigido su cui si sta effettuando l'installazione potrebbe essere pieno.  
+
+---------------------
+
+1.4  L'installazione potrebbe essere interrotta da programmi per la protezione dai virus, per il blocco dei popup o per l'individuazione di spyware
+
+Durante l'installazione del software LifeCam, il processo di installazione potrebbe essere interrotto da programmi per la protezione dai virus, per il blocco dei popup o per l'individuazione di spyware. 
+
+In molti casi, viene visualizzato un messaggio nel quale viene chiesto se bloccare il processo oppure consentire l'installazione. 
+Se tale messaggio viene visualizzato, consentire l'installazione del software. 
+
+>>In questo caso:
+- Provare a uscire temporaneamente dal programma per la protezione dai virus e a riavviare il programma di installazione di LifeCam.
+
+---------------------
+ 
+1.5  Per completare l'installazione degli aggiornamenti automatici, chiudere e riaprire il software LifeCam
+ 
+Dopo aver scaricato e installato un aggiornamento automatico, è necessario chiudere il software LifeCam e riaprirlo affinché le modifiche apportate abbiano effetto.
+
+Per alcuni aggiornamenti, potrebbe anche essere richiesto di riavviare il computer per rendere effettive le modifiche.
+
+---------------------
+
+1.6  Dopo aver installato il software della webcam Logitech®, è necessario reinstallare Microsoft LifeCam (messaggio di errore codice 39)
+
+Il processo di installazione del software della webcam Logitech può creare problemi nel software Microsoft LifeCam, compreso un messaggio di errore codice 39.
+
+Per installare il software Microsoft LifeCam e il software Logitech QuickCam nello stesso computer, installare il software Logitech QuickCam prima di installare il software Microsoft LifeCam.  
+
+Quando si utilizza Microsoft LifeCam, potrebbe essere necessario chiudere il software Logitech QuickCam o disattivarlo dalla barra delle applicazioni.
+
+---------------------
+
+1.7  Dopo la disinstallazione del software LifeCam, i driver vengono rimossi
+
+In Windows Vista, dopo la disinstallazione del software Microsoft LifeCam, i driver di Microsoft LifeCam vengono rimossi.
+
+>>Per recuperare i driver di LifeCam dopo aver disinstallato il software:
+- Collegare la webcam. Verrà visualizzata l'Installazione guidata hardware.
+- Fare clic su Sfoglia e andare alla directory di installazione (ad esempio: C:\Programmi\Microsoft LifeCam) per individuare e aggiungere i driver.
+
+
+
+
+---------------------
+2.0  Hardware
+---------------------
+
+
+2.1  Informazioni sulle porte USB (Universal Serial Bus)
+
+Se la webcam non funziona correttamente con la porta USB alla quale è collegata, provare a collegare la webcam a un'altra porta USB.
+
+Microsoft LifeCam funziona sia con porte USB 1.1 che con porte USB 2.0. 
+
+Le porte USB 1.1 e USB 2.0 sono apparentemente identiche.  Se possibile, utilizzare una porta USB 2.0 per collegare la webcam LifeCam. Alcune funzioni della webcam potrebbero non essere supportate dalle porte USB 1.1.
+
+A seconda del tipo di porta USB potrebbe variare la potenza fornita alla webcam. Un hub USB su una tastiera, ad esempio, potrebbe non disporre di potenza sufficiente per la webcam LifeCam. Potrebbe essere necessario collegare la webcam a una porta USB posta sul computer o su un hub USB alimentato.
+
+
+---------------------
+
+2.2  Se sono collegate troppe periferiche USB al computer, le prestazioni della webcam potrebbero essere scarse o inesistenti
+
+Se sono collegate troppe periferiche USB al computer, le prestazioni della webcam LifeCam potrebbero essere scarse o la webcam potrebbe smettere di funzionare. 
+
+Alcuni segnali legati a questo problema sono: l'area del video è nera (assenza di immagini e audio), Windows Live Messenger si blocca quando si avvia una chiamata video oppure la webcam non funziona con risoluzioni video elevate.
+
+>>In questo caso:
+- Provare a scollegare e ricollegare la webcam LifeCam.
+- Provare a scollegare eventuali dispositivi USB inutilizzati.
+- Provare a utilizzare un'altra porta USB del computer.
+- Se si usa un hub USB, provare a scollegarlo e a collegare la webcam direttamente al computer.
+
+---------------------
+
+2.3  LifeCam VX-6000 potrebbe non funzionare con la scheda ATI Radeon 9600
+
+Quando si utilizza la scheda video ATI Radeon 9600, l'acquisizione video da LifeCam VX-6000 potrebbe bloccarsi o provocare uno sfarfallio. 
+
+---------------------
+
+2.4  Visualizzazione video a schermo intero
+
+Alcune schede video dispongono di funzioni per visualizzare i video a schermo intero.
+
+Se si preferisce non visualizzare i video LifeCam a schermo intero, è possibile disattivare questa funzione.  Consultare la documentazione fornita dal produttore dell'hardware per le istruzioni sulla disattivazione di questa funzione.
+
+---------------------
+
+2.5  LifeCam potrebbe bloccarsi quando si avvia o si interrompe la riproduzione del video su un secondo monitor
+
+Se si utilizzano più monitor e si esegue LifeCam su un monitor secondario, il software LifeCam potrebbe bloccarsi.
+
+>>Per evitare questo errore:
+ - Eseguire il software LifeCam sul monitor principale.
+
+
+
+
+
+---------------------
+3.0  Acquisizione video
+---------------------
+
+3.1  Se si utilizza una porta USB 1.1 potrebbero non essere supportate tutte le risoluzioni
+
+Quando sono collegati a una porta USB 1.1, i prodotti LifeCam supportano una risoluzione video massima di 800 x 600 pixel e una risoluzione foto massima di 1,9 megapixel. 
+
+>>In questo caso:
+- Se possibile, utilizzare una porta USB 2.0.
+  - Oppure -
+- Scegliere una risoluzione più bassa.
+
+---------------------
+
+3.2  La risoluzione video massima non supporta le funzioni di panoramica, rotazione, zoom e tracciamento viso
+
+Le funzioni di panoramica, rotazione zoom e tracciamento viso non sono disponibili per la risoluzione video massima. Per utilizzare tali funzioni, scegliere una risoluzione video più bassa.
+
+---------------------
+
+3.3  LifeCam NX-6000 - l'anteprima dell'acquisizione può risultare nera
+
+In alcuni casi, l'anteprima dell'acquisizione potrebbe non essere visualizzata.
+
+>>In questo caso:
+- Scollegare e ricollegare la webcam.
+  - Oppure -
+- Scegliere una risoluzione video più bassa.
+
+---------------------
+
+3.4  Lo schermo di acquisizione rimane in primo piano quando si utilizzano driver video generici
+
+In alcuni casi, l'acquisizione video rimane in primo piano, anche se si aprono altre finestre dopo il software LifeCam.
+Ciò può accadere quando si utilizzano driver generici per la visualizzazione dei video.
+
+>>In questo caso:
+- Consultare la documentazione fornita dal produttore dell'hardware per informazioni sull'aggiornamento dei driver video.
+
+
+
+
+---------------------
+4.0  Programmi di messaggistica immediata
+---------------------
+
+4.1  Il software Microsoft LifeCam potrebbe essere richiesto per alcuni client di messaggistica
+
+Per garantire la compatibilità del prodotto con alcuni client di messaggistica, ad esempio Skype e Yahoo! Messenger, potrebbe essere richiesto il software Microsoft LifeCam.
+
+---------------------
+
+4.2  Gli effetti video non funzionano con tutti i programmi di messaggistica immediata
+
+Alcuni effetti video non vengono visualizzati nei programmi di messaggistica immediata, ad esempio Skype.
+
+---------------------
+
+4.3  Le chiamate video con America Online (AOL) Instant Messenger potrebbero essere disconnesse
+
+In presenza di un firewall, le chiamate video effettuate con AOL Instant Messenger potrebbero essere disconnesse subito dopo l'avvio.
+
+>> Per ulteriori informazioni sulla regolazione delle impostazioni del firewall o del router, visitare il sito Web www.aim.com.
+
+
+---------------------
+
+4.4  Nessun microfono disponibile per le chiamate video in Windows Live Messenger
+
+In Windows Vista N e KN, se si utilizza Windows Live Messenger il volume del microfono potrebbe essere disattivato e non regolabile.
+
+>>In questo caso:
+1. Visitare il sito http://support.microsoft.com/support.
+2. Cercare KB929399.
+3. Fare clic sul collegamento per scaricare Windows Media Format 11 SDK per il computer in uso.
+4. Seguire le istruzioni per scaricare e installare l'aggiornamento.
+
+Al termine dell'installazione:
+   Andare nella directory C:\WMSDK\WMFSDK11\Redist e installarvi il programma SDK.
+
+
+
+
+-----------------------
+5.0  Altre applicazioni
+-----------------------
+
+5.1  LifeCam VX-6000 potrebbe non essere visualizzata in Regolazione guidata audio e video di Microsoft Office Communicator 
+
+In Microsoft Office Communicator, la webcam LifeCam viene configurata tramite Regolazione guidata audio e video.  In alcuni casi, la webcam LifeCam VX-6000 potrebbe non essere visualizzata nell'elenco delle scelte.
+
+>>In questo caso:
+-  Collegare la webcam LifeCam prima di accendere il computer.
+
+---------------------
+
+5.2  Quando si inserisce un elemento in Windows Live Spaces, non viene visualizzato lo spazio personale, bensì una pagina "Connessione già effettuata" o un codice HTML
+
+Se si inseriscono foto in account Windows Live Spaces e si utilizzano due account utente nello stesso computer, Windows Live Spaces fornisce un errore di tipo Connessione già effettuata.
+
+>>In questo caso:
+1.  Chiudere tutte le finestre del browser Internet Explorer. 
+2.  Nel software LifeCam, fare nuovamente clic sul pulsante "Inserisci nel mio blog in Windows Live Spaces". 
+
+>>Per evitare questo errore:
+
+- Chiudere Internet Explorer nelle sessioni utente.
+
+---------------------
+
+5.3  Se un utente cambia la webcam predefinita, la modifica viene estesa a tutti gli utenti
+
+Le impostazioni del software LifeCam potrebbero avere effetto su tutti i profili utente.  Ad esempio, se si cambia la webcam predefinita in un profilo utente, questa verrà modificata per tutti i profili utente nel computer.
+
+
+
+
+---------------------
+6.0  Messaggi di errore
+---------------------
+
+6.1  Errore "Spazio su disco rigido insufficiente" se manca la cartella File LifeCam
+
+Se la cartella "Documenti\File LifeCam" viene eliminata oppure se il percorso non è più disponibile (ad esempio, se la cartella si trova in una condivisione di rete), i videoclip non verranno salvati e potrebbe essere visualizzato il messaggio di errore "Spazio libero su disco insufficiente per acquisire una foto, un clip audio o un videoclip. Liberare spazio sul disco rigido e riprovare". 
+
+>>In questo caso:
+- Ricreare la cartella "Documenti\File LifeCam".
+  - Oppure -
+- Chiudere e riaprire il software LifeCam.  La cartella verrà ricreata automaticamente.
+
+---------------------
+
+6.2  Arresto anomalo del sistema con errore grave in Tiptsf.dll
+
+Il computer potrebbe aver ricevuto un errore grave (STOP in Tiptsf.dll). 
+
+>>>In questo caso:
+Scaricare Windows XP Service Pack 2 (SP2).  
+1.  Visitare la pagina http://update.microsoft.com.
+2.  Scaricare e installare Windows XP Service Pack 2 (SP2).
+
+
+---------------------
+
+6.3  LifeCam VX-6000: schermata blu in Usbport.sys
+
+Il computer potrebbe aver ricevuto un errore grave (STOP in Usbport.sys). 
+
+>>>In questo caso:
+Scaricare Windows XP Service Pack 2 (SP2).  
+1.  Visitare la pagina http://update.microsoft.com.
+2.  Scaricare e installare Windows XP Service Pack 2 (SP2).
+
+
+---------------------
+
+6.4  Blocco anomalo del software LifeCam durante l'apertura (Nero Video Decoder)
+
+Questo problema potrebbe verificarsi quando sono installate alcune versioni di Nero Video Decoder.
+
+Per risolvere il problema, aggiornare o disinstallare il software.  
+
+- Consultare la documentazione fornita dal produttore dell'hardware per informazioni sull'aggiornamento del software.
+
+
+---------------------
+
+6.5  Blocco anomalo del software LifeCam durante l'apertura (Pegasus PICVideo)
+
+Questo problema potrebbe verificarsi quando sono installate alcune versioni di Pegasus PICVideo.
+
+Per risolvere il problema, disinstallare Pegasus PICVideo.
+
+È inoltre possibile verificare presso il rivenditore se sono disponibili degli aggiornamenti.
+
+
+======================

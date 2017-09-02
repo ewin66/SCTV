@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="F8BC4457-6AC2-4256-8662-E4C7E575ABB3" Name="Marienkäfer" Description="Marienkäfer" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect04\tn.bmp" DataRelativePath="Components\VisualEffects\Effect04\config.ver"/>
+	</EffectList>
+</Root>

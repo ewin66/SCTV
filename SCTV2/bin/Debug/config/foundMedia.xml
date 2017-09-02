@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <media>
+    <title>E.T.: The Extra-Terrestrial (1982)</title>
+    <previousTitle>Et</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>language and mild thematic elements. (2002 edited version)
+</ratingDescription>
+    <description />
+    <stars />
+    <category>Adventure /   Fantasy / Sci-Fi</category>
+    <Director />
+    <ReleaseYear>1982</ReleaseYear>
+    <DateAdded>11/15/2009</DateAdded>
+    <timesPlayed>0</timesPlayed>
+    <filePath>C:\Movies\child\et.avi</filePath>
+    <grammar>E.T.: The Extra-Terrestrial (1982)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0083866.jpg</coverImage>
+    <IMDBNum>tt0083866</IMDBNum>
+    <SortBy>E.T.: The Extra-Terrestrial (1982)</SortBy>
+    <LastPlayed />
+    <MediaType>Movies</MediaType>
+  </media>
+  <media>
+    <title>Rugrats Go Wild (2003)</title>
+    <previousTitle>RUGRAT S G O WIL D</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>mild crude humor.
+</ratingDescription>
+    <description />
+    <stars />
+    <category>Animation / Adventure / Comedy / Family</category>
+    <Director />
+    <ReleaseYear>2003</ReleaseYear>
+    <DateAdded>8/24/2009</DateAdded>
+    <timesPlayed>0</timesPlayed>
+    <filePath>C:\Movies\RUGRATS_GO_WILD.ISO</filePath>
+    <grammar>Rugrats Go Wild (2003)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0337711.jpg</coverImage>
+    <IMDBNum>tt0337711</IMDBNum>
+    <SortBy>Rugrats Go Wild (2003)</SortBy>
+    <LastPlayed />
+    <MediaType>Movies</MediaType>
+  </media>
+  <media>
+    <title>"Seinfeld" (1990)</title>
+    <previousTitle>Seinfeld S1 E5</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Comedy</category>
+    <Director />
+    <ReleaseYear>1990</ReleaseYear>
+    <DateAdded>11/11/2009</DateAdded>
+    <timesPlayed>0</timesPlayed>
+    <filePath>C:\Movies\seinfeld_S1E5.avi</filePath>
+    <grammar>"Seinfeld" (1990)</grammar>
+    <coverImage />
+    <IMDBNum>tt0098904</IMDBNum>
+    <SortBy>Seinfeld (1990)</SortBy>
+    <LastPlayed />
+    <MediaType>Movies</MediaType>
+  </media>
+  <media>
+    <title>Tales from the Crypt: Demon Knight (1995)</title>
+    <previousTitle>TALE S FRO M TH E CRYP T S4 D1</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Horror / Thriller</category>
+    <Director />
+    <ReleaseYear>1995</ReleaseYear>
+    <DateAdded>9/22/2009</DateAdded>
+    <timesPlayed>0</timesPlayed>
+    <filePath>C:\Movies\TALES_FROM_THE_CRYPT_S4_D1.ISO</filePath>
+    <grammar>Tales from the Crypt: Demon Knight (1995)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0114608.jpg</coverImage>
+    <IMDBNum>tt0114608</IMDBNum>
+    <SortBy>Tales from the Crypt: Demon Knight (1995)</SortBy>
+    <LastPlayed />
+    <MediaType>Movies</MediaType>
+  </media>
+</DocumentElement>

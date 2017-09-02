@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="5B166129-CAC0-494C-A674-D9F5C84B193F" 
+		Name="Effect37" 
+		Description="Bola de Ténis" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect37\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect37\config.ver"/>
+	</EffectList>
+</Root>

@@ -1,0 +1,1222 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <media>
+    <title>Superbad (2007)</title>
+    <previousTitle />
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>pervasive crude and sexual content, strong language, drinking, some drug use and a fantasy/comic violent image - all involving teens.</ratingDescription>
+    <description>Come and Get Some</description>
+    <stars />
+    <category>Comedy</category>
+    <timesPlayed>4</timesPlayed>
+    <filePath>\\Fileserver\Video\Movies\Superbad_Unrated.avi</filePath>
+    <grammar />
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0829482.jpg</coverImage>
+    <IMDBNum>tt0829482</IMDBNum>
+  </media>
+  <media>
+    <title>She's All That (1999)</title>
+    <previousTitle>Shes All That</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>sexual content, crude humor, brief strong language and teen drinking.</ratingDescription>
+    <description>A new comedy that proves there's more to attraction than meets the eye.</description>
+    <stars />
+    <category>Comedy / Romance</category>
+    <timesPlayed>3</timesPlayed>
+    <filePath>\\Fileserver\Video\Movies\shesAllThat.avi</filePath>
+    <grammar>She's All That (1999)</grammar>
+    <coverImage />
+    <IMDBNum>tt0160862</IMDBNum>
+  </media>
+  <media>
+    <title>Scooby-Doo and the Ghoul School (1988) (TV)</title>
+    <previousTitle>SCOOB Y DO O AN D GHOU L SCHOO L</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>Hey there, it's the ghoul school!</description>
+    <stars />
+    <category>Animation / Adventure / Comedy / Family / Fantasy / Horror / Mystery</category>
+    <timesPlayed>2</timesPlayed>
+    <filePath>\\Fileserver\Video\Kids\SCOOBY_DOO_AND_GHOUL_SCHOOL.ISO</filePath>
+    <grammar>Scooby-Doo and the Ghoul School (1988) (TV)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0189071.jpg</coverImage>
+    <IMDBNum>tt0189071</IMDBNum>
+  </media>
+  <media>
+    <title>Spider-Man (2002)</title>
+    <previousTitle>Spiderman2</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>stylized violence and action.</ratingDescription>
+    <description>With great power comes great responsibility.</description>
+    <stars />
+    <category>Action / Sci-Fi / Thriller</category>
+    <timesPlayed>2</timesPlayed>
+    <filePath>C:\Movies\spiderman2.avi</filePath>
+    <grammar>Spider-Man (2002)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0145487.jpg</coverImage>
+    <IMDBNum>tt0145487</IMDBNum>
+  </media>
+  <media>
+    <title>So I Married an Axe Murderer (1993)</title>
+    <previousTitle>Soi Married An Axe Murderer</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>nudity, language and mock terror.</ratingDescription>
+    <description>The Honeymoon Was Killer</description>
+    <stars />
+    <category>Comedy / Crime / Romance / Thriller</category>
+    <timesPlayed>1</timesPlayed>
+    <filePath>\\Fileserver\Video\Movies\soIMarriedAnAxeMurderer.avi</filePath>
+    <grammar>So I Married an Axe Murderer (1993)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0108174.jpg</coverImage>
+    <IMDBNum>tt0108174</IMDBNum>
+  </media>
+  <media>
+    <title>Scooby-Doo and the Reluctant Werewolf (1988) (TV)</title>
+    <previousTitle>SCOOB Y DO O RELUCTAN T WEREWOL F</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Animation / Comedy / Family / Thriller / Mystery</category>
+    <timesPlayed>1</timesPlayed>
+    <filePath>\\Fileserver\Video\Kids\SCOOBY_DOO_RELUCTANT_WEREWOLF.avi</filePath>
+    <grammar>Scooby-Doo and the Reluctant Werewolf (1988) (TV)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0189072.jpg</coverImage>
+    <IMDBNum>tt0189072</IMDBNum>
+  </media>
+  <media>
+    <title>Shrek the Third (2007)</title>
+    <previousTitle>SHRE K TH E THIR D</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>some crude humor, suggestive content and swashbuckling action.</ratingDescription>
+    <description>Who's ready for Thirds?</description>
+    <stars />
+    <category>Animation / Adventure / Comedy / Family / Fantasy</category>
+    <timesPlayed>1</timesPlayed>
+    <filePath>\\Fileserver\Video\Kids\SHREK_THE_THIRD.avi</filePath>
+    <grammar>Shrek the Third (2007)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0413267.jpg</coverImage>
+    <IMDBNum>tt0413267</IMDBNum>
+  </media>
+  <media>
+    <title>Shi mian mai fu (2004)</title>
+    <previousTitle>HOUS E O F D</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>sequences of stylized martial arts violence, and some sexuality.</ratingDescription>
+    <description />
+    <stars />
+    <category>Action / Adventure / Drama / Fantasy / Romance</category>
+    <Director>Yimou Zhang</Director>
+    <ReleaseYear>2005</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\HOUSE_OF_D.avi</filePath>
+    <grammar>Shi mian mai fu (2004)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0385004.jpg</coverImage>
+    <IMDBNum>tt0385004</IMDBNum>
+  </media>
+  <media>
+    <title>Snatch. (2000)</title>
+    <previousTitle>Lock Stock</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong violence, language and some nudity.</ratingDescription>
+    <description>Stealin' Stones and Breakin' Bones</description>
+    <stars />
+    <category>Comedy / Crime / Thriller</category>
+    <Director>Guy Ritchie</Director>
+    <ReleaseYear>2001</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\lockStock.avi</filePath>
+    <grammar>Snatch. (2000)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0208092.jpg</coverImage>
+    <IMDBNum>tt0208092</IMDBNum>
+  </media>
+  <media>
+    <title>Star Wars: Episode I - The Phantom Menace (1999)</title>
+    <previousTitle>PHANTO M MENAC E</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>sci-fi action/violence.</ratingDescription>
+    <description>Every generation has a legend. Every journey has a first step. Every saga has a beginning.</description>
+    <stars />
+    <category>Action / Adventure / Fantasy / Sci-Fi</category>
+    <Director>George Lucas</Director>
+    <ReleaseYear>1999</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\PHANTOM_MENACE.CEL</filePath>
+    <grammar>Star Wars: Episode I - The Phantom Menace (1999)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0120915.jpg</coverImage>
+    <IMDBNum>tt0120915</IMDBNum>
+  </media>
+  <media>
+    <title>Saved! (2004)</title>
+    <previousTitle>Saved</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>strong thematic issues involving teens - sexual content, pregnancy, smoking and language.</ratingDescription>
+    <description>Heaven Help Us.</description>
+    <stars />
+    <category>Comedy / Drama</category>
+    <Director>Brian Dannelly</Director>
+    <ReleaseYear>2004</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\saved.avi</filePath>
+    <grammar>Saved! (2004)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0332375.jpg</coverImage>
+    <IMDBNum>tt0332375</IMDBNum>
+  </media>
+  <media>
+    <title>Save the Last Dance (2001)</title>
+    <previousTitle>SAV E TH E LAS T DANC E</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>violence, sexual content, language and brief drug references.</ratingDescription>
+    <description>The Only Person You Need To Be Is Yourself.</description>
+    <stars />
+    <category>Drama / Music / Romance</category>
+    <Director>Thomas Carter</Director>
+    <ReleaseYear>2001</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\SAVE_THE_LAST_DANCE.avi</filePath>
+    <grammar>Save the Last Dance (2001)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0206275.jpg</coverImage>
+    <IMDBNum>tt0206275</IMDBNum>
+  </media>
+  <media>
+    <title>Say Anything... (1989)</title>
+    <previousTitle>SAYANYTHIN G</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>To know Lloyd Dobler is to love him. Diane Court is about to know Lloyd Dobler.</description>
+    <stars />
+    <category>Comedy / Drama / Romance</category>
+    <Director>Cameron Crowe</Director>
+    <ReleaseYear>1989</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\SAYANYTHING.avi</filePath>
+    <grammar>Say Anything... (1989)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0098258.jpg</coverImage>
+    <IMDBNum>tt0098258</IMDBNum>
+  </media>
+  <media>
+    <title>Scarface (1983)</title>
+    <previousTitle>Scarface</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>He was Tony Montana. The world will remember him by another name...SCARFACE.</description>
+    <stars />
+    <category>Crime / Drama / Thriller</category>
+    <Director>Brian De Palma</Director>
+    <ReleaseYear>1983</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\scarface.avi</filePath>
+    <grammar>Scarface (1983)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0086250.jpg</coverImage>
+    <IMDBNum>tt0086250</IMDBNum>
+  </media>
+  <media>
+    <title>Schindler's List (1993)</title>
+    <previousTitle>Schindlers List1</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>language, some sexuality and actuality violence.</ratingDescription>
+    <description>Whoever saves one life, saves the world entire.</description>
+    <stars />
+    <category>Biography / Drama / History / War</category>
+    <Director>Steven Spielberg</Director>
+    <ReleaseYear>1993</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\schindlersList1.avi</filePath>
+    <grammar>Schindler's List (1993)</grammar>
+    <coverImage />
+    <IMDBNum>tt0108052</IMDBNum>
+  </media>
+  <media>
+    <title>Schindler's List (1993)</title>
+    <previousTitle>Schindlers List2</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>language, some sexuality and actuality violence.</ratingDescription>
+    <description>Whoever saves one life, saves the world entire.</description>
+    <stars />
+    <category>Biography / Drama / History / War</category>
+    <Director>Steven Spielberg</Director>
+    <ReleaseYear>1993</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\schindlersList2.avi</filePath>
+    <grammar>Schindler's List (1993)</grammar>
+    <coverImage />
+    <IMDBNum>tt0108052</IMDBNum>
+  </media>
+  <media>
+    <title>Schindler's List (1993)</title>
+    <previousTitle />
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>language, some sexuality and actuality violence.</ratingDescription>
+    <description>Whoever saves one life, saves the world entire.</description>
+    <stars />
+    <category>Biography / Drama / History / War</category>
+    <Director>Steven Spielberg</Director>
+    <ReleaseYear>1993</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\schindlersListDisc2.avi</filePath>
+    <grammar />
+    <coverImage />
+    <IMDBNum>tt0108052</IMDBNum>
+  </media>
+  <media>
+    <title>Seabiscuit (2003)</title>
+    <previousTitle>Sea Biscuit</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>some sexual situations and violent sports-related images.</ratingDescription>
+    <description>A long shot becomes a legend.</description>
+    <stars />
+    <category>Drama / History / Sport</category>
+    <Director>Gary Ross</Director>
+    <ReleaseYear>2003</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\seaBiscuit.avi</filePath>
+    <grammar>Seabiscuit (2003)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0329575.jpg</coverImage>
+    <IMDBNum>tt0329575</IMDBNum>
+  </media>
+  <media>
+    <title>Sense and Sensibility (1995)</title>
+    <previousTitle>Sense And Sensibility</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>mild thematic elements.</ratingDescription>
+    <description>Lose your heart and come to your senses.</description>
+    <stars />
+    <category>Drama / Romance</category>
+    <Director>Ang Lee</Director>
+    <ReleaseYear>1995</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\senseAndSensibility.avi</filePath>
+    <grammar>Sense and Sensibility (1995)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0114388.jpg</coverImage>
+    <IMDBNum>tt0114388</IMDBNum>
+  </media>
+  <media>
+    <title>Serendipity (2001)</title>
+    <previousTitle>Serendipity</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>a scene of sexuality, and for brief language.</ratingDescription>
+    <description>Destiny ... With A Sense Of Humor.</description>
+    <stars />
+    <category>Comedy / Romance / Fantasy</category>
+    <Director>Peter Chelsom</Director>
+    <ReleaseYear>2001</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\serendipity.avi</filePath>
+    <grammar>Serendipity (2001)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0240890.jpg</coverImage>
+    <IMDBNum>tt0240890</IMDBNum>
+  </media>
+  <media>
+    <title>Shallow Hal (2001)</title>
+    <previousTitle>Shallow Hal</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>language and sexual content.</ratingDescription>
+    <description>The Biggest Love Story Ever Told.</description>
+    <stars />
+    <category>Comedy / Drama / Fantasy / Romance</category>
+    <Director>Bobby Farrelly</Director>
+    <ReleaseYear>2001</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\shallowHal.avi</filePath>
+    <grammar>Shallow Hal (2001)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0256380.jpg</coverImage>
+    <IMDBNum>tt0256380</IMDBNum>
+  </media>
+  <media>
+    <title>Shanghai Knights (2003)</title>
+    <previousTitle>Shanghai Knights</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>action violence and sexual content.</ratingDescription>
+    <description>A Royal Kick In The Arse</description>
+    <stars />
+    <category>Action / Adventure / Comedy</category>
+    <Director>David Dobkin</Director>
+    <ReleaseYear>2003</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\shanghaiKnights.avi</filePath>
+    <grammar>Shanghai Knights (2003)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0300471.jpg</coverImage>
+    <IMDBNum>tt0300471</IMDBNum>
+  </media>
+  <media>
+    <title>Shanghai Noon (2000)</title>
+    <previousTitle>SHANGHA I NOO N</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>action violence, some drug humor, language and sensuality.</ratingDescription>
+    <description>The Classic Western Gets A Kick In The Pants.</description>
+    <stars />
+    <category>Action / Adventure / Comedy / Western</category>
+    <Director>Tom Dey</Director>
+    <ReleaseYear>2000</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\SHANGHAI_NOON.CEL</filePath>
+    <grammar>Shanghai Noon (2000)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0184894.jpg</coverImage>
+    <IMDBNum>tt0184894</IMDBNum>
+  </media>
+  <media>
+    <title>Shooter (2007/I)</title>
+    <previousTitle>SHOOTE R</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong graphic violence and some language.</ratingDescription>
+    <description>Yesterday was about honor. Today is about justice.</description>
+    <stars />
+    <category>Action / Crime / Mystery / Thriller</category>
+    <Director>Antoine Fuqua</Director>
+    <ReleaseYear>2007</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\SHOOTER.avi</filePath>
+    <grammar>Shooter (2007/I)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0822854.jpg</coverImage>
+    <IMDBNum>tt0822854</IMDBNum>
+  </media>
+  <media>
+    <title>Simply Irresistible (1999)</title>
+    <previousTitle>Simply Irresistible</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>brief sexual references.</ratingDescription>
+    <description>Magic opened up their hearts... Love did the rest.</description>
+    <stars />
+    <category>Comedy / Fantasy / Romance</category>
+    <Director>Mark Tarlov</Director>
+    <ReleaseYear>1999</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\simplyIrresistible.avi</filePath>
+    <grammar>Simply Irresistible (1999)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0145893.jpg</coverImage>
+    <IMDBNum>tt0145893</IMDBNum>
+  </media>
+  <media>
+    <title>Sin City (2005)</title>
+    <previousTitle>Sin City</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>sustained strong stylized violence, nudity and sexual content including dialogue.</ratingDescription>
+    <description>Hell of a way to end a partnership.</description>
+    <stars />
+    <category>Action / Crime / Thriller</category>
+    <Director>Frank Miller</Director>
+    <ReleaseYear>2005</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\sinCity.avi</filePath>
+    <grammar>Sin City (2005)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0401792.jpg</coverImage>
+    <IMDBNum>tt0401792</IMDBNum>
+  </media>
+  <media>
+    <title>Sixteen Candles (1984)</title>
+    <previousTitle>Sixteen Candles</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>This is Samantha Baker and today is her 16th birthday. The problem is, nobody remembers.</description>
+    <stars />
+    <category>Comedy / Drama / Romance</category>
+    <Director>John Hughes</Director>
+    <ReleaseYear>1984</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\sixteenCandles.avi</filePath>
+    <grammar>Sixteen Candles (1984)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0088128.jpg</coverImage>
+    <IMDBNum>tt0088128</IMDBNum>
+  </media>
+  <media>
+    <title>Sky Captain and the World of Tomorrow (2004)</title>
+    <previousTitle>Sky Captain</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>sequences of stylized sci-fi violence and brief mild language.</ratingDescription>
+    <description>The world will tremble this September!</description>
+    <stars />
+    <category>Action / Adventure / Mystery / Sci-Fi / Thriller</category>
+    <Director>Kerry Conran</Director>
+    <ReleaseYear>2004</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\skyCaptain.avi</filePath>
+    <grammar>Sky Captain and the World of Tomorrow (2004)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0346156.jpg</coverImage>
+    <IMDBNum>tt0346156</IMDBNum>
+  </media>
+  <media>
+    <title>Sling Blade (1996)</title>
+    <previousTitle>Sling Blade</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong language, including descriptions of violent and sexual behavior.</ratingDescription>
+    <description>Sometimes a hero comes from the most unlikely place.</description>
+    <stars />
+    <category>Drama</category>
+    <Director>Billy Bob Thornton</Director>
+    <ReleaseYear>1996</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\slingBlade.avi</filePath>
+    <grammar>Sling Blade (1996)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0117666.jpg</coverImage>
+    <IMDBNum>tt0117666</IMDBNum>
+  </media>
+  <media>
+    <title>Slumdog Millionaire (2008)</title>
+    <previousTitle>SLUMDO G MILLIONAIR E</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>some violence, disturbing images and language.</ratingDescription>
+    <description>Love and money... You have mixed them both.</description>
+    <stars />
+    <category>Crime / Drama / Romance</category>
+    <Director>Danny Boyle</Director>
+    <ReleaseYear>2009</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\SLUMDOG_MILLIONAIRE.avi</filePath>
+    <grammar>Slumdog Millionaire (2008)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt1010048.jpg</coverImage>
+    <IMDBNum>tt1010048</IMDBNum>
+  </media>
+  <media>
+    <title>Smokin' Aces (2006)</title>
+    <previousTitle>Smokin Aces</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong bloody violence, pervasive language, some nudity and drug use.</ratingDescription>
+    <description>May the best hitman win.</description>
+    <stars />
+    <category>Action / Crime / Drama / Thriller</category>
+    <Director>Joe Carnahan</Director>
+    <ReleaseYear>2007</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\smokinAces.avi</filePath>
+    <grammar>Smokin' Aces (2006)</grammar>
+    <coverImage />
+    <IMDBNum>tt0475394</IMDBNum>
+  </media>
+  <media>
+    <title>Snatch. (2000)</title>
+    <previousTitle>Snatch</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong violence, language and some nudity.</ratingDescription>
+    <description>Stealin' Stones and Breakin' Bones</description>
+    <stars />
+    <category>Comedy / Crime / Thriller</category>
+    <Director>Guy Ritchie</Director>
+    <ReleaseYear>2001</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\snatch.avi</filePath>
+    <grammar>Snatch. (2000)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0208092.jpg</coverImage>
+    <IMDBNum>tt0208092</IMDBNum>
+  </media>
+  <media>
+    <title>Stardust (2007)</title>
+    <previousTitle>STARDUS T</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>some fantasy violence and risque humor.</ratingDescription>
+    <description>This summer a star falls. The chase begins.</description>
+    <stars />
+    <category>Adventure / Fantasy / Romance</category>
+    <Director>Matthew Vaughn</Director>
+    <ReleaseYear>2007</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\STARDUST.avi</filePath>
+    <grammar>Stardust (2007)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0486655.jpg</coverImage>
+    <IMDBNum>tt0486655</IMDBNum>
+  </media>
+  <media>
+    <title>Star Wars: Episode III - Revenge of the Sith (2005)</title>
+    <previousTitle>Star Wars E3 Revenge Of The Sith</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>sci-fi violence and some intense images.</ratingDescription>
+    <description>The saga is complete.</description>
+    <stars />
+    <category>Action / Fantasy / Sci-Fi</category>
+    <Director>George Lucas</Director>
+    <ReleaseYear>2005</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\StarWars_E3_RevengeOfTheSith.avi</filePath>
+    <grammar>Star Wars: Episode III - Revenge of the Sith (2005)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0121766.jpg</coverImage>
+    <IMDBNum>tt0121766</IMDBNum>
+  </media>
+  <media>
+    <title>Star Wars (1977)</title>
+    <previousTitle>Star Wars E4 A New Hope</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>sci-fi violence and brief mild language. (special edition, DVD version)</ratingDescription>
+    <description>It's Back! (re-release)</description>
+    <stars />
+    <category>Action / Adventure / Fantasy / Sci-Fi</category>
+    <Director>George Lucas</Director>
+    <ReleaseYear>1977</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\StarWars_E4_ANewHope.avi</filePath>
+    <grammar>Star Wars (1977)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0076759.jpg</coverImage>
+    <IMDBNum>tt0076759</IMDBNum>
+  </media>
+  <media>
+    <title>Star Wars: Episode V - The Empire Strikes Back (1980)</title>
+    <previousTitle>Star Wars E5 Empire Strikes Back</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>sci-fi action violence. (special edition, DVD version)</ratingDescription>
+    <description>The Adventure Continues...</description>
+    <stars />
+    <category>Action / Adventure / Fantasy / Sci-Fi / Thriller</category>
+    <Director>Irvin Kershner</Director>
+    <ReleaseYear>1980</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\StarWars_E5_EmpireStrikesBack.avi</filePath>
+    <grammar>Star Wars: Episode V - The Empire Strikes Back (1980)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0080684.jpg</coverImage>
+    <IMDBNum>tt0080684</IMDBNum>
+  </media>
+  <media>
+    <title>Star Wars: Episode VI - Return of the Jedi (1983)</title>
+    <previousTitle>Star Wars E6 Return Of The Jedi</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>sci-fi action violence. (special edition, DVD version)</ratingDescription>
+    <description>Coming May 25, 1983 to your galaxy. [Second Advance poster]</description>
+    <stars />
+    <category>Action / Adventure / Fantasy / Sci-Fi / Thriller</category>
+    <Director>Richard Marquand</Director>
+    <ReleaseYear>1983</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\StarWars_E6_ReturnOfTheJedi.avi</filePath>
+    <grammar>Star Wars: Episode VI - Return of the Jedi (1983)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0086190.jpg</coverImage>
+    <IMDBNum>tt0086190</IMDBNum>
+  </media>
+  <media>
+    <title>Stealing Beauty (1996)</title>
+    <previousTitle>Stealing Beauty</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong sexuality, nudity, some drug use and language.</ratingDescription>
+    <description>The most beautiful place to be is in love.</description>
+    <stars />
+    <category>Drama / Romance</category>
+    <Director>Bernardo Bertolucci</Director>
+    <ReleaseYear>1996</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\stealingBeauty.avi</filePath>
+    <grammar>Stealing Beauty (1996)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0117737.jpg</coverImage>
+    <IMDBNum>tt0117737</IMDBNum>
+  </media>
+  <media>
+    <title>Step Brothers (2008)</title>
+    <previousTitle>STE P BROTHER S</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>crude and sexual content, and pervasive language.</ratingDescription>
+    <description>They grow up so fast.</description>
+    <stars />
+    <category>Comedy</category>
+    <Director>Adam McKay</Director>
+    <ReleaseYear>2008</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\STEP_BROTHERS.CEL</filePath>
+    <grammar>Step Brothers (2008)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0838283.jpg</coverImage>
+    <IMDBNum>tt0838283</IMDBNum>
+  </media>
+  <media>
+    <title>Stranger Than Fiction (2006)</title>
+    <previousTitle>Stranger Than Fiction</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>some disturbing images, sexuality, brief language and nudity.</ratingDescription>
+    <description>Harold Crick isn't ready to go. Period.</description>
+    <stars />
+    <category>Comedy / Drama / Fantasy / Romance</category>
+    <Director>Marc Forster</Director>
+    <ReleaseYear>2006</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\Stranger_Than_Fiction.avi</filePath>
+    <grammar>Stranger Than Fiction (2006)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0420223.jpg</coverImage>
+    <IMDBNum>tt0420223</IMDBNum>
+  </media>
+  <media>
+    <title>Strange Wilderness (2008)</title>
+    <previousTitle>STRANG E WILDERNES S</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>non-stop language, drug use, crude and sexual humor.</ratingDescription>
+    <description>This ain't March of the Penguins.</description>
+    <stars />
+    <category>Comedy</category>
+    <Director>Fred Wolf</Director>
+    <ReleaseYear>2008</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\STRANGE_WILDERNESS.avi</filePath>
+    <grammar>Strange Wilderness (2008)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0489282.jpg</coverImage>
+    <IMDBNum>tt0489282</IMDBNum>
+  </media>
+  <media>
+    <title>Stripes (1981)</title>
+    <previousTitle>Stripes</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>sexuality/nudity, language and some drug use. (extended edition)</ratingDescription>
+    <description>The story of a man who wanted to keep the world safe for democracy...and meet girls</description>
+    <stars />
+    <category>Comedy / War</category>
+    <Director>Ivan Reitman</Director>
+    <ReleaseYear>1981</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\stripes.avi</filePath>
+    <grammar>Stripes (1981)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0083131.jpg</coverImage>
+    <IMDBNum>tt0083131</IMDBNum>
+  </media>
+  <media>
+    <title>Suspect Zero (2004)</title>
+    <previousTitle>Suspect Zero</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>violent content, language and some nudity.</ratingDescription>
+    <description>Who's next?</description>
+    <stars />
+    <category>Crime / Horror / Sci-Fi / Thriller</category>
+    <Director>E. Elias Merhige</Director>
+    <ReleaseYear>2004</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\suspectZero.avi</filePath>
+    <grammar>Suspect Zero (2004)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0324127.jpg</coverImage>
+    <IMDBNum>tt0324127</IMDBNum>
+  </media>
+  <media>
+    <title>Sweet Home Alabama (2002)</title>
+    <previousTitle>Sweet Home Alabama</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>some language/sexual references.</ratingDescription>
+    <description>Sometimes What You're Looking For Is Right Where You Left It.</description>
+    <stars />
+    <category>Comedy / Romance</category>
+    <Director>Andy Tennant</Director>
+    <ReleaseYear>2002</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Movies\Sweet_Home_Alabama.avi</filePath>
+    <grammar>Sweet Home Alabama (2002)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0256415.jpg</coverImage>
+    <IMDBNum>tt0256415</IMDBNum>
+  </media>
+  <media>
+    <title>Scary Movie (2000)</title>
+    <previousTitle>Friday The13th</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong crude sexual humor, language, drug use and violence.</ratingDescription>
+    <description>A killer comedy.</description>
+    <stars />
+    <category>Comedy</category>
+    <Director>Keenen Ivory Wayans</Director>
+    <ReleaseYear>2000</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\fridayThe13th.avi</filePath>
+    <grammar>Scary Movie (2000)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0175142.jpg</coverImage>
+    <IMDBNum>tt0175142</IMDBNum>
+  </media>
+  <media>
+    <title>Scary Godmother Halloween Spooktakular (2003) (TV)</title>
+    <previousTitle>SCAR Y GODMOTHE R</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Animation / Comedy</category>
+    <Director>Ezekiel Norton</Director>
+    <ReleaseYear>2003</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\SCARY_GODMOTHER.avi</filePath>
+    <grammar>Scary Godmother Halloween Spooktakular (2003) (TV)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0330859.jpg</coverImage>
+    <IMDBNum>tt0330859</IMDBNum>
+  </media>
+  <media>
+    <title>Scooby-Doo (2002)</title>
+    <previousTitle>Scooby Doo</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>some rude humor, language and some scary action.</ratingDescription>
+    <description>Zoinks!</description>
+    <stars />
+    <category>Adventure / Comedy / Family / Fantasy / Mystery</category>
+    <Director>Raja Gosnell</Director>
+    <ReleaseYear>2002</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\scoobyDoo.avi</filePath>
+    <grammar>Scooby-Doo (2002)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0267913.jpg</coverImage>
+    <IMDBNum>tt0267913</IMDBNum>
+  </media>
+  <media>
+    <title>Scooby-Doo's Creepiest Capers (2000) (V)</title>
+    <previousTitle>SCOOB Y DOO S CREEPIES T CAPER S</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Animation / Family / Mystery</category>
+    <Director />
+    <ReleaseYear>2001</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\SCOOBY_DOOS_CREEPIEST_CAPERS.avi</filePath>
+    <grammar>Scooby-Doo's Creepiest Capers (2000) (V)</grammar>
+    <coverImage />
+    <IMDBNum>tt0255581</IMDBNum>
+  </media>
+  <media>
+    <title>Scooby-Doo and the Alien Invaders (2000) (V)</title>
+    <previousTitle>SCOOB Y DO O ALIE N INVADER S</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Animation / Mystery / Sci-Fi / Family</category>
+    <Director>Jim Stenstrum</Director>
+    <ReleaseYear>2000</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\SCOOBY_DOO_ALIEN_INVADERS.avi</filePath>
+    <grammar>Scooby-Doo and the Alien Invaders (2000) (V)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0253658.jpg</coverImage>
+    <IMDBNum>tt0253658</IMDBNum>
+  </media>
+  <media>
+    <title>Scooby-Doo! And the Legend of the Vampire (2003) (V)</title>
+    <previousTitle>SCOOB Y DO O LEGEN D O F VAMPIR E</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Animation / Comedy / Family / Mystery</category>
+    <Director>Scott Jeralds</Director>
+    <ReleaseYear>2003</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\SCOOBY_DOO_LEGEND_OF_VAMPIRE.avi</filePath>
+    <grammar>Scooby-Doo! And the Legend of the Vampire (2003) (V)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0357139.jpg</coverImage>
+    <IMDBNum>tt0357139</IMDBNum>
+  </media>
+  <media>
+    <title>Scooby-Doo on Zombie Island (1998) (V)</title>
+    <previousTitle>SCOOB Y DO O O N ZOMBI E ISLAN D</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>This time the monsters are real</description>
+    <stars />
+    <category>Animation / Adventure / Comedy / Family / Horror / Mystery / Thriller</category>
+    <Director>Hiroshi Aoyama</Director>
+    <ReleaseYear>1998</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\SCOOBY_DOO_ON_ZOMBIE_ISLAND.avi</filePath>
+    <grammar>Scooby-Doo on Zombie Island (1998) (V)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0166792.jpg</coverImage>
+    <IMDBNum>tt0166792</IMDBNum>
+  </media>
+  <media>
+    <title>Secret Window (2004)</title>
+    <previousTitle>Secret Garden</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>violence/terror, sexual content and language.</ratingDescription>
+    <description>The most important part of a story is the ending.</description>
+    <stars />
+    <category>Horror / Mystery / Thriller</category>
+    <Director>David Koepp</Director>
+    <ReleaseYear>2004</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\secretGarden.avi</filePath>
+    <grammar>Secret Window (2004)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0363988.jpg</coverImage>
+    <IMDBNum>tt0363988</IMDBNum>
+  </media>
+  <media>
+    <title>Shark Tale (2004)</title>
+    <previousTitle>Shark Tale</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>some mild language and crude humor.</ratingDescription>
+    <description>In fall, a new school will rule.</description>
+    <stars />
+    <category>Animation / Comedy / Family</category>
+    <Director>Bibo Bergeron</Director>
+    <ReleaseYear>2004</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\sharkTale.avi</filePath>
+    <grammar>Shark Tale (2004)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0307453.jpg</coverImage>
+    <IMDBNum>tt0307453</IMDBNum>
+  </media>
+  <media>
+    <title>She's the Man (2006)</title>
+    <previousTitle>Shes The Man</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>some sexual material</ratingDescription>
+    <description>If you wanna chase your dream, sometimes you gotta break the rules.</description>
+    <stars />
+    <category>Comedy / Romance</category>
+    <Director>Andy Fickman</Director>
+    <ReleaseYear>2006</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\shesTheMan.avi</filePath>
+    <grammar>She's the Man (2006)</grammar>
+    <coverImage />
+    <IMDBNum>tt0454945</IMDBNum>
+  </media>
+  <media>
+    <title>Shrek (2001)</title>
+    <previousTitle>SHRE K</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>mild language and some crude humor.</ratingDescription>
+    <description>The greatest fairy tale never told.</description>
+    <stars />
+    <category>Animation / Adventure / Comedy / Family / Fantasy / Romance</category>
+    <Director>Andrew Adamson</Director>
+    <ReleaseYear>2001</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\SHREK.avi</filePath>
+    <grammar>Shrek (2001)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0126029.jpg</coverImage>
+    <IMDBNum>tt0126029</IMDBNum>
+  </media>
+  <media>
+    <title>Space Chimps (2008)</title>
+    <previousTitle>SPAC E CHIMP S</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Animation / Adventure / Comedy / Family / Romance / Sci-Fi</category>
+    <Director>Kirk De Micco</Director>
+    <ReleaseYear>2008</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\SPACE_CHIMPS.avi</filePath>
+    <grammar>Space Chimps (2008)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0482603.jpg</coverImage>
+    <IMDBNum>tt0482603</IMDBNum>
+  </media>
+  <media>
+    <title>Space Jam (1996)</title>
+    <previousTitle>SPAC E JA M</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>some mild cartoon language.</ratingDescription>
+    <description>Get ready to jam</description>
+    <stars />
+    <category>Animation / Adventure / Comedy / Family / Sci-Fi / Sport</category>
+    <Director>Joe Pytka</Director>
+    <ReleaseYear>1996</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\SPACE_JAM.avi</filePath>
+    <grammar>Space Jam (1996)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0117705.jpg</coverImage>
+    <IMDBNum>tt0117705</IMDBNum>
+  </media>
+  <media>
+    <title>Surf's Up (2007)</title>
+    <previousTitle>Surfs Up</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>Hang six Summer 2007.</description>
+    <stars />
+    <category>Animation / Comedy / Family / Sport</category>
+    <Director>Ash Brannon</Director>
+    <ReleaseYear>2007</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Kids\surfsUp.avi</filePath>
+    <grammar>Surf's Up (2007)</grammar>
+    <coverImage />
+    <IMDBNum>tt0423294</IMDBNum>
+  </media>
+  <media>
+    <title>Spawn (1997)</title>
+    <previousTitle>Spawn</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>thematic elements involving the demonic underworld, violence, intense fantasy action and crude humor.</ratingDescription>
+    <description>Born in darkness. Sworn to justice.</description>
+    <stars />
+    <category>Thriller / Action / Fantasy / Horror</category>
+    <Director>Mark A.Z. Dipp&amp;#xE9;</Director>
+    <ReleaseYear>1997</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Superheroes\spawn.avi</filePath>
+    <grammar>Spawn (1997)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0120177.jpg</coverImage>
+    <IMDBNum>tt0120177</IMDBNum>
+  </media>
+  <media>
+    <title>Spider-Man (2002)</title>
+    <previousTitle>Spiderman</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>stylized violence and action.</ratingDescription>
+    <description>With great power comes great responsibility.</description>
+    <stars />
+    <category>Action / Sci-Fi / Thriller</category>
+    <Director>Sam Raimi</Director>
+    <ReleaseYear>2002</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Superheroes\spiderman.avi</filePath>
+    <grammar>Spider-Man (2002)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0145487.jpg</coverImage>
+    <IMDBNum>tt0145487</IMDBNum>
+  </media>
+  <media>
+    <title>Spider-Man (2002)</title>
+    <previousTitle>Spider Man3</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>stylized violence and action.</ratingDescription>
+    <description>With great power comes great responsibility.</description>
+    <stars />
+    <category>Action / Sci-Fi / Thriller</category>
+    <Director>Sam Raimi</Director>
+    <ReleaseYear>2002</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Superheroes\SpiderMan3.avi</filePath>
+    <grammar>Spider-Man (2002)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0145487.jpg</coverImage>
+    <IMDBNum>tt0145487</IMDBNum>
+  </media>
+  <media>
+    <title>Superman (1978)</title>
+    <previousTitle>SUPERMA N</previousTitle>
+    <performers />
+    <rating>PG</rating>
+    <ratingDescription>peril, some mild sensuality and language.</ratingDescription>
+    <description>You'll Believe a Man Can Fly!</description>
+    <stars />
+    <category>Action / Adventure / Sci-Fi / Thriller</category>
+    <Director>Richard Donner</Director>
+    <ReleaseYear>1978</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Superheroes\SUPERMAN.avi</filePath>
+    <grammar>Superman (1978)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0078346.jpg</coverImage>
+    <IMDBNum>tt0078346</IMDBNum>
+  </media>
+  <media>
+    <title>Superman Returns (2006)</title>
+    <previousTitle>SUPERMA N RETURN S</previousTitle>
+    <performers />
+    <rating>PG-13</rating>
+    <ratingDescription>some intense action violence.</ratingDescription>
+    <description />
+    <stars />
+    <category>Action / Adventure / Sci-Fi</category>
+    <Director>Bryan Singer</Director>
+    <ReleaseYear>2006</ReleaseYear>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Superheroes\SUPERMAN_RETURNS.avi</filePath>
+    <grammar>Superman Returns (2006)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0348150.jpg</coverImage>
+    <IMDBNum>tt0348150</IMDBNum>
+  </media>
+  <media>
+    <title>Schneewei&amp;#xDF;rosenrot (1991)</title>
+    <previousTitle>Rose Red</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category>Documentary</category>
+    <Director>Rainer Langhans</Director>
+    <ReleaseYear>1992</ReleaseYear>
+    <DateAdded>10/13/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\roseRed.avi</filePath>
+    <grammar>Schneewei&amp;#xDF;rosenrot (1991)</grammar>
+    <coverImage />
+    <IMDBNum>tt0102854</IMDBNum>
+  </media>
+  <media>
+    <title>Saw (2004)</title>
+    <previousTitle>Saw</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong grisly violence and language. (edited for re-rating; originally NC-17)</ratingDescription>
+    <description>Death is a shortcut  (Denmark)</description>
+    <stars />
+    <category>Horror / Mystery / Thriller</category>
+    <Director>James Wan</Director>
+    <ReleaseYear>2004</ReleaseYear>
+    <DateAdded>12/1/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\saw.avi</filePath>
+    <grammar>Saw (2004)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0387564.jpg</coverImage>
+    <IMDBNum>tt0387564</IMDBNum>
+  </media>
+  <media>
+    <title>Saw II (2005)</title>
+    <previousTitle>SA W 2</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>grisly violence and gore, terror, language and drug content.</ratingDescription>
+    <description>We Dare You Again...</description>
+    <stars />
+    <category>Horror / Thriller</category>
+    <Director>Darren Lynn Bousman</Director>
+    <ReleaseYear>2005</ReleaseYear>
+    <DateAdded>10/14/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\SAW_2.avi</filePath>
+    <grammar>Saw II (2005)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0432348.jpg</coverImage>
+    <IMDBNum>tt0432348</IMDBNum>
+  </media>
+  <media>
+    <title>Scream (1996/I)</title>
+    <previousTitle>Scream</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong graphic horror violence and gore, and for language.</ratingDescription>
+    <description>Don't Answer The Phone. Don't Open The Door. Don't Try To Escape.</description>
+    <stars />
+    <category>Crime / Horror / Mystery / Thriller</category>
+    <Director>Wes Craven</Director>
+    <ReleaseYear>1996</ReleaseYear>
+    <DateAdded>10/14/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\scream.avi</filePath>
+    <grammar>Scream (1996/I)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0117571.jpg</coverImage>
+    <IMDBNum>tt0117571</IMDBNum>
+  </media>
+  <media>
+    <title>Scream (1996/I)</title>
+    <previousTitle>Scream2</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong graphic horror violence and gore, and for language.</ratingDescription>
+    <description>Don't Answer The Phone. Don't Open The Door. Don't Try To Escape.</description>
+    <stars />
+    <category>Crime / Horror / Mystery / Thriller</category>
+    <Director>Wes Craven</Director>
+    <ReleaseYear>1996</ReleaseYear>
+    <DateAdded>10/14/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\scream2.avi</filePath>
+    <grammar>Scream (1996/I)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0117571.jpg</coverImage>
+    <IMDBNum>tt0117571</IMDBNum>
+  </media>
+  <media>
+    <title>Scream (1996/I)</title>
+    <previousTitle>Scream3</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong graphic horror violence and gore, and for language.</ratingDescription>
+    <description>Don't Answer The Phone. Don't Open The Door. Don't Try To Escape.</description>
+    <stars />
+    <category>Crime / Horror / Mystery / Thriller</category>
+    <Director>Wes Craven</Director>
+    <ReleaseYear>1996</ReleaseYear>
+    <DateAdded>10/14/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\scream3.avi</filePath>
+    <grammar>Scream (1996/I)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0117571.jpg</coverImage>
+    <IMDBNum>tt0117571</IMDBNum>
+  </media>
+  <media>
+    <title>Shallow Ground (2004)</title>
+    <previousTitle>Shallow Ground</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>strong violence and gore, nudity and some language.</ratingDescription>
+    <description>Fear your past... it will find you.</description>
+    <stars />
+    <category>Horror / Thriller</category>
+    <Director>Sheldon Wilson</Director>
+    <ReleaseYear>2005</ReleaseYear>
+    <DateAdded>11/30/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\shallowGround.avi</filePath>
+    <grammar>Shallow Ground (2004)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0369918.jpg</coverImage>
+    <IMDBNum>tt0369918</IMDBNum>
+  </media>
+  <media>
+    <title>Sleepy Hollow (1999)</title>
+    <previousTitle>Sleepy Hollow</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>graphic horror violence and gore, and for a scene of sexuality.</ratingDescription>
+    <description>Who will it come for next?!</description>
+    <stars />
+    <category>Horror / Mystery</category>
+    <Director>Tim Burton</Director>
+    <ReleaseYear>1999</ReleaseYear>
+    <DateAdded>10/14/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\sleepyHollow.avi</filePath>
+    <grammar>Sleepy Hollow (1999)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0162661.jpg</coverImage>
+    <IMDBNum>tt0162661</IMDBNum>
+  </media>
+  <media>
+    <title>Stigmata (1999)</title>
+    <previousTitle>Stigmata</previousTitle>
+    <performers />
+    <rating>R</rating>
+    <ratingDescription>intense violent sequences, language and some sexuality.</ratingDescription>
+    <description>The messenger must be silenced.</description>
+    <stars />
+    <category>Fantasy / Mystery / Drama / Horror / Thriller</category>
+    <Director>Rupert Wainwright</Director>
+    <ReleaseYear>1999</ReleaseYear>
+    <DateAdded>10/14/2008</DateAdded>
+    <timesPlayed />
+    <filePath>\\Fileserver\Video\Horror\stigmata.avi</filePath>
+    <grammar>Stigmata (1999)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0145531.jpg</coverImage>
+    <IMDBNum>tt0145531</IMDBNum>
+  </media>
+</DocumentElement>

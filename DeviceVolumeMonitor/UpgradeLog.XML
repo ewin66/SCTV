@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Staging">
+</Property><Property Name="Solution File" Value="C:\utilities\programming\trappingWindowsMessages\DeviceVolumeMonitor\Staging.sln">
+</Property><Property Name="Date" Value="Tuesday, December 16, 2008">
+</Property><Property Name="Time" Value="18:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="DeviceVolumeMonitor" Source="DeviceVolumeMonitor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DeviceVolumeMonitor" Source="DeviceVolumeMonitor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Staging.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Staging.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeviceVolumeMonitor" Source="DeviceVolumeMonitor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

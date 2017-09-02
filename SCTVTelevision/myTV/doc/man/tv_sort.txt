@@ -1,0 +1,32 @@
+NAME
+    tv_sort - Sort XMLTV listings files by date, and add stop times.
+
+SYNOPSIS
+    tv_sort [--help] [--by-channel] [--output FILE] [FILE...]
+
+DESCRIPTION
+    Read XMLTV data and write out the same data sorted in date order. Where
+    stop times of programmes are missing, guess them from the start time of
+    the next programme on the same channel.
+
+    Tv_sort also performs some sanity checks such as making sure no two
+    programmes on the same channel overlap.
+
+    --output FILE write to FILE rather than standard output
+
+    --by-channel sort first by channel id, then by date within each channel.
+
+    The time sorting is by start time, then by stop time. Without
+    --by-channel, if start times and stop times are equal then two
+    programmes are sorted by internal channel id. With --by-channel, channel
+    id is compared first and then times.
+
+    You can think of tv_sort as converting XMLTV data into a canonical form,
+    useful for diffing two files.
+
+SEE ALSO
+    xmltv(5).
+
+AUTHOR
+    Ed Avis, ed@membled.com
+

@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="0D495363-525F-4AA4-8765-EAA7056B0FFD" 
+		Name="Effect24" 
+		Description="オウム" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect24\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect24\config.ver"/>
+	</EffectList>
+</Root>

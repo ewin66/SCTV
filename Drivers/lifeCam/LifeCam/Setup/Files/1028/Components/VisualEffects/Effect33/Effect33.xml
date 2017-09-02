@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="4F5E9ECA-DA1D-44DD-9620-3EF10221FC79"
+		Name="Effect33"
+		Description="運動用品"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect33\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect33\config.ver"/>
+	</EffectList>
+</Root>

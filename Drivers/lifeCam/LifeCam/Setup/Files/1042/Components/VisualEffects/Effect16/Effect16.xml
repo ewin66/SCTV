@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="C0A473B1-69B7-492c-87C1-81863BDBB1DA" Name="겨울" Description="겨울" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect16\tn.bmp" DataRelativePath="Components\VisualEffects\Effect16\config.ver"/>
+	</EffectList>
+</Root>

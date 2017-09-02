@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="D284BDFB-A0E5-4510-B733-034E7E42C0D3" Name="ハチ" Description="ハチ" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect09\tn.bmp" DataRelativePath="Components\VisualEffects\Effect09\config.ver"/>
+	</EffectList>
+</Root>

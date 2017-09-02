@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="9DD0178F-FB5E-4e9d-9BCD-01DD8F3B2076" Name="Neige" Description="Neige" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect15\tn.bmp" DataRelativePath="Components\VisualEffects\Effect15\config.ver"/>
+	</EffectList>
+</Root>

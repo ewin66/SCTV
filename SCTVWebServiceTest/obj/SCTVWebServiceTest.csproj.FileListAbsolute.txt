@@ -1,0 +1,8 @@
+C:\utilities\programming\projects\SCTV2\SCTVWebServiceTest\bin\SCTVWebServiceTest.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebServiceTest\bin\SCTVWebServiceTest.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebServiceTest\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\SCTVWebServiceTest\obj\Debug\SCTVWebServiceTest.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebServiceTest\obj\Debug\SCTVWebServiceTest.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebServiceTest\obj\Release\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\SCTVWebServiceTest\obj\Release\SCTVWebServiceTest.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebServiceTest\obj\Release\SCTVWebServiceTest.pdb

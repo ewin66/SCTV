@@ -1,0 +1,14 @@
+<images>
+  <image>
+    <title>My Image</title>
+    <description />
+    <category />
+    <DateAdded>11/30/2009</DateAdded>
+    <coverImage>C:\Movies\myImage.jpg</coverImage>
+    <timesViewed>0</timesViewed>
+    <filePath>C:\Movies\myImage.jpg</filePath>
+    <grammar>My Image</grammar>
+    <SortBy>My Image</SortBy>
+    <MediaType>Pictures</MediaType>
+  </image>
+</images>

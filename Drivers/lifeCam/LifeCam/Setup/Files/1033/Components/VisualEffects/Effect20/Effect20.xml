@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="D00B2B96-034B-4C0D-95C4-051B75A59C4A"
+		Name="Effect20"
+		Description="Spider"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect20\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect20\config.ver"/>
+	</EffectList>
+</Root>

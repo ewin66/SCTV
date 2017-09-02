@@ -1,0 +1,316 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; File:       nx6000.inf
+; 
+; Copyright (C) Microsoft Corporation.  All rights reserved.
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[Version]
+signature="$CHICAGO$"
+Class=Image
+ClassGUID={6bdd1fc6-810f-11d0-bec7-08002be2092f}
+Provider=%Msft%
+CatalogFile.NT = NX6000.cat
+LayoutFile=layout.inf
+DriverVer=04/04/2007, 1.40.145.0
+
+[ControlFlags]
+ExcludeFromSelect=*
+
+[SourceDisksNames]
+1 = %InstallDisk%
+
+[SourceDisksFiles]
+nx6000.sys = 1
+LCCoin14.dll = 1
+MSHPrx64.ax = 1
+MSHPrx32.ax = 1
+
+[DestinationDirs]
+USBVideo.CopyList=10,system32\drivers
+MSHUSBVideo.CoInstallers.CopyFiles = 11
+MSHPrx64.CopyList=11
+MSHPrx32.CopyList=10,SysWOW64
+
+
+[Manufacturer]
+%Msft%=Microsoft,NTamd64,NTamd64.6.0
+
+[Microsoft.NTamd64]
+%USBVideo.DeviceDesc%=USBVideo,USB\VID_045E&PID_00F8&MI_00
+%USBVideo3000.DeviceDesc%=USBVideo3000,USB\VID_045E&PID_0721&MI_00
+%USBVideo7000.DeviceDesc%=USBVideo7000,USB\VID_045E&PID_0723&MI_00
+
+[Microsoft.NTamd64.6.0]
+%USBVideo.DeviceDesc%=USBVideo,USB\VID_045E&PID_00F8&MI_00
+%USBVideo3000.DeviceDesc%=USBVideo3000,USB\VID_045E&PID_0721&MI_00
+%USBVideo7000.DeviceDesc%=USBVideo7000,USB\VID_045E&PID_0723&MI_00
+
+[USBVideo.NT]
+Include=USBVideo.inf, ks.inf, kscaptur.inf
+Needs=USBVideo.NT, KS.Registration, KSCAPTUR.Registration.NT
+CopyFiles=USBVideo.CopyList, MSHPrx64.CopyList,MSHPrx32.CopyList
+;AddReg=wUSBVideo.AddReg,wTopologyNodeRegistration,wDVCR.Plugins
+AddReg=MSHUSBVideo.RegSvr32MSHProxy32.AddReg
+RegisterDlls=RegisterMSHPRoxy
+
+PreferDeviceInfo=1
+; WIA
+SubClass=StillImage
+DeviceType=3
+DeviceSubType=0x1
+FriendlyName=%USBVideo.DeviceDesc%
+Capabilities=0x00000031
+DeviceData=USBVideo.DeviceData
+ICMProfiles="sRGB Color Space Profile.icm"
+
+[USBVideo3000.NT]
+Include=USBVideo.inf, ks.inf, kscaptur.inf
+Needs=USBVideo.NT, KS.Registration, KSCAPTUR.Registration.NT
+CopyFiles=USBVideo.CopyList, MSHPrx64.CopyList,MSHPrx32.CopyList
+;AddReg=wUSBVideo.AddReg,wTopologyNodeRegistration,wDVCR.Plugins
+AddReg=MSHUSBVideo.RegSvr32MSHProxy32.AddReg
+RegisterDlls=RegisterMSHPRoxy
+
+PreferDeviceInfo=1
+; WIA
+SubClass=StillImage
+DeviceType=3
+DeviceSubType=0x1
+FriendlyName=%USBVideo3000.DeviceDesc%
+Capabilities=0x00000031
+DeviceData=USBVideo3000.DeviceData
+ICMProfiles="sRGB Color Space Profile.icm"
+
+[USBVideo7000.NT]
+Include=USBVideo.inf, ks.inf, kscaptur.inf
+Needs=USBVideo.NT, KS.Registration, KSCAPTUR.Registration.NT
+CopyFiles=USBVideo.CopyList, MSHPrx64.CopyList,MSHPrx32.CopyList
+;AddReg=wUSBVideo.AddReg,wTopologyNodeRegistration,wDVCR.Plugins
+AddReg=MSHUSBVideo.RegSvr32MSHProxy32.AddReg
+RegisterDlls=RegisterMSHPRoxy
+
+PreferDeviceInfo=1
+; WIA
+SubClass=StillImage
+DeviceType=3
+DeviceSubType=0x1
+FriendlyName=%USBVideo7000.DeviceDesc%
+Capabilities=0x00000031
+DeviceData=USBVideo7000.DeviceData
+ICMProfiles="sRGB Color Space Profile.icm"
+
+[RegisterMSHProxy]
+11,,MSHProxy.ax,1
+
+[USBVideo.DeviceData]
+Server=local
+UI DLL=sti.dll
+UI Class ID={5d8ef5a3-ac13-11d2-a093-00c04f72dc3c}
+
+[USBVideo.Interfaces]
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,USBVideo.Interface
+AddInterface=%KSCATEGORY_RENDER%,GLOBAL,USBVideo.Interface
+AddInterface=%KSCATEGORY_VIDEO%,GLOBAL,USBVideo.Interface
+
+[USBVideo.NT.Interfaces]
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,USBVideo.Interface
+AddInterface=%KSCATEGORY_RENDER%,GLOBAL,USBVideo.Interface
+AddInterface=%KSCATEGORY_VIDEO%,GLOBAL,USBVideo.Interface
+
+[USBVideo3000.DeviceData]
+Server=local
+UI DLL=sti.dll
+UI Class ID={5d8ef5a3-ac13-11d2-a093-00c04f72dc3c}
+
+[USBVideo3000.Interfaces]
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,USBVideo3000.Interface
+AddInterface=%KSCATEGORY_RENDER%,GLOBAL,USBVideo3000.Interface
+AddInterface=%KSCATEGORY_VIDEO%,GLOBAL,USBVideo3000.Interface
+
+[USBVideo3000.NT.Interfaces]
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,USBVideo3000.Interface
+AddInterface=%KSCATEGORY_RENDER%,GLOBAL,USBVideo3000.Interface
+AddInterface=%KSCATEGORY_VIDEO%,GLOBAL,USBVideo3000.Interface
+
+[USBVideo7000.DeviceData]
+Server=local
+UI DLL=sti.dll
+UI Class ID={5d8ef5a3-ac13-11d2-a093-00c04f72dc3c}
+
+[USBVideo7000.Interfaces]
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,USBVideo7000.Interface
+AddInterface=%KSCATEGORY_RENDER%,GLOBAL,USBVideo7000.Interface
+AddInterface=%KSCATEGORY_VIDEO%,GLOBAL,USBVideo7000.Interface
+
+[USBVideo7000.NT.Interfaces]
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,USBVideo7000.Interface
+AddInterface=%KSCATEGORY_RENDER%,GLOBAL,USBVideo7000.Interface
+AddInterface=%KSCATEGORY_VIDEO%,GLOBAL,USBVideo7000.Interface
+
+[USBVideo.Interface]
+AddReg=USBVideo.Interface.AddReg
+
+[USBVideo.Interface.AddReg]
+HKR,,CLSID,,%ProxyNX6000.CLSID%
+HKR,,FriendlyName,,%USBVideo.DeviceDesc%
+HKR,,RTCFlags,0x00010001,0x00000010
+
+[USBVideo3000.Interface]
+AddReg=USBVideo3000.Interface.AddReg
+
+[USBVideo3000.Interface.AddReg]
+HKR,,CLSID,,%ProxyNX6000.CLSID%
+HKR,,FriendlyName,,%USBVideo3000.DeviceDesc%
+HKR,,RTCFlags,0x00010001,0x00000010
+
+[USBVideo7000.Interface]
+AddReg=USBVideo7000.Interface.AddReg
+
+[USBVideo7000.Interface.AddReg]
+HKR,,CLSID,,%ProxyNX6000.CLSID%
+HKR,,FriendlyName,,%USBVideo7000.DeviceDesc%
+HKR,,RTCFlags,0x00010001,0x00000010
+
+[USBVideo.NT.Services]
+AddService = usbvideo,0x00000002,USBVideo.ServiceInstall
+AddService = MSHUSBVideo,0x00000000,MSHUSBVideoAddService
+
+[USBVideo3000.NT.Services]
+AddService = usbvideo,0x00000002,USBVideo.ServiceInstall
+AddService = MSHUSBVideo,0x00000000,MSHUSBVideoAddService
+
+[USBVideo7000.NT.Services]
+AddService = usbvideo,0x00000002,USBVideo.ServiceInstall
+AddService = MSHUSBVideo,0x00000000,MSHUSBVideoAddService
+
+[USBVideo.ServiceInstall]
+DisplayName   = %USBVideo.SvcDesc%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\usbvideo.sys
+
+[MSHUSBVideoAddService]
+Displayname = %FilterDisplayName%
+ServiceType = 1
+StartType   = 3
+ErrorControl = 1
+ServiceBinary = %10%\System32\Drivers\nx6000.sys
+
+[USBVideo.NT.HW]
+AddReg = MSHLowerFilterAddReg
+
+[MSHLowerFilterAddReg]
+HKR,,"LowerFilters",0x00010000, MSHUSBVideo
+HKR,,"FriendlyName",,%USBVideo.DeviceDesc%
+
+[USBVideo3000.NT.HW]
+AddReg = MSHLowerFilterAddReg3000
+
+[MSHLowerFilterAddReg3000]
+HKR,,"LowerFilters",0x00010000, MSHUSBVideo
+HKR,,"FriendlyName",,%USBVideo3000.DeviceDesc%
+
+[USBVideo7000.NT.HW]
+AddReg = MSHLowerFilterAddReg7000
+
+[MSHLowerFilterAddReg7000]
+HKR,,"LowerFilters",0x00010000, MSHUSBVideo
+HKR,,"FriendlyName",,%USBVideo7000.DeviceDesc%
+
+[USBVideo.CopyList]
+nx6000.sys
+
+[MSHPrx64.CopyList]
+MSHProxy.ax,MSHPrx64.ax
+
+[MSHPrx32.CopyList]
+MSHProxy.ax,MSHPrx32.ax
+
+[USBVideo.NT.CoInstallers]
+AddReg = MSHUSBVideo.CoInstallers.Addreg,MSHUSBVideo.Path.AddReg
+CopyFiles = MSHUSBVideo.CoInstallers.CopyFiles
+
+[USBVideo3000.NT.CoInstallers]
+AddReg = MSHUSBVideo.CoInstallers.Addreg,MSHUSBVideo.Path.AddReg
+CopyFiles = MSHUSBVideo.CoInstallers.CopyFiles
+
+[USBVideo7000.NT.CoInstallers]
+AddReg = MSHUSBVideo.CoInstallers.Addreg,MSHUSBVideo.Path.AddReg
+CopyFiles = MSHUSBVideo.CoInstallers.CopyFiles
+
+[MSHUSBVideo.CoInstallers.CopyFiles]
+LCCoin14.dll,,,0x00000010
+
+[MSHUSBVideo.CoInstallers.Addreg]
+HKR,,CoInstallers32,0x00010000,"LCCoin14.dll"
+
+[MSHUSBVideo.Path.AddReg]
+HKCU,"Software\Microsoft\LifeCam","CoinstallerPath",,"LifeCam\Setup\Files\Driver64\NX6000\"
+
+[MSHUSBVideo.RegSvr32MSHProxy32.AddReg]
+HKCR,"\CLSID\{1A8766A0-62CE-11CF-A5D6-28DB04C10000}",,0x00004000,"StandardInterfaceHandler"
+HKCR,"\CLSID\{1A8766A0-62CE-11CF-A5D6-28DB04C10000}\InprocServer32",,0x00004000,"%10%\SysWOW64\MSHProxy.ax"
+HKCR,"\CLSID\{1A8766A0-62CE-11CF-A5D6-28DB04C10000}\InprocServer32","ThreadingModel",0x00004000,"Both"
+
+HKCR,"\CLSID\{5FF4F136-0D7E-4804-B304-8888F271320C}",,0x00004000,"MSH NX6000 Proxy Filter"
+HKCR,"\CLSID\{5FF4F136-0D7E-4804-B304-8888F271320C}\InprocServer32",,0x00004000,"%10%\SysWOW64\MSHProxy.ax"
+HKCR,"\CLSID\{5FF4F136-0D7E-4804-B304-8888F271320C}\InprocServer32","ThreadingModel",0x00004000,"Both"
+
+[Strings]
+
+;-----------------
+; Non-Localizable
+;-----------------
+ProxyNX6000.CLSID="{5FF4F136-0D7E-4804-B304-8888F271320C}"
+KSCATEGORY_RENDER="{65E8773E-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+KSCATEGORY_VIDEO="{6994AD05-93EF-11D0-A3CC-00A0C9223196}"
+SERVICE_KERNEL_DRIVER=1
+SERVICE_DEMAND_START=3
+SERVICE_ERROR_NORMAL=1
+
+MediaCategories="SYSTEM\CurrentControlSet\Control\MediaCategories"
+GUID.VideoStreaming="{DFF229E1-F70F-11D0-B917-00A0C9223196}"
+GUID.VideoInputTerminal="{DFF229E2-F70F-11D0-B917-00A0C9223196}"
+GUID.VideoOutputTerminal="{DFF229E3-F70F-11D0-B917-00A0C9223196}"
+GUID.VideoSelector="{DFF229E4-F70F-11D0-B917-00A0C9223196}"
+GUID.VideoProcessing="{DFF229E5-F70F-11D0-B917-00A0C9223196}"
+GUID.VideoCameraTerminal="{DFF229E6-F70F-11D0-B917-00A0C9223196}"
+GUID.VideoInputMTT="{DFF229E7-F70F-11D0-B917-00A0C9223196}"
+GUID.VideoOutputMTT="{DFF229E8-F70F-11D0-B917-00A0C9223196}"
+
+;------------
+;Localizeable
+;------------
+Msft="Microsoft"
+USBVideo.DeviceDesc="Microsoft LifeCam NX-6000"
+USBVideo3000.DeviceDesc="Microsoft LifeCam NX-3000"
+USBVideo7000.DeviceDesc="Microsoft LifeCam VX-7000"
+USBVideoStreaming.DeviceDesc="USB Video Device (VS Interface)"
+USBVideo.SvcDesc="USB Video Device (WDM)"
+FilterDisplayName = "NX6000/NX3000/VX7000 Filter Driver"
+InstallDisk = "LifeCam Installation CD"
+
+Node.VideoStreaming="Video Streaming"
+Node.VideoInputTerminal="Video Input Terminal"
+Node.VideoOutputTerminal="Video Output Terminal"
+Node.VideoSelector="Video Selector"
+Node.VideoProcessing="Video Processing"
+Node.VideoCameraTerminal="Video Camera Terminal"
+Node.VideoInputMTT="Video Input Media Transport Terminal"
+Node.VideoOutputMTT="Video Output Media Transport Terminal"
+
+
+;
+; PlugIns Descriptions
+;
+PlugIn_IAMExtDevice="WDM Streaming IAMExtDevice Interface Handler"
+PlugIn_IAMExtTransport="WDM Streaming IAMExtTransport Interface Handler"
+PlugIn_IAMTimecodeReader="WDM Streaming IAMTimecodeReader Interface Handler"
+Plugin_IExtTransport="WDM Streaming IExtTransport Interface Handler"
+PropPage_DVcrControl="DVcrControl Property Page"
+Plugin_IKsTopologyInfo="WDM Streaming IKsTopologyInfo Interface Handler"
+Plugin_ICameraControl="WDM Streaming ICameraControl Interface Handler"
+Plugin_IVideoProcAmp="WDM Streaming IVideoProcAmp Interface Handler"
+Plugin_ISelector="WDM Streaming ISelector Interface Handler"
+Plugin_PropertyObject="Node Interface Aggregation Handler"

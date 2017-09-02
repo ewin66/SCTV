@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="CA4F09DD-D708-4ee6-8AAE-118397027347" Name="별" Description="별" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect11\tn.bmp" DataRelativePath="Components\VisualEffects\Effect11\config.ver"/>
+	</EffectList>
+</Root>

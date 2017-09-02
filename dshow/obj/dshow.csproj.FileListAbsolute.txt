@@ -1,0 +1,16 @@
+C:\utilities\programming\motionDetection\motion_src\dshow\bin\Release\dshow.dll
+C:\utilities\programming\motionDetection\motion_src\dshow\obj\Release\ResolveAssemblyReference.cache
+C:\utilities\programming\motionDetection\motion_src\dshow\obj\Release\dshow.dll
+C:\utilities\programming\motionDetection\motion_src\dshow\bin\Debug\dshow.dll
+C:\utilities\programming\motionDetection\motion_src\dshow\bin\Debug\dshow.pdb
+C:\utilities\programming\motionDetection\motion_src\dshow\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\motionDetection\motion_src\dshow\obj\Debug\dshow.dll
+C:\utilities\programming\motionDetection\motion_src\dshow\obj\Debug\dshow.pdb
+C:\utilities\programming\projects\SCTV2\dshow\bin\Debug\dshow.dll
+C:\utilities\programming\projects\SCTV2\dshow\bin\Debug\dshow.pdb
+C:\utilities\programming\projects\SCTV2\dshow\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\dshow\obj\Debug\dshow.dll
+C:\utilities\programming\projects\SCTV2\dshow\obj\Debug\dshow.pdb
+C:\utilities\programming\projects\SCTV2\dshow\bin\Release\dshow.dll
+C:\utilities\programming\projects\SCTV2\dshow\obj\Release\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\dshow\obj\Release\dshow.dll

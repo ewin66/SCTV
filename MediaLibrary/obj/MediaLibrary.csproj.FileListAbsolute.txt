@@ -1,0 +1,13 @@
+C:\utilities\programming\projects\SCTV2\MediaLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\MediaLibrary\obj\Debug\SCTV.mediaLibrary.resources
+C:\utilities\programming\projects\SCTV2\MediaLibrary\obj\Debug\SCTV.MediaLibrary_Listview.resources
+C:\utilities\programming\projects\SCTV2\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+C:\utilities\programming\projects\SCTV2\MediaLibrary\obj\Debug\SCTV.Properties.Resources.resources
+C:\utilities\programming\projects\SCTV2\MediaLibrary\bin\Debug\MediaLibrary.exe
+C:\utilities\programming\projects\SCTV2\MediaLibrary\bin\Debug\MediaLibrary.pdb
+C:\utilities\programming\projects\SCTV2\MediaLibrary\bin\Debug\Objects.dll
+C:\utilities\programming\projects\SCTV2\MediaLibrary\bin\Debug\Microsoft.Xml.XQuery.dll
+C:\utilities\programming\projects\SCTV2\MediaLibrary\bin\Debug\Objects.pdb
+C:\utilities\programming\projects\SCTV2\MediaLibrary\obj\Debug\MediaLibrary.exe
+C:\utilities\programming\projects\SCTV2\MediaLibrary\obj\Debug\MediaLibrary.pdb
+C:\utilities\programming\projects\SCTV2\MediaLibrary\bin\Debug\XQu\getMedia.xqu

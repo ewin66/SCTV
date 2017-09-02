@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="9894C3C7-11E1-4B36-8DAF-034B6EB5BDF3"
+		Name="Effect11"
+		Description="Stars"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect11\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect11\config.ver"/>
+	</EffectList>
+</Root>

@@ -1,0 +1,10 @@
+C:\utilities\programming\projects\SCTV2\MediaPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\MediaPlayer\obj\Debug\SCTV.liquidMediaPlayer.resources
+C:\utilities\programming\projects\SCTV2\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\utilities\programming\projects\SCTV2\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\utilities\programming\projects\SCTV2\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\utilities\programming\projects\SCTV2\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\utilities\programming\projects\SCTV2\MediaPlayer\bin\Debug\SCTVControls.dll
+C:\utilities\programming\projects\SCTV2\MediaPlayer\bin\Debug\SCTVControls.pdb
+C:\utilities\programming\projects\SCTV2\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\utilities\programming\projects\SCTV2\MediaPlayer\obj\Debug\MediaPlayer.pdb

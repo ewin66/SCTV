@@ -1,0 +1,5 @@
+C:\utilities\programming\motionDetection\motion_src\vfw\bin\Debug\Tiger.Video.VFW.dll
+C:\utilities\programming\motionDetection\motion_src\vfw\bin\Debug\Tiger.Video.VFW.pdb
+C:\utilities\programming\motionDetection\motion_src\vfw\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\motionDetection\motion_src\vfw\obj\Debug\Tiger.Video.VFW.dll
+C:\utilities\programming\motionDetection\motion_src\vfw\obj\Debug\Tiger.Video.VFW.pdb

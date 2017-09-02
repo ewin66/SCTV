@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="6813DB8A-1B18-492B-A585-E7502CFC525E"
+		Name="Effect05"
+		Description="Kite"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect05\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect05\config.ver"/>
+	</EffectList>
+</Root>

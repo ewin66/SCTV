@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="73A4A31D-405D-4FC3-9CEC-B2FED1EB15B2"
+		Name="Effect21"
+		Description="Kitten"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect21\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect21\config.ver"/>
+	</EffectList>
+</Root>

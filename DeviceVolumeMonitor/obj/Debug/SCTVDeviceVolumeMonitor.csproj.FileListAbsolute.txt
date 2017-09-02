@@ -1,0 +1,7 @@
+D:\utilities\Programming\c#\SCTV2\DeviceVolumeMonitor\bin\Debug\DeviceVolumeMonitor.dll
+D:\utilities\Programming\c#\SCTV2\DeviceVolumeMonitor\bin\Debug\DeviceVolumeMonitor.pdb
+D:\utilities\Programming\c#\SCTV2\DeviceVolumeMonitor\obj\Debug\SCTVDeviceVolumeMonitor.csprojResolveAssemblyReference.cache
+D:\utilities\Programming\c#\SCTV2\DeviceVolumeMonitor\obj\Debug\SCTVDeviceVolumeMonitor.frmDeviceVolumeMonitor.resources
+D:\utilities\Programming\c#\SCTV2\DeviceVolumeMonitor\obj\Debug\SCTVDeviceVolumeMonitor.csproj.GenerateResource.Cache
+D:\utilities\Programming\c#\SCTV2\DeviceVolumeMonitor\obj\Debug\DeviceVolumeMonitor.dll
+D:\utilities\Programming\c#\SCTV2\DeviceVolumeMonitor\obj\Debug\DeviceVolumeMonitor.pdb

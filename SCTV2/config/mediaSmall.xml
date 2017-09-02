@@ -1,0 +1,26 @@
+<mediaFiles>
+  <media>
+    <title>Indiana Jones</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>Comedy</category>
+    <timesPlayed />
+    <filePath>\\fileserver\video\movies\mrdeeds.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\Media\coverImages\RaidersoOfTheLostArk.jpg</coverImage>
+  </media>
+  <media>
+    <title>Indiana Jones</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>Comedy</category>
+    <timesPlayed />
+    <filePath>\\fileserver\video\movies\mrdeeds2.avi</filePath>
+    <grammar>Indiana jones</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\Media\coverImages\RaidersoOfTheLostArk.jpg</coverImage>
+  </media>
+</mediaFiles>

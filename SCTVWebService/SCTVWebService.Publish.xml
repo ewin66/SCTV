@@ -1,0 +1,11 @@
+<publishData>
+  <publishTarget publishUrl="\\web\c$\utilities\dnn\source\Website\Portals\21\WebService\">
+    <file relUrl="bin/SCTVWebService.pdb" publishTime="10/4/2009 5:44:05 PM" />
+    <file relUrl="Web.config" publishTime="12/6/2008 12:24:54 PM" />
+    <file relUrl="bin/SCTVUtilities.dll" publishTime="10/4/2009 1:07:24 PM" />
+    <file relUrl="bin/SCTVWebService.dll" publishTime="10/4/2009 5:44:05 PM" />
+    <file relUrl="bin/SCTVUtilities.pdb" publishTime="10/4/2009 1:07:23 PM" />
+    <file relUrl="SCTechWebService.asmx" publishTime="12/6/2008 4:22:47 PM" />
+  </publishTarget>
+  <publishTarget publishUrl="\\web\utilities\dnn\source\Website\Portals\21\WebService\" />
+</publishData>

@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="96AFD453-E7D2-41BF-B899-A080185D256A" 
+		Name="Effect35" 
+		Description="Maschera subacquea" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect35\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect35\config.ver"/>
+	</EffectList>
+</Root>

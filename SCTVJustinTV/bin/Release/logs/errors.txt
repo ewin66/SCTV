@@ -1,0 +1,10 @@
+10/10/2010 3:10 PM : Starting capture (vlc) on Logitech Webcam 250
+10/10/2010 3:10 PM : sdp file not created for Logitech Webcam 250 at C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Release\vlc\vlc_1234.sdp
+10/10/2010 3:11 PM : Started capture (vlc) of Logitech Webcam 250
+10/10/2010 3:11 PM : Starting broadcast of Logitech Webcam 250
+10/10/2010 3:11 PM : Starting broadcast 2 of Logitech Webcam 250
+10/10/2010 3:11 PM : Starting broadcast 3 of Logitech Webcam 250
+10/10/2010 3:11 PM : args C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Release\jtvlc\jtvlc.exe clickey live_7292794_3tdoPRg1 "C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Release\vlc\vlc_1234.sdp" -d
+10/10/2010 3:11 PM : Starting broadcast 4 of Logitech Webcam 250
+10/10/2010 3:11 PM : Starting broadcast 5 of Logitech Webcam 250
+10/10/2010 3:11 PM : Started broadcast of Logitech Webcam 250

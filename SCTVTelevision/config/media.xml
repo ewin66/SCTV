@@ -1,0 +1,35 @@
+<mediaFiles>
+  <media>
+    <title>Indiana Jones</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>Movies</category>
+    <timesPlayed />
+    <filePath>C:\movies\IndianaJones4.avi</filePath>
+    <grammar>Indiana jones</grammar>
+  </media>
+  <media>
+    <title>Indiana Jones2</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>Movies</category>
+    <timesPlayed />
+    <filePath>C:\movies\IndianaJones4.avi</filePath>
+    <grammar>Indiana jones</grammar>
+  </media>
+  <media>
+    <title>Indiana Jones3</title>
+    <performers />
+    <rating />
+    <description />
+    <stars />
+    <category>Movies2</category>
+    <timesPlayed />
+    <filePath>C:\movies\IndianaJones4.avi</filePath>
+    <grammar>Indiana jones</grammar>
+  </media>
+</mediaFiles>

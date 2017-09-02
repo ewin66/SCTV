@@ -1,0 +1,20 @@
+<Cameras>
+  <camera>
+    <name>Front Door</name>
+    <monikerString>@device:pnp:\\?\usb#vid_0545&amp;pid_8002#5&amp;29d93393&amp;0&amp;1#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global</monikerString>
+    <recordPath>
+    </recordPath>
+  </camera>
+  <camera>
+    <name>AVerMedia C038 USB Capture Card</name>
+    <monikerString>@device:pnp:\\?\usb#vid_07ca&amp;pid_c038#05395_09050m#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{9b365890-165f-11d0-a195-0020afd156e4}</monikerString>
+    <recordPath>
+    </recordPath>
+  </camera>
+  <camera>
+    <name>Back Door</name>
+    <monikerString>@device:pnp:\\?\usb#vid_0545&amp;pid_8002#5&amp;f34cdd1&amp;0&amp;2#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global</monikerString>
+    <recordPath>
+    </recordPath>
+  </camera>
+</Cameras>

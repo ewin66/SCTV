@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileTypes>
+  <video>
+    <type>rm</type>
+    <type>avi</type>
+    <type>mpeg</type>
+    <type>wma</type>
+    <type>mpg</type>
+    <type>mp3</type>
+    <type>rmvb</type>
+    <type>iso</type>
+    <type>avi</type>
+    <type>qt</type>
+    <type>mov</type>
+    <type>mpg</type>
+    <type>mpeg</type>
+    <type>m1v</type>
+  </video>
+  <audio>
+    <type>wav</type>
+    <type>mpa</type>
+    <type>mp2</type>
+    <type>mp3</type>
+    <type>au</type>
+    <type>aif</type>
+    <type>aiff</type>
+    <type>snd</type>
+    <type>mid</type>
+    <type>midi</type>
+    <type>rmi</type>
+  </audio>
+  <images>
+    <type>jpg</type>
+    <type>bmp</type>
+    <type>gif</type>
+    <type>tga</type>
+  </images>
+</fileTypes>

@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="9E3B429A-D7AB-4611-84C9-F97174D30D30" 
+		Name="Effect34" 
+		Description="Club di golf" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect34\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect34\config.ver"/>
+	</EffectList>
+</Root>

@@ -1,0 +1,7 @@
+C:\utilities\programming\trappingWindowsMessages\DeviceVolumeMonitor\bin\Debug\Staging.exe
+C:\utilities\programming\trappingWindowsMessages\DeviceVolumeMonitor\bin\Debug\Staging.pdb
+C:\utilities\programming\trappingWindowsMessages\DeviceVolumeMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\trappingWindowsMessages\DeviceVolumeMonitor\obj\Debug\Staging.frmDeviceVolumeMonitor.resources
+C:\utilities\programming\trappingWindowsMessages\DeviceVolumeMonitor\obj\Debug\DeviceVolumeMonitor.csproj.GenerateResource.Cache
+C:\utilities\programming\trappingWindowsMessages\DeviceVolumeMonitor\obj\Debug\Staging.exe
+C:\utilities\programming\trappingWindowsMessages\DeviceVolumeMonitor\obj\Debug\Staging.pdb

@@ -1,0 +1,5 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\WebVideo.dll
+bin\Release\WebVideo.pdb
+obj\Release\WebVideo.dll
+obj\Release\WebVideo.pdb

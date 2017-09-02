@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="BB27D476-0AA1-47e5-8A3A-A7055AA76E9F" Name="사탕" Description="사탕" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect17\tn.bmp" DataRelativePath="Components\VisualEffects\Effect17\config.ver"/>
+	</EffectList>
+</Root>

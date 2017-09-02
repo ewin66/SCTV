@@ -1,0 +1,9 @@
+
+PsExec v1.94 - Execute processes remotely
+Copyright (C) 2001-2008 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+The network path was not found.
+Connecting to fred...                                                                              Connecting to fred...                                                                              Couldn't access fred:
+
+Make sure that the default admin$ share is enabled on fred.

@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="22D42513-AF39-4D03-B23D-4BA926936CCD" 
+		Name="Effect27" 
+		Description="アコースティック ギター" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect27\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect27\config.ver"/>
+	</EffectList>
+</Root>

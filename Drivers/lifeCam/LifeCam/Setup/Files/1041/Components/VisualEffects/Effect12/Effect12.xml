@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="94EB71C6-907B-49ce-828B-9F40EA65FF1A"
+		Name="開花"
+		Description="開花"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect12\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect12\config.ver"/>
+	</EffectList>
+</Root>

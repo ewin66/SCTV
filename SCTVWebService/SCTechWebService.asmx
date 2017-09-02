@@ -1,0 +1,1 @@
+<%@ WebService Language="C#" CodeBehind="SCTechWebService.asmx.cs" Class="SCTechWebService.SCTVWebService" %>

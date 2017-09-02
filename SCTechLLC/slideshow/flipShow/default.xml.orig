@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	fhShow Flip 1.0 configuration file
+	Please visit http://www.flshow.net/ for more info
+-->
+
+<slide_show>
+	<options>
+		<background>transparent</background>		<!-- #RRGGBB, transparent -->
+	</options>
+
+	<photo href="http://www.flshow.net/" target="_self">./images/DCP_0730.png</photo>
+	<photo href="http://www.flshow.net/" target="_self">./images/DCP_0731.png</photo>
+	<photo href="http://www.flshow.net/" target="_self">./images/DCP_0732.png</photo>
+	<photo href="http://www.flshow.net/" target="_self">./images/DCP_0733.png</photo>
+</slide_show>

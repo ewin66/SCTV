@@ -1,0 +1,327 @@
+﻿Microsoft LifeCam-leesmij-bestand
+December 2006
+(c) 2006 Microsoft Corporation. Alle rechten voorbehouden.
+
+Dit document bevat de recentste informatie en andere informatie ter aanvulling op de Microsoft LifeCam-softwaredocumentatie.
+
+Raadpleeg de Help-bestanden van Microsoft LifeCam, die zijn geïnstalleerd met de LifeCam-software, voor meer informatie over de LifeCam-software.
+
+>>>Klik in het menu Start op Alle programma's, selecteer Microsoft LifeCam en klik op LifeCam Help om de Help-bestanden van Microsoft LifeCam te openen.
+
+--------------------------------------
+Het gebruik van dit document
+--------------------------------------
+
+U geeft het Leesmij-bestand op uw scherm weer door het Kladblok-venster te vergroten. Klik op Terugloop in het menu Opmaak.
+U drukt het Leesmij-bestand af door dit in Kladblok of een andere tekstverwerker te openen en vervolgens te klikken op Afdrukken in het menu Bestand.
+
+-------------
+Inhoud
+-------------
+
+1.0  Installatie en updates
+2.0  Hardware
+3.0  Video opnemen
+4.0  Programma's voor expresberichten
+5.0  Andere toepassingen
+6.0  Foutmeldingen
+---------------------
+
+1.0  Installatie en updates
+---------------------
+
+1.1  Het downloaden van een update (KB822603) is noodzakelijk als u Microsoft Windows XP Service Pack 1 (SP1) gebruikt
+
+Tijdens de installatie kan het volgende bericht worden weergegeven:
+"Voor de installatie van de Microsoft LifeCam-software moet u eerst een update installeren. 
+U kunt de update downloaden vanaf de website van Microsoft (KB822603)."
+
+Opmerking: als dit bericht NIET wordt weergegeven, heeft Setup ontdekt dat u deze update NIET nodig hebt of dat u deze al hebt.
+
+Doe het volgende om deze situatie te verhelpen:
+1. Ga naar http://support.microsoft.com/support.
+2. Zoek KB822603.
+3. Klik op de downloadkoppeling voor het 822603-pakket en klik vervolgens op Downloaden.
+4. Volg de instructies om de update te downloaden en te installeren.
+
+Nadat u de update hebt geïnstalleerd, voert u de installatie van LifeCam opnieuw uit om de LifeCam-software te installeren. 
+
+---------------------
+
+1.2  Installatiefoutbericht: Niet genoeg schijfruimte of er is een fout opgetreden.
+
+Dit foutbericht kan verschillende oorzaken hebben:
+- De installatie kan zijn geblokkeerd door een antivirusprogramma, een programma dat pop-ups blokkeert, of een spywaredetectieprogramma. (Zie 1.3 voor meer informatie.)
+- De vaste schijf waarop u de software installeert, kan vol zijn.  
+
+---------------------
+
+1.3  De installatie kan worden geblokkeerd door antivirussoftware en programma's voor pop-upblokkering en spywaredetectie
+
+Het installatieproces van de LifeCam-software kan worden geblokkeerd door uw antivirussoftware of door programma's voor pop-upblokkering en
+spywaredetectie. 
+
+Bij veel van deze programma's zal u worden gevraagd of u de installatie wilt blokkeren of toestaan. 
+Sta de installatie van de software toe als u hierom wordt gevraagd. 
+
+Doe het volgende om deze situatie te verhelpen:
+- Sluit uw antivirusprogramma tijdelijk af en voer het Setup-programma van LifeCam opnieuw uit.
+
+---------------------
+ 
+1.4  Om de installatie van automatische updates te voltooien, dient u de LifeCam-software af te sluiten en daarna weer te openen
+ 
+Na de installatie van een automatische update moet u de LifeCam-software afsluiten en opnieuw starten
+om de wijzigingen door te voeren.
+
+Bij sommige updates kan u ook gevraagd worden om de computer opnieuw op te starten om de wijzigingen door te voeren.
+
+---------------------
+
+1.5 Na installatie van Logitech®-webcamsoftware moet de Microsoft LifeCam-software opnieuw worden geïnstalleerd (foutbericht met Code 39)
+
+Het installatieproces van de Logitech-webcamsoftware kan problemen met de Microsoft LifeCam-software veroorzaken,
+waaronder een foutbericht met Code 39.
+
+Als u zowel de Microsoft LifeCam-software als Logitech QuickCam-software op dezelfde computer wilt installeren,
+moet u de Logitech QuickCam-software installeren voordat u de Microsoft LifeCam-software installeert.  
+
+Wanneer u de Microsoft LifeCam gebruikt, moet u wellicht ook de Logitech QuickCam-software afsluiten of uitschakelen via het systeemvak.
+
+
+---------------------
+2.0  Hardware
+---------------------
+
+
+2.1  USB-poorten (Universal Serial Bus)
+
+Als uw webcam niet goed werkt met de USB-poort waarop hij is aangesloten, probeer dan de webcam op een andere USB-poort aan te sluiten.
+
+Uw Microsoft LifeCam kan werken op een USB 1.1- of 2.0-poort. 
+
+USB 1.1- en USB 2.0-poorten zien er hetzelfde uit.  Sluit uw LifeCam-webcam indien mogelijk aan op een USB 2.0-poort.
+Sommige webcamfuncties worden wellicht niet ondersteund door USB 1.1-poorten.
+
+Verschillende USB-poorten kunnen ook verschillende stroomsterktes afgeven aan de webcam. Een USB-hub op een toetsenbord geeft bijvoorbeeld
+mogelijk niet voldoende stroom voor de LifeCam-webcam. U moet de webcam wellicht aansluiten op een USB-poort op
+de computer zelf of op een USB-poort met een eigen stroomvoorziening.
+
+
+---------------------
+
+2.2  Mogelijk werkt de webcam niet goed of helemaal niet als er te veel USB-apparaten op de computer zijn aangesloten
+
+Als er te veel USB-apparaten zijn aangesloten op de computer, kan het zijn dat de LifeCam-webcam niet goed werkt of helemaal niet meer werkt. 
+
+Enkele symptomen die hierop kunnen wijzen zijn: het videogedeelte is zwart (geen beeld of geluid), Windows Live Messenger werkt niet meer (loopt vast)
+wanneer u een videogesprek begint, of de webcam werkt niet voor video met een hoge resolutie.
+
+Probeer het volgende om deze situatie te verhelpen:
+- Koppel de LifeCam-webcam los en sluit hem opnieuw aan.
+- Probeer andere ongebruikte USB-apparaten los te koppelen.
+- Probeer een andere USB-poort op de computer te gebruiken.
+- Als u een USB-hub gebruikt, koppel de hub dan los en sluit de webcam direct op uw computer aan.
+
+---------------------
+
+2.3  De LifeCam VX-6000 werkt wellicht niet in combinatie met ATI Radeon 9600-kaart
+
+Wanneer u de ATI Radeon 9600-videokaart gebruikt, kan het videobeeld van de LifeCam VX-6000 bevriezen of flikkeren. 
+
+---------------------
+
+2.4  Video kan worden weergegeven als afbeelding met volledige schermgrootte
+
+Sommige videokaarten bevatten functies om video weer te geven als een afbeelding met volledige schermgrootte.
+
+Als u LifeCam-video niet op volledige schermgrootte wilt weergeven, kan deze functie meestal worden uitgeschakeld.
+Raadpleeg de documentatie van de videokaart voor instructies voor het uitschakelen van deze functie.
+
+---------------------
+
+2.5  LifeCam kan vastlopen wanneer video op een tweede monitor wordt gestart of gestopt
+
+Als u meerdere monitoren hebt en LifeCam in combinatie met een secundaire monitor gebruikt, kan de LifeCam-software vastlopen.
+
+Zo voorkomt u deze fout:
+ - Gebruik de LifeCam-software in combinatie met de primaire monitor.
+
+
+---------------------
+3.0  Video opnemen
+---------------------
+
+3.1  LifeCam VX-6000 -- niet alle resoluties worden ondersteund als u de USB 1.1-poort gebruikt
+
+Als de LifeCam is aangesloten op een USB 1.1-poort, ondersteunt deze een maximale videoresolutie van 800x600 pixels
+en een maximale fotoresolutie van 1,9 megapixels. 
+
+Doe het volgende om deze situatie te verhelpen:
+- Sluit de webcam aan op een USB 2.0-poort, indien die beschikbaar is.
+  - of - 
+- Gebruik een lagere resolutie
+
+---------------------
+
+3.2  LifeCam VX-6000 -- 1,3-MP videoresolutie ondersteunt geen pan, tilt, zoom en face tracking
+
+De functies pan, tilt, zoom en face tracking zijn momenteel niet beschikbaar voor de hoogste videoresolutie (1,3 MP).
+Als u pan, tilt, zoom of face tracking wilt gebruiken, kiest u een lagere videoresolutie.
+
+---------------------
+
+3.3  LifeCam NX-6000 -- opnamevoorbeeld kan zwart zijn
+
+In sommige gevallen wordt het opnamevoorbeeld niet weergegeven.
+
+Doe het volgende om deze situatie te verhelpen:
+- Koppel de webcam los en sluit deze dan weer aan.
+  - of - 
+- Gebruik een lagere videoresolutie
+
+---------------------
+
+3.4  Het opnamescherm blijft op de voorgrond wanneer algemene videostuurprogramma's worden gebruikt
+
+In sommige gevallen blijft de video-opname op de voorgrond, zelfs als u andere vensters bovenop het LifeCam-venster opent.
+Dit kan gebeuren als u generieke stuurprogramma's gebruikt voor de videoweergave.
+
+Doe het volgende om deze situatie te verhelpen:
+- Raadpleeg de documentatie van de hardwareleverancier voor informatie over het bijwerken van uw videostuurprogramma's.
+
+
+---------------------
+
+3.5  Bepaalde video-effecten kunnen lagere prestaties tot gevolg hebben
+
+Bepaalde video-effecten kunnen lagere prestaties tot gevolg hebben als deze zijn toegevoegd aan video met een hoge resolutie.
+
+Zo kunt u de prestaties verbeteren:
+- Stel uw videoresolutie op een lagere waarde in.
+  - of - 
+- Schakel video-effecten uit.
+
+
+---------------------
+4.0  Programma's voor expresberichten
+---------------------
+
+4.1  De knop voor Windows Live Call op de webcam werkt niet
+
+Het kan gebeuren dat bij het installeren of bijwerken van de LifeCam-software de knop voor Windows Live Call
+op uw webcam niet goed wordt geïnitialiseerd. 
+
+Zo lost u dit probleem op:
+
+- Meld uzelf af van de computer en meld uzelf daarna weer aan..
+  - of -  
+- Start de computer opnieuw op. 
+
+---------------------
+
+4.2  LifeCam NX-6000 -- Microsoft LifeCam-software kan vereist zijn voor bepaalde clients voor berichtenverkeer
+
+Ten behoeve van compatibiliteit met bepaalde clients voor berichtenverkeer, zoals Skype en Yahoo! Messenger,
+kan de Microsoft LifeCam-software zijn vereist.
+
+---------------------
+
+4.3  Video-effecten werken niet in alle programma's voor expresberichten
+
+Sommige video-effecten worden niet weergegeven in programma's voor expresberichten, zoals Skype.
+
+---------------------
+
+4.4  Videogesprekken in America Online (AOL) Instant Messenger kunnen worden afgebroken
+
+Al u zich achter een firewall bevindt, kunnen videogesprekken via AOL Instant Messenger worden afgebroken kort nadat deze zijn gestart.
+
+Meer informatie over het aanpassen van de instellingen voor de firewall of router vindt u op www.aim.com.
+
+
+-----------------------
+5.0  Andere toepassingen
+-----------------------
+
+5.1  LifeCam VX-6000 wordt niet ondersteund door bepaalde 64-bits programma's 
+
+De LifeCam VX-6000 werkt niet met bepaalde 64-bits programma's. In de meeste gevallen werkt de webcam echter
+wel binnen een 64-bits omgeving met de 32-bits versie van deze programma's.
+
+---------------------
+
+5.2  LifeCam VX-6000 verschijnt wellicht niet in de wizard Beeld en geluid afstemmen in Microsoft Office Communicator 
+
+In Microsoft Office Communicator wordt de LifeCam geïnstalleerd via de wizard Beeld en geluid afstemmen.
+In sommige gevallen verschijnt de LifeCam VX-6000 niet in de lijst met keuzemogelijkheden.
+
+Doe het volgende om deze situatie te verhelpen:
+-  Sluit de LifeCam-webcam aan voordat u de computer aanzet.
+
+---------------------
+
+5.3  Als ik iets wil verzenden naar Windows Live Spaces, wordt de pagina "Al aangemeld" of wordt er HTML-code weergegeven in plaats van mijn persoonlijk locatie
+
+Als u foto's plaatst op Windows Live Spaces-accounts met behulp van twee gebruikersaccounts op dezelfde computer,
+geeft Windows Live Spaces het foutbericht "Al aangemeld".
+
+Doe het volgende om deze situatie te verhelpen:
+1.  Sluit alle Internet Explorer-browservensters. 
+2.  Klik in de LifeCam-software nogmaals op de knop "Verzenden naar mijn weblog in Windows Live Spaces". 
+
+Zo voorkomt u deze fout:
+
+- Sluit Internet Explorer tussen gebruikerssessies.
+
+---------------------
+
+5.4  Als een gebruiker de standaardwebcam wijzigt, wordt de standaardwebcam gewijzigd voor alle gebruikers
+
+De instellingen van de LifeCam-software kunnen van invloed zijn op alle gebruikersprofielen.  Bijvoorbeeld: als u de standaardwebcam wijzigt in
+één gebruikersprofiel, wordt de standaardwebcam gewijzigd voor alle gebruikersprofielen op die computer.
+
+
+---------------------
+6.0  Foutmeldingen
+---------------------
+
+6.1  De foutmelding Onvoldoende schijfruimte wordt weergegeven als de map LifeCam Files ontbreekt
+
+Als de map "Mijn documenten\LifeCam Files" is verwijderd of niet meer beschikbaar is
+(bijvoorbeeld via een netwerkshare), worden uw video-opnamen niet opgeslagen en wordt mogelijk een foutbericht weergegeven
+waarin wordt gemeld dat er onvoldoende schijfruimte is om een foto te maken of een audio- of videoclip op te nemen, en waarin u wordt gevraagd om de hoeveelheid vrije ruimte op de vaste
+schijf te vergroten en het opnieuw te proberen. 
+
+Doe het volgende om deze situatie te verhelpen:
+- Maak de map "Mijn documenten\LifeCam Files" opnieuw.
+  - of - 
+- Sluit de LifeCam-software en open deze daarna opnieuw.  De map wordt dan automatisch gemaakt.
+
+---------------------
+
+6.2  Het systeem loopt vast met een ernstige fout in Tiptsf.dll
+
+Er kan een ernstige fout in uw computer optreden (STOP in Tiptsf.dll). 
+
+Doe het volgende om deze situatie te verhelpen:
+Download de Windows XP SP1 USB 1.1-patch.  
+1.  Ga naar http://support.microsoft.com.
+2.  Zoek KB827220.
+3.  Download en installeer de patch.
+
+
+---------------------
+
+6.3  LifeCam VX-6000 in combinatie met Windows XP SP1: Blauw scherm in Usbport.sys
+
+Er kan een ernstige fout in uw computer optreden (STOP in Usbport.sys). 
+
+Doe het volgende om deze situatie te verhelpen:
+Download Windows XP Service Pack 2 (SP2).  
+1.  Ga naar http://update.microsoft.com.
+2.  Download en installeer Windows XP Service Pack 2 (SP2).
+
+
+---------------------
+

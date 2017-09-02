@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<mediaFiles>
+  <media>
+    <title>Paul Blart: Mall Cop (2009)</title>
+    <rating>PG</rating>
+    <ratingDescription>some violence, mild crude and suggestive humor, and language.</ratingDescription>
+    <description>Safety never takes a holiday.</description>
+    <category>Action / Comedy / Crime / Family</category>
+    <filePath>C:\Movies\PaulBlartMallCop.CEL</filePath>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt1114740.jpg</coverImage>
+    <IMDBNum>tt1114740</IMDBNum>
+  </media>
+  <media>
+    <title>IMDb Search</title>
+    <previousTitle>SCOOB Y DO O ALIE N INVADER S</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description />
+    <stars />
+    <category />
+    <timesPlayed />
+    <filePath>C:\Movies\SCOOBY_DOO_ALIEN_INVADERS.avi</filePath>
+    <grammar>IMDb Search</grammar>
+    <coverImage />
+    <IMDBNum />
+  </media>
+  <media>
+    <title>Scooby-Doo and the Ghoul School (1988) (TV)</title>
+    <previousTitle>SCOOB Y DO O AN D GHOU L SCHOO L</previousTitle>
+    <performers />
+    <rating />
+    <ratingDescription />
+    <description>Hey there, it&amp;#x27;s the ghoul school!</description>
+    <stars />
+    <category>Animation / Adventure / Comedy / Family / Fantasy / Horror / Mystery</category>
+    <timesPlayed />
+    <filePath>C:\Movies\SCOOBY_DOO_AND_GHOUL_SCHOOL.ISO</filePath>
+    <grammar>Scooby-Doo and the Ghoul School (1988) (TV)</grammar>
+    <coverImage>C:\utilities\programming\projects\SCTV2\SCTV2\bin\Debug\images\media\coverImages\tt0189071.jpg</coverImage>
+    <IMDBNum>tt0189071</IMDBNum>
+  </media>
+</mediaFiles>

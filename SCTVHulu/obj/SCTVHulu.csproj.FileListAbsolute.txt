@@ -1,0 +1,14 @@
+C:\utilities\programming\projects\SCTV2\SCTVHulu\bin\Debug\SCTVHulu.exe
+C:\utilities\programming\projects\SCTV2\SCTVHulu\bin\Debug\SCTVHulu.pdb
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Debug\SCTVHulu.Properties.Resources.resources
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Debug\SCTVHulu.csproj.GenerateResource.Cache
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Debug\SCTVHulu.exe
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Debug\SCTVHulu.pdb
+C:\utilities\programming\projects\SCTV2\SCTVHulu\bin\Release\SCTVHulu.exe
+C:\utilities\programming\projects\SCTV2\SCTVHulu\bin\Release\SCTVHulu.pdb
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Release\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Release\SCTVHulu.Properties.Resources.resources
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Release\SCTVHulu.csproj.GenerateResource.Cache
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Release\SCTVHulu.exe
+C:\utilities\programming\projects\SCTV2\SCTVHulu\obj\Release\SCTVHulu.pdb

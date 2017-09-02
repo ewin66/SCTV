@@ -1,0 +1,974 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Security" content="Confidential">
+   <meta name="CUID" content="ugiri, rboelte, rfwilli, ukini">
+   <meta name="GENERATOR" content="Mozilla/4.5 [en]C-CCK-MCD {U S WEST.net}  (WinNT; I) [Netscape]">
+   <title>QMO - Design the System</title>
+</head>
+<body bgcolor="#FFFFFF" vlink="#0000FF">
+&nbsp;
+<table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="500" colstart="1"><a NAME="top"></a><b><font face="Arial"><font size=+0>QMO
+Quality Method of Operation</font></font></b>
+<br><b><font face="Arial"><font size=+0></font></font></b>&nbsp;</td>
+
+<td ALIGN=RIGHT colstart="2"><a href="Index.htm"><img SRC="home.gif" BORDER=0 height=80 width=70 align=TEXTTOP></a>
+<br><font face="Arial"><font size=-1>Back to Index&nbsp;</font></font></td>
+</tr>
+</table>
+
+<hr>
+<center><font face="Arial"><font size=-1>| <a href="QMS Introduction.htm">Introduction</a>
+| <a href="Initiate.htm">Initiate</a> | <a href="Define.htm">Define</a>
+| <a href="Design.htm">Design</a> | <a href="Build.htm">Build</a> | <a href="Test.htm">Test</a>
+| <a href="Deploy.htm">Deploy</a> | <a href="Support.htm">Support</a> |
+<a href="Appendix.htm">Appendix</a>
+|</font></font></center>
+
+<hr>
+<br>&nbsp;
+<table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="260" colstart="1"><b><font face="Arial"><font size=+1>3.0 Design
+the System</font></font></b></td>
+</tr>
+</table>
+
+<center>
+<p><font face="Arial"><font size=-1>| <a href="#A1">System Architecture</a>
+| <a href="#A2">Reusable Code</a> | <a href="#A3">Supplier Product</a>
+| <a href="#A4">Database Design</a> | <a href="#A5">Detailed Design</a>
+|</font></font>
+<br><font face="Arial"><font size=-1>| <a href="#A6">Continue Test, Installation
+and Deployment, and ID Activities</a> |</font></font>
+<br><font face="Arial"><font size=-1>| <a href="Design 3_0.htm">Links for
+3.0</a> |</font></font></center>
+
+<p><br>
+<p><a NAME="A1"></a><b><font face="Arial"><font size=+1>3.1 Document System
+Architecture</font></font></b>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Purpose&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>The System
+Architecture defines/documents the logical view of the system. The entire
+System Architecture is required for new projects. Extensively changed systems
+or new feature/CR work that impacts the architecture requires updating
+or adding an addendum to existing documentation.</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;The system specified within the
+System Architecture is:</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<ul>
+<li>
+<font face="Arial"><font size=-1>reusable</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>maintainable</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>modular</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>identifies common routines</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>ensures that the requirements can be met&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>follows Company standards&nbsp;</font></font></li>
+</ul>
+</td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Entrance
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>TOE</font></font>
+<br><font face="Arial"><font size=-1>Baselined Requirements&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Steps&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><b><font face="Arial"><font size=-1>This section
+overlaps with Section 2.1 - Define the Project</font></font></b>
+<ol>
+<li>
+<font face="Arial"><font size=-1>Capture the logical view of the system
+or changes to the architecture (Development).&nbsp;</font></font></li>
+
+<dl>
+<dd>
+<font face="Arial"><font size=-1>Consider:</font></font></dd>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>An overview of the system, identifying
+the mission of the system and design objectives set forth in order to fulfill
+this mission</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Assumptions or constraints</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Strategies for meeting usability objectives</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Performance requirements</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Security requirements</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Hardware needs</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Software needs</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Subsystems and functions/process control</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Major internal and external interface
+relationships</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Common routines</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Database considerations</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Outstanding issues and/or future considerations</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Installation, growth, and retrofit considerations.</font></font></li>
+</ul>
+<font face="Arial"><font size=-1>Use the Pre-Commitment Architecture Specification
+as a source of information.&nbsp;</font></font>
+<li>
+<font face="Arial"><font size=-1>Conduct internal review of Draft System
+Architecture (Development).</font></font></li>
+
+<br><font face="Arial"><font size=-1>See <a href="Appendix.htm#base_line">Baseline
+Process</a>, <a href="Appendix.htm#change_control">Change Control Process</a>,
+<a href="Appendix.htm#doc_control">Document
+Control</a>, and <a href="Appendix.htm#reviews">Reviews</a> in the Appendix
+section for details.</font></font>
+<li>
+<font face="Arial"><font size=-1>Retain the appropriate artifacts in the
+Project Library for easy retrieval (Project Manager).</font></font></li>
+</dl>
+</ol>
+</td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Exit
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Baselined
+System Architecture (Q-9)&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Quality
+Records&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Review Tracking
+Sheet</font></font>
+<br><font face="Arial"><font size=-1>Completed Action Item Register (if
+applicable)</font></font>
+<br><font face="Arial"><font size=-1>Meeting minutes (if applicable)&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Controlled
+Documents&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>System Architecture
+Document&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Metrics&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Updates to
+or actuals for size and cost&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="A6"></a><b><font face="Arial"><font size=-2>Templates&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1><a href="Templates/System Architecture.doc">System
+Architecture Template</a></font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Tools</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="R"></a><b><font face="Arial"><font size=-2>Techniques</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<center>
+<p><font face="Arial"><font size=-1>| <a href="#top">Top</a> |&nbsp;</font></font>
+<hr></center>
+
+<center><table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="260" colstart="1"><a NAME="A2"></a><b><font face="Arial"><font size=+1>3.2
+Identify Reusable Code</font></font></b></td>
+</tr>
+</table></center>
+
+<hr>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Purpose&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Reusable code
+(modules that may be reused by this system or modules within the system
+that are candidates for future reuse) is identified to save resources and
+usually results in cost savings for the client.&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Entrance
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Baselined
+Requirements</font></font>
+<br><font face="Arial"><font size=-1>TOE</font></font>
+<br><font face="Arial"><font size=-1>System Architecture (draft)</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<p><b><font face="Arial"><font size=-1>This activity usually overlaps with
+Section 2.1 - Define the Project.</font></font></b></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Steps&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3">
+<ol>
+<li>
+<font face="Arial"><font size=-1>Evaluate modules currently being used
+as necessary (Development).</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Identify potential modules and determine
+the feasibility for reuse (Development).&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Document reusable modules in the Detailed
+Design document (Development).&nbsp;</font></font></li>
+</ol>
+</td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Exit
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Documented
+Statement of Reusable Modules Detailed Design.</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Quality
+Records&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Controlled
+Documents&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Metrics&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="A6"></a><b><font face="Arial"><font size=-2>Templates&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Tools</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="R"></a><b><font face="Arial"><font size=-2>Techniques</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<center>
+<p><font face="Arial"><font size=-1>| <a href="#top">Top</a> |&nbsp;</font></font>
+<hr></center>
+
+<center><table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="500" colstart="1"><a NAME="A3"></a><b><font face="Arial"><font size=+1>3.3
+Evaluate and Acquire Supplier Software Product&nbsp;</font></font></b></td>
+</tr>
+</table></center>
+
+<hr>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Purpose&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Supplier products
+are acquired and evaluated to ensure minimum quality standards and that
+specific product requirements are met.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Reference <a href="http://shasts/apl.nfs">Approved
+Product List (APL)</a> change and waiver process.&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Entrance
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Individual
+projects, based on client requirements and development needs, make a decision
+to use supplier product(s).</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="90" colstart="1"><b><font face="Arial"><font size=-2>Steps&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3">
+<ol>
+<li>
+<font face="Arial"><font size=-1>Identify critical suppliers, based on
+their impact to Company's success. Products which have been previously
+approved will be listed on the APL.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>If a project selects a product which has
+not been previously approved for use on the APL, then the project must
+follow the APL waiver process.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Follow <a href="http://webster.uswc.uswest.ccis/cpp/2aam/aam_home.html">Software
+Procurement</a>.&nbsp;</font></font></li>
+</ol>
+</td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Exit
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Supplier products
+approved; with a granted APL waiver, on the approved APL, added to the
+APL or approved as part of the APL exception process.&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Quality
+Records&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>A document
+describing how the product was evaluated for selection should be retained
+by the originating organization.</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Controlled
+Documents&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Metrics</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="A6"></a><b><font face="Arial"><font size=-2>Templates&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Tools</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="R"></a><b><font face="Arial"><font size=-2>Techniques</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<center>
+<p><font face="Arial"><font size=-1>| <a href="#top">Top</a> |&nbsp;</font></font>
+<hr></center>
+
+<center><table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="260" colstart="1"><a NAME="A4"></a><b><font face="Arial"><font size=+1>3.4
+Design the Database&nbsp;</font></font></b></td>
+</tr>
+</table></center>
+
+<hr>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Purpose&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Designing
+the database is necessary to produce a physical database design.</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;A complete Database Design is
+required for new projects. Extensively changing the database requires updating
+or adding an addendum to existing documentation.&nbsp;</font></font>
+<p><font face="Arial"><font size=-1>Other changes are documented in the
+Detailed Design.</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Entrance
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>TOE</font></font>
+<br><font face="Arial"><font size=-1>Baselined Requirements</font></font>
+<br><font face="Arial"><font size=-1>System Architecture document (draft)&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Steps&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><b><font face="Arial"><font size=-1>This activity
+usually overlaps with Section 2.1 - Define the Project.</font></font></b>
+<ol>
+<li>
+<font face="Arial"><font size=-1>Develop database designs as needed to:
+(Development/Data Modelers/ DBA)</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>Define logical and physical model and
+characteristics such as:&nbsp;</font></font></li>
+
+<ul>
+<li>
+<font face="Arial"><font size=-1>mapping&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>data types&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>indices&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>relationship (E-R diagrams)&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>map records&nbsp;</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Specify options</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Calculate space/capacity</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Evaluate performance (Development or Performance)</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Evaluate security (Development or Security)</font></font></li>
+</ul>
+
+<li>
+<font face="Arial"><font size=-1>Design Installation/Transition Procedures
+(Development, I &amp; D).</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Design the conversion routines (data,
+environmental, optional) (if applicable) (Development).</font></font></li>
+
+<br><font face="Arial"><font size=-1>See <a href="Appendix.htm#base_line">Baseline
+Process</a>, <a href="Appendix.htm#change_control">Change Control Process</a>,
+<a href="Appendix.htm#doc_control">Document
+Control</a>, and</font></font>
+<br><font face="Arial"><font size=-1><a href="Appendix.htm#reviews">Reviews</a>
+in the Appendix section for details.&nbsp;</font></font>
+<br><font face="Arial"><font size=-1>The Database Design is now a controlled
+document under change control.&nbsp;</font></font>
+<li>
+<font face="Arial"><font size=-1>Retain the appropriate artifacts in the
+Project Library for easy retrieval (Project Manager).&nbsp;</font></font></li>
+</ol>
+</td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Exit
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Baselined
+Database Design (Q-9)</font></font>
+<br><font face="Arial"><font size=-1>Baselined Installation/Transition
+Design</font></font>
+<br><font face="Arial"><font size=-1>Conversion Routines (if applicable)</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Quality
+Records&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Review Tracking
+sheet</font></font>
+<br><font face="Arial"><font size=-1>Completed Action Item Register (if
+applicable)&nbsp;</font></font>
+<br><font face="Arial"><font size=-1>Meeting minutes (if applicable)</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Controlled
+Documents&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Database Design</font></font>
+<br><font face="Arial"><font size=-1>Installation/Transition Design&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Metrics</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Updates to
+or actuals for size and cost&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="A6"></a><b><font face="Arial"><font size=-2>Templates&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Tools</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="R"></a><b><font face="Arial"><font size=-2>Techniques</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<center>
+<p><font face="Arial"><font size=-1>|
+<a href="#top">Top</a> |&nbsp;</font></font>
+<hr></center>
+
+<center><table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="260" colstart="1"><a NAME="A5"></a><b><font face="Arial"><font size=+1>3.5
+Develop Detailed Design&nbsp;</font></font></b></td>
+</tr>
+</table></center>
+
+<hr>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Purpose&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>The Detailed
+Design is developed to describe how the system will be built, as well as
+what tools and what techniques will be used to build it.</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;This activity is required for
+a new project. It is also required for any new feature, a CR that contains
+or will recall reusable code, is complex, or being significantly changed.
+For new features that do not meet this criteria, the design information
+may be documented within the Requirements. CRs that do not meet this criteria
+must have the design documented within the CR record in the trouble tracking
+system.</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Entrance
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Baselined
+Project Plan</font></font>
+<br><font face="Arial"><font size=-1>Baselined Requirements</font></font>
+<br><font face="Arial"><font size=-1>TOE</font></font>
+<br><font face="Arial"><font size=-1>System Architecture (draft)&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Steps&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><b><font face="Arial"><font size=-1>This section
+overlaps with section 2.1 - Define the Project.&nbsp;</font></font></b>
+<ol>
+<li>
+<font face="Arial"><font size=-1>Select design strategy if multiple options
+are mentioned in system standards (e.g., object oriented, structured, etc.)
+(Development).</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Decompose required functionality into
+implementable units (Development).&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Evaluate performance (Performance or Development).</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Evaluate security (Security or Development).</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Evaluate Installation/Transition impacts
+(I &amp; D).&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1><a href="ddeslii.htm">Design implementable
+software units</a> per the <a href="Templates/Detailed Design.doc">Detailed
+Design Template</a> (Development).</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Conduct internal baseline review after
+the Requirements have been baselined (Development).</font></font></li>
+
+<br><font face="Arial"><font size=-1>See <a href="Appendix.htm#base_line">Baseline
+Process</a>, <a href="Appendix.htm#change_control">Change Control Process</a>,
+<a href="Appendix.htm#doc_control">Document
+Control</a>, and</font></font>
+<br><font face="Arial"><font size=-1><a href="Appendix.htm#reviews">Reviews</a>
+in the Appendix section for details.&nbsp;</font></font>
+<br><font face="Arial"><font size=-1>The Detailed Design is now a controlled
+document under change control.&nbsp;</font></font>
+<li>
+<font face="Arial"><font size=-1>Retain the appropriate artifacts in the
+Project Library for easy retrieval (Project Manager).</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Review and update estimates.&nbsp;</font></font></li>
+
+<li>
+<font face="Arial"><font size=-1>Determine commitment dates.&nbsp;</font></font></li>
+</ol>
+</td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Exit
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Baselined
+Detailed Design (Q-9)</font></font>
+<br><font face="Arial"><font size=-1>Commitment date for Q-2 (Q-9)</font></font>
+<br><font face="Arial"><font size=-1>Decision to proceed to Q-2 (Q-9)&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Quality
+Records&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Review Tracking
+Sheet</font></font>
+<br><font face="Arial"><font size=-1>Completed Action Item Register (if
+applicable)&nbsp;</font></font>
+<br><font face="Arial"><font size=-1>Meeting minutes (if applicable)&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Controlled
+Documents&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Detailed Design&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Metrics</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Updates to
+or actuals for size and cost&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="detail"></a><b><font face="Arial"><font size=-2>Templates&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1><a href="Templates/Detailed Design.doc">Detailed
+Design Template</a></font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Tools</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="R"></a><b><font face="Arial"><font size=-2>Techniques</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<center>
+<p><font face="Arial"><font size=-1>|
+<a href="#top">Top</a> |&nbsp;</font></font>
+<hr></center>
+
+<center><table BORDER=0 WIDTH="100%" >
+<tr>
+<td WIDTH="600" colstart="1"><a NAME="A6"></a><b><font face="Arial"><font size=+1>3.6
+Continue Test, Installation and Deployment,&nbsp;</font></font></b>
+<br><b><font face="Arial"><font size=+1>and Information Development Activities&nbsp;</font></font></b></td>
+</tr>
+</table></center>
+
+<hr>
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Purpose&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Test documents,
+the Deployment Plan, and Information Development materials are updated
+throughout this phase of the life cycle.</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Entrance
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Baselined
+Project Plan</font></font>
+<br><font face="Arial"><font size=-1>Baselined Requirements</font></font>
+<br><font face="Arial"><font size=-1>Information Development Release Plan</font></font>
+<br><font face="Arial"><font size=-1>Master Test Plan (draft)</font></font>
+<br><font face="Arial"><font size=-1>Test Case Specifications (draft)</font></font>
+<br><font face="Arial"><font size=-1>Deployment Plan (draft)&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Steps&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3">
+<ol>
+<li>
+<font face="Arial"><font size=-1>Continue test planning, test case specifications,
+information development and deployment activities (Test, Information Developers,
+and Installation and Deployment).</font></font></li>
+</ol>
+</td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Exit
+Criteria&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>Updated Master
+Test Plan</font></font>
+<br><font face="Arial"><font size=-1>Test Case Specifications</font></font>
+<br><font face="Arial"><font size=-1>Information Development Materials&nbsp;</font></font>
+<br><font face="Arial"><font size=-1>Deployment Plan</font></font>
+<p><font face="Arial"><font size=-1>&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Quality
+Record</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Controlled
+Documents</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Metrics</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Templates&nbsp;</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>None&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><b><font face="Arial"><font size=-2>Tools</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<table BORDER=0 >
+<tr>
+<td VALIGN=TOP WIDTH="70" colstart="1"><a NAME="R"></a><b><font face="Arial"><font size=-2>Techniques</font></font></b></td>
+
+<td VALIGN=TOP colstart="3"><font face="Arial"><font size=-1>As Appropriate&nbsp;</font></font></td>
+</tr>
+</table>
+
+<center>
+<p><font face="Arial"><font size=-1>|
+<a href="#top">Top</a> |</font></font></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>
+<hr WIDTH="100%">
+<br>&nbsp;
+<br>&nbsp;
+</body>
+</html>

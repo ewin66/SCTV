@@ -1,0 +1,11 @@
+<!-- 409 = american english -->
+
+<GRAMMAR LANGID="409">
+	<DEFINE>
+		<ID NAME="RID_Activate" VAL="0"></ID>
+	</DEFINE>
+
+	<RULE NAME="Activate" ID="RID_Activate" TOPLEVEL="ACTIVE">
+		<P>sctv</P>
+	</RULE>
+</GRAMMAR>

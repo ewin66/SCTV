@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9DAA0098-AA1B-4369-8A95-3630F5CFEA65}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SCTV</RootNamespace>
+    <AssemblyName>SCTV</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SCTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCTV.Designer.cs">
+      <DependentUpon>SCTV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCTV.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SCTV.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="config\speech\characters\Al.acs" />
+    <None Include="config\speech\characters\Alien.acs" />
+    <None Include="config\speech\characters\Birdie.acs" />
+    <None Include="config\speech\characters\Charlie.acs" />
+    <None Include="config\speech\characters\Claude.acs" />
+    <None Include="config\speech\characters\Genie.acs" />
+    <None Include="config\speech\characters\Gourdy.acs" />
+    <None Include="config\speech\characters\Hanz.acs" />
+    <None Include="config\speech\characters\James.acs" />
+    <None Include="config\speech\characters\Joe.acs" />
+    <None Include="config\speech\characters\Max.acs" />
+    <None Include="config\speech\characters\Oscar.acs" />
+    <None Include="config\speech\characters\Ozzar.acs" />
+    <None Include="config\speech\characters\Reaper.acs" />
+    <None Include="config\speech\characters\Robby.acs" />
+    <None Include="config\speech\characters\Santa.acs" />
+    <None Include="config\speech\characters\Sharky.acs" />
+    <None Include="config\speech\characters\Spaceman.acs" />
+    <None Include="config\speech\characters\Wartnose.acs" />
+    <None Include="config\xmltv.dtd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\blockedSites.txt" />
+    <Content Include="config\blockedTerms.txt" />
+    <Content Include="config\compressors.txt" />
+    <None Include="config\media.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="config\media.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="config\media.xsx">
+      <DependentUpon>media.xsd</DependentUpon>
+    </None>
+    <None Include="config\mediaSmall.xml" />
+    <None Include="config\favorites.xml" />
+    <None Include="config\favorites1.xml" />
+    <Content Include="config\images_default.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\media_default.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\fileTypes.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="config\locations.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="config\media1.xml" />
+    <None Include="config\myTV.xml" />
+    <None Include="config\myTV1.xml" />
+    <None Include="config\notifications.xml" />
+    <None Include="config\playSchedules.xml" />
+    <None Include="config\record.xml" />
+    <Content Include="config\foundBlockedSites.txt" />
+    <Content Include="config\FoundBlockedTerms.txt" />
+    <Content Include="config\loginInfo.txt" />
+    <Content Include="config\OnlineMedia.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="config\playlist.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="config\speech\video1.xml" />
+    <Content Include="config\speech\vocab\all\video1.xml" />
+    <Content Include="config\speech\vocab\all\XMLAbout.xml" />
+    <Content Include="config\speech\vocab\all\XMLActivate.xml" />
+    <Content Include="config\speech\vocab\all\XMLActivated.xml" />
+    <Content Include="config\speech\vocab\all\XMLAlphabeticState.xml" />
+    <Content Include="config\speech\vocab\all\XMLCommands.xml" />
+    <Content Include="config\speech\vocab\all\XMLDeactivate.xml" />
+    <Content Include="config\speech\vocab\all\XMLDeactivated.xml" />
+    <Content Include="config\speech\vocab\all\XMLMain.xml" />
+    <Content Include="config\speech\vocab\all\XMLMediaLibrary.xml" />
+    <Content Include="config\speech\vocab\all\XMLNumericState.xml" />
+    <Content Include="config\speech\vocab\all\XMLTV.xml" />
+    <Content Include="config\speech\vocab\all\XMLVideoPlayer.xml" />
+    <Content Include="config\speech\vocab\xmlAll.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\speech\vocab\XMLDeactivated.xml" />
+    <Content Include="config\speech\vocab\XMLMain.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\speech\vocab\XMLMedia.xml" />
+    <Content Include="config\speech\vocab\xmlMediaLibrary.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\speech\vocab\XMLMediaLibrary1.xml" />
+    <Content Include="config\speech\vocab\XMLVideoPlayer.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\speech\XMLAbout.xml" />
+    <Content Include="config\speech\XMLActivate.xml" />
+    <Content Include="config\speech\XMLActivated.xml" />
+    <Content Include="config\speech\XMLAlphabeticState.xml" />
+    <Content Include="config\speech\XMLCommands.xml" />
+    <Content Include="config\speech\XMLDeactivate.xml" />
+    <Content Include="config\speech\XMLDeactivated.xml" />
+    <Content Include="config\speech\XMLMain.xml" />
+    <Content Include="config\speech\XMLMediaLibrary.xml" />
+    <Content Include="config\speech\XMLNumericState.xml" />
+    <Content Include="config\speech\XMLTV.xml" />
+    <Content Include="config\speech\XMLVideoPlayer.xml" />
+    <Content Include="DVD\placeHolder.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\App.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\tv.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="logs\placeHolder.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="video\placeHolder.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="config\test.xml" />
+    <None Include="Documentation\AUTORUN.INF" />
+    <None Include="Documentation\competition\Excite News - PC Remote.htm" />
+    <None Include="Documentation\competition\Excite News - PC Remote_files\exUni.js" />
+    <None Include="Documentation\competition\Excite News - PC Remote_files\getSponsLinks.js" />
+    <None Include="Documentation\competition\Excite News - PC Remote_files\news_lg_320x45.gif" />
+    <None Include="Documentation\competition\Excite News - PC Remote_files\TECH_TEST_FIREFLY_REMOTE.sff_FX103_20040707133743.jpg" />
+    <None Include="Documentation\competition\Excite News - PC Remote_files\xemsm.gif" />
+    <None Include="Documentation\competition\Excite News - Remote clutter.htm" />
+    <None Include="Documentation\competition\Excite News - Remote clutter_files\exUni.js" />
+    <None Include="Documentation\competition\Excite News - Remote clutter_files\getSponsLinks.js" />
+    <None Include="Documentation\competition\Excite News - Remote clutter_files\news_lg_320x45.gif" />
+    <None Include="Documentation\competition\Excite News - Remote clutter_files\xemsm.gif" />
+    <None Include="Documentation\AUTORUN_withIcon.INF" />
+    <None Include="Documentation\gateway specs.txt" />
+    <None Include="Documentation\gateway specs2.txt" />
+    <None Include="Documentation\gateway specs3.txt" />
+    <None Include="Documentation\MSIBoardFeatures.txt" />
+    <None Include="Documentation\presentation\mediaLibrary.jpg" />
+    <None Include="config\speech\vocab\xmlMediaLibrary.cfg" />
+    <None Include="Documentation\asusRemote-MediaLibrary.doc" />
+    <None Include="Documentation\asusRemote-TV.doc" />
+    <None Include="Documentation\asusRemote-Video.doc" />
+    <None Include="Documentation\asusRemote.doc" />
+    <None Include="Documentation\presentation\Advantages to SCTV over Windows Media Player.docx" />
+    <None Include="Documentation\presentation\Media Library.doc" />
+    <None Include="Documentation\presentation\Media Library.docx" />
+    <None Include="Documentation\presentation\Media Player.doc" />
+    <None Include="Documentation\presentation\Media Player.docx" />
+    <None Include="Documentation\presentation\mediaLibrary.psp" />
+    <None Include="Documentation\presentation\Presentation_Security.ppt" />
+    <None Include="Documentation\presentation\Speech Commands.doc" />
+    <None Include="Documentation\presentation\Speech Commands.docx" />
+    <None Include="Documentation\presentation\Upcoming Features.doc" />
+    <None Include="Documentation\presentation\Upcoming Features.docx" />
+    <None Include="Documentation\recordingData.doc" />
+    <None Include="Documentation\remote.pdf" />
+    <None Include="Documentation\sctv description4.docx" />
+    <None Include="scripts\remoteInstall.cmd" />
+    <None Include="ToDo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DeviceVolumeMonitor\SCTVDeviceVolumeMonitor.csproj">
+      <Project>{929CEC91-4239-4262-A1DC-87450AED0A5C}</Project>
+      <Name>SCTVDeviceVolumeMonitor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaLibrary\SCTVMediaLibrary.csproj">
+      <Project>{113C0576-6E73-4A95-82F3-52B44C5B2F00}</Project>
+      <Name>SCTVMediaLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaPlayer\SCTVMediaPlayer.csproj">
+      <Project>{5221FEAA-AEA5-46C4-83F9-E2308A10E3E6}</Project>
+      <Name>SCTVMediaPlayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Objects\SCTVObjects.csproj">
+      <Project>{0F15BE7D-D1BE-4EA8-A57A-F9FA41AB4A4D}</Project>
+      <Name>SCTVObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVSpeech\SCTVSpeech.csproj">
+      <Project>{47CD4E1A-E8E4-4295-B7CE-385AE70B3CB0}</Project>
+      <Name>SCTVSpeech</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVUtilities\SCTechUtilities.csproj">
+      <Project>{D4310F40-D400-49EA-B044-F1043F8331C6}</Project>
+      <Name>SCTechUtilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="forms\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

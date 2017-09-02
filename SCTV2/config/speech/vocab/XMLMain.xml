@@ -1,0 +1,23 @@
+﻿<!-- 409 = american english -->
+<GRAMMAR LANGID="409">
+  <DEFINE>
+    <ID NAME="mainMenu" VAL="1"></ID>
+  </DEFINE>
+  <RULE NAME="ComputerName">
+    <P>computer</P>
+  </RULE>
+  <RULE NAME="mainMenu" ID="mainMenu" TOPLEVEL="ACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <P>
+      <L>
+        <P>video library</P>
+        <P>mute</P>
+        <P>volume up</P>
+        <P>volume down</P>
+        <P>Admin</P>
+        <P>who is the fairest of them all</P>
+        <P>who is the master</P>
+      </L>
+    </P>
+  </RULE>
+</GRAMMAR>

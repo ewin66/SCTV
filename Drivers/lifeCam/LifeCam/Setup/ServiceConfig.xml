@@ -1,0 +1,53 @@
+<ServiceTargetConfig>
+  <CurrentEnvironment></CurrentEnvironment>
+  
+  <!-- SPACES services -->
+  <Service id="spaces" environment="production" >
+    <Target>spaces.live.com</Target>
+    <Type>RPS</Type>
+    <Policy>MBI</Policy>
+    <Url>http://spaces.live.com</Url>
+    <TargetSideId>id=73625</TargetSideId>
+    <BlogItUrl>http://spaces.live.com/BlogIt.aspx</BlogItUrl>
+  </Service>
+  <Service id="spaces" environment="PPE" >
+    <Target>spaces.live-ppe.com</Target>
+    <Type>RPS</Type>
+    <Policy>MBI</Policy>
+    <Url>http://spaces.live-ppe.com</Url>
+    <TargetSideId>id=73625</TargetSideId>
+    <BlogItUrl>http://spaces.live-ppe.com/BlogIt.aspx</BlogItUrl>
+  </Service>
+  <Service id="spaces" environment="INT" >
+    <Target>spaces.live-int.com</Target>
+    <Type>RPS</Type>
+    <Policy>MBI</Policy>
+    <Url>http://spaces.live-int.com</Url>
+    <TargetSideId>id=73625</TargetSideId>
+    <BlogItUrl>http://spaces.live-int.com/BlogIt.aspx</BlogItUrl>
+  </Service>
+  
+  <!-- STORAGE services -->
+  <Service id="storage" environment="production">
+    <Target>storage.msn.com</Target>
+    <Type discover="true"/>
+    <Policy discover="true"/>
+    <Url>http://storage.msn.com</Url>
+    <TargetSiteId>id=63538</TargetSiteId>
+  </Service>
+  <Service id="storage" environment="PPE">
+    <Target>storage.msn-ppe.com</Target>
+    <Type discover="true"/>
+    <Policy discover="true"/>
+    <Url>http://storage.msn-ppe.com</Url>
+    <TargetSiteId>id=63538</TargetSiteId>
+  </Service>
+  <Service id="storage" environment="INT">
+    <Target>storage.msn-int.com</Target>
+    <Type discover="true"/>
+    <Policy discover="true"/>
+    <Url>http://storage.msn-int.com</Url>
+    <TargetSiteId>id=63538</TargetSiteId>
+  </Service>
+</ServiceTargetConfig>
+

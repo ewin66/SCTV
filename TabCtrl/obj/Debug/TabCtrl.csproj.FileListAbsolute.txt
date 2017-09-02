@@ -1,0 +1,7 @@
+D:\utilities\Programming\c#\SCTV2\TabCtrl\bin\Debug\TabCtrl.dll
+D:\utilities\Programming\c#\SCTV2\TabCtrl\bin\Debug\TabCtrl.pdb
+D:\utilities\Programming\c#\SCTV2\TabCtrl\obj\Debug\SCTV.TabCtlEx.resources
+D:\utilities\Programming\c#\SCTV2\TabCtrl\obj\Debug\SCTV.TabPageEx.resources
+D:\utilities\Programming\c#\SCTV2\TabCtrl\obj\Debug\TabCtrl.csproj.GenerateResource.Cache
+D:\utilities\Programming\c#\SCTV2\TabCtrl\obj\Debug\TabCtrl.dll
+D:\utilities\Programming\c#\SCTV2\TabCtrl\obj\Debug\TabCtrl.pdb

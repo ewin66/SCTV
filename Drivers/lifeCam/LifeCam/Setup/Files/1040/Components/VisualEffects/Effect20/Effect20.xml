@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="95FBC991-0B97-43f5-A69B-6813DD709C0F" Name="Ragno" Description="Ragno" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect20\tn.bmp" DataRelativePath="Components\VisualEffects\Effect20\config.ver"/>
+	</EffectList>
+</Root>

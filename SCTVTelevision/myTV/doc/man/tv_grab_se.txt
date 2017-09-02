@@ -1,0 +1,72 @@
+NAME
+    tv_grab_se - Grab TV listings for Sweden.
+
+SYNOPSIS
+    tv_grab_se --help
+
+    tv_grab_se [--config-file FILE] --configure
+
+    tv_grab_se [--config-file FILE] [--output FILE] [--days N] [--offset N]
+    [--quiet] [--debug]
+
+DESCRIPTION
+    Output TV and listings in XMLTV format for many stations available in
+    Sweden. The data comes from the website of each respective TV-station.
+
+    First you must run tv_grab_se --configure to choose which stations you
+    want to receive.
+
+    Then running tv_grab_se with no arguments will get a listings for the
+    stations you chose for five days including today.
+
+    --configure Prompt for which stations to download and write the
+    configuration file.
+
+    --config-file FILE Set the name of the configuration file, the default
+    is ~/.xmltv/tv_grab_se.conf. This is the file written by --configure and
+    read when grabbing.
+
+    --output FILE When grabbing, write output to FILE rather than standard
+    output.
+
+    --days N When grabbing, grab N days rather than 5.
+
+    --offset N Start grabbing at today + N days. N may be negative.
+
+    --quiet suppress the progress-bar normally shown on standard error.
+
+    --debug provide more information on progress to stderr to help in
+    debugging.
+
+    --help print a help message and exit.
+
+ERROR HANDLING
+    If the grabber fails to download data for some channel on a specific
+    day, it will print an errormessage to STDERR and then continue with the
+    other channels and days. The grabber will exit with a status code of 1
+    to indicate that the data is incomplete.
+
+SUPPORTED CHANNELS
+    tv_grab_se can currently fetch data for the following channels:
+
+      SVT1, SVT2, Barnkanalen, SVT24,
+      TV4, TV4+.
+      TV3, TV8, ZTV
+      VIASAT SPORT 1/2/3
+      EXPLORER, ACTION/NATURE
+      TV1000, CINEMA
+
+SEE ALSO
+    xmltv(5)
+
+AUTHOR
+    Mattias Holmlund, mattias -at- holmlund -dot- se. This documentation and
+    parts of the code copied from tv_grab_uk by Ed Avis, ed -at- membled
+    -dot- com.
+
+BUGS
+    The grabber for Viasat (TV3, TV8 and ZTV) does not fetch any desriptions
+    for the programmes, since it would then have to fetch one html-page per
+    programme. It does however store a url for each programme where the
+    description can be found.
+

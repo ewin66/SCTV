@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SCTechUtilities.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SCTVUtilities_SCTech_SCTVWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://webservice.electrodatallc.com/sctechwebservice.asmx</Value>
+    </Setting>
+    <Setting Name="SCTVUtilities_electrodatallc_dnn_WebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://electrodatallc.com/DesktopModules/IWeb/webservice.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

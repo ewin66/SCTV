@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest", "MyTest.csproj", "{94314428-2FF0-4A6D-A23B-A8461EBE4281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCTVObjects", "..\..\..\..\projects\SCTV2\Objects\SCTVObjects.csproj", "{0F15BE7D-D1BE-4EA8-A57A-F9FA41AB4A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94314428-2FF0-4A6D-A23B-A8461EBE4281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94314428-2FF0-4A6D-A23B-A8461EBE4281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94314428-2FF0-4A6D-A23B-A8461EBE4281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94314428-2FF0-4A6D-A23B-A8461EBE4281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F15BE7D-D1BE-4EA8-A57A-F9FA41AB4A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F15BE7D-D1BE-4EA8-A57A-F9FA41AB4A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F15BE7D-D1BE-4EA8-A57A-F9FA41AB4A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F15BE7D-D1BE-4EA8-A57A-F9FA41AB4A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

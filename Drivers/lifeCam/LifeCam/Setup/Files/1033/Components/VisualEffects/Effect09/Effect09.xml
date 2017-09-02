@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="0C2A8BAE-9DC9-4E11-821B-5A1670D38055"
+		Name="Effect09"
+		Description="Bee"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect09\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect09\config.ver"/>
+	</EffectList>
+</Root>

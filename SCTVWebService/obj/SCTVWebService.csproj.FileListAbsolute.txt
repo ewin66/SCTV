@@ -1,0 +1,17 @@
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\SCTVWebService.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\SCTVWebService.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\SCTVUtilities.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\SCTVUtilities.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\SCTVWebService\obj\Debug\SCTVWebService.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\obj\Debug\SCTVWebService.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebService\obj\Release\ResolveAssemblyReference.cache
+C:\utilities\programming\projects\SCTV2\SCTVWebService\obj\Release\SCTVWebService.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\obj\Release\SCTVWebService.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\SCTVObjects.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\Interop.SpeechLib.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\Microsoft.Xml.XQuery.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\DeviceVolumeMonitor.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\SCTVObjects.pdb
+C:\utilities\programming\projects\SCTV2\SCTVWebService\obj\Release\SCTVWebService.XmlSerializers.dll
+C:\utilities\programming\projects\SCTV2\SCTVWebService\bin\DeviceVolumeMonitor.pdb

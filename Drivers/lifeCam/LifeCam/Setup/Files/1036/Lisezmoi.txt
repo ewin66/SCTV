@@ -1,0 +1,352 @@
+﻿Fichier Lisezmoi de Microsoft LifeCam
+Mai 2007
+(c) 2007 Microsoft Corporation. Tous droits réservés.
+
+Ce document contient notamment des informations de dernière minute concernant le logiciel de Microsoft LifeCam, en complément de la documentation fournie.
+
+Pour plus d'informations sur ce logiciel, consultez l'aide de Microsoft LifeCam, qui est installée avec ce logiciel.
+
+>>>Pour ouvrir l'aide de Microsoft LifeCam, cliquez sur Démarrer, Tous les programmes, Microsoft LifeCam, puis sur Aide de LifeCam.
+
+--------------------------------------
+Utilisation de ce document
+--------------------------------------
+
+Pour lire ce document à l'écran dans le Bloc-notes, agrandissez la fenêtre de celui-ci. Dans le menu Format, cliquez sur Retour automatique à la ligne. Pour imprimer ce fichier Lisez-moi, ouvrez-le dans le Bloc-notes ou dans un autre logiciel de traitement de texte, puis cliquez sur Imprimer dans le menu Fichier.
+
+-------------
+CONTENU
+-------------
+
+1.0  Installation et Mises à jour
+2.0  Matériel
+3.0  Capture vidéo
+4.0  Programmes de messagerie instantanée
+5.0  Autres applications
+6.0  Messages d'erreur
+---------------------
+
+
+
+1.0  Installation et Mises à jour
+---------------------
+
+1.1  « Pour installer le logiciel Microsoft LifeCam, vous devez installer une mise à jour. »
+
+Il est possible que le message suivant apparaisse au cours de l'installation :
+« Pour installer le logiciel LifeCam, vous devez installer une mise à jour. 
+Vous pouvez télécharger celle-ci sur le site Web de Microsoft (KB822603) ».
+
+REMARQUE : si ce message d'erreur ne s'affiche PAS, cette mise à jour n'est PAS nécessaire ou est déjà installée.
+
+>>>Pour corriger cette erreur :
+1. Consultez le site http://support.microsoft.com/support.
+2. Recherchez l'article KB822603.
+3. Cliquez sur le lien intitulé « Télécharger le package 822603 maintenant ».
+4. Suivez les instructions fournies pour télécharger et installer la mise à jour.
+
+Une fois la mise à jour installée, lancez à nouveau l'installation du logiciel LifeCam. 
+
+---------------------
+
+1.2  « Erreur d'installation »
+
+Sur les versions N et KN de Windows Vista, il est possible que le message suivant apparaisse au cours de l'installation :
+« Erreur d'installation »
+
+>>>Pour corriger cette erreur :
+1. Consultez le site http://support.microsoft.com/support.
+2. Recherchez l'article KB929399.
+3. Cliquez sur le lien pour télécharger le kit de développement du format Windows Media 11 sur votre ordinateur.
+4. Suivez les instructions fournies pour télécharger et installer la mise à jour.
+
+Une fois l'installation terminée :
+   Naviguez jusqu'au répertoire C:\WMSDK\WMFSDK11\Redist et installez-y le kit de développement.
+
+
+---------------------
+
+1.3  Message d'erreur d'installation : Espace disque insuffisant ou une erreur s'est produite.
+
+Ce message d'erreur peut s'afficher pour plusieurs raisons :
+- L'installation peut être bloquée par un antivirus, un bloqueur de fenêtres publicitaires intempestives ou un logiciel anti-espion. (Pour plus d'informations, consultez la section 1.4.)
+- Le disque dur sur lequel vous installez le logiciel est peut-être plein.  
+
+---------------------
+
+1.4  Installation bloquée par un antivirus, un bloqueur de fenêtres publicitaires intempestives ou un logiciel anti-espion
+
+Pendant l'installation du logiciel LifeCam, il est possible que votre antivirus, bloqueur de fenêtres publicitaires intempestives ou logiciel anti-espion bloque le processus. 
+
+Le plus souvent, ces programmes vous proposent de bloquer ou d'autoriser cette installation. 
+Le cas échéant, autorisez l'installation du logiciel. 
+
+>>>Pour corriger cette erreur :
+- Désactivez temporairement votre logiciel antivirus et lancez à nouveau l'installation de LifeCam.
+
+---------------------
+ 
+1.5  Pour terminer l'installation de la mise à jour automatique, fermez, puis ouvrez à nouveau le logiciel LifeCam
+ 
+Une fois la mise à jour automatique téléchargée et installée, vous devez fermer le logiciel LifeCam, puis l'ouvrir à nouveau afin que les modifications apportées prennent effet.
+
+Lors de certaines mises à jour, vous devez redémarrer votre ordinateur pour que les modifications prennent effet.
+
+---------------------
+
+1.6  Une fois le logiciel de la webcam Logitech® installé, vous devez réinstaller le logiciel Microsoft LifeCam (Message d'erreur Code 39)
+
+Le processus d'installation de la webcam Logitech peut causer des problèmes avec le logiciel Microsoft LifeCam, y compris l'apparition d'un message d'erreur Code 39.
+
+Pour pouvoir installer les logiciels Microsoft LifeCam et Logitech QuickCam sur un même ordinateur, installez le logiciel Logitech QuickCam avant d'installer le logiciel Microsoft LifeCam.  
+
+Lors de l'utilisation de Microsoft LifeCam, il vous faudra peut-être quitter le logiciel Logitech QuickCam ou le désactiver à partir de la barre d'état système.
+
+---------------------
+
+1.7  Les pilotes du logiciel LifeCam sont supprimés après sa désinstallation.
+
+Sous Windows Vista, les pilotes du logiciel Microsoft LifeCam sont supprimés une fois que le logiciel a été désinstallé.
+
+>>Après avoir désinstallé le logiciel, si vous souhaitez revenir aux pilotes LifeCam :
+- Branchez la webcam. L'Assistant Ajout de nouveau matériel apparaît.
+- Cliquez sur Parcourir et naviguez jusqu'au répertoire d'installation (par exemple : C:\Program Files\Microsoft LifeCam) pour localiser et ajouter les pilotes.
+
+
+
+
+---------------------
+2.0  Matériel
+---------------------
+
+
+2.1  À propos des ports USB (Universal Serial Bus)
+
+Si votre webcam ne fonctionne pas correctement sur son port actuel, branchez la webcam sur un autre port USB.
+
+Votre webcam Microsoft LifeCam fonctionne sur les ports USB 1.1 et USB 2.0. 
+
+Les ports USB 1.1 et USB 2.0 sont d'apparence parfaitement identique.  Dans la mesure du possible, il est préférable d'utiliser des ports USB 2.0 avec la LifeCam. Certaines de ses fonctions ne sont pas prises en charge par les ports USB 1.1.
+
+L'alimentation électrique fournie par le port USB à la webcam peut varier selon le type de port utilisé. Par exemple, il est possible que l'alimentation fournie par un concentrateur USB lui-même branché sur un clavier soit insuffisante pour la webcam. Il vous faudrait alors brancher la webcam sur un port USB de l'ordinateur ou sur un concentrateur USB alimenté directement.
+
+
+---------------------
+
+2.2  La webcam est susceptible de mal fonctionner voire de ne plus fonctionner du tout lorsqu'un trop grand nombre de périphériques USB sont connectés à l'ordinateur
+
+Lorsqu'un trop grand nombre de périphériques USB sont connectés à l'ordinateur, la webcam LifeCam est susceptible de mal fonctionner voire de ne plus fonctionner du tout. 
+
+Les symptômes sont les suivants : la zone d'affichage de la vidéo est noire (pas d'image ni de son), Windows Live Messenger se bloque au démarrage d'une conversation vidéo ou la webcam ne fonctionne pas lorsque la résolution est élevée.
+
+>>>Pour corriger cette erreur :
+- Débranchez puis rebranchez la webcam LifeCam.
+- Débranchez les autres périphériques USB non utilisés.
+- Utilisez un autre port USB de votre ordinateur.
+- Si vous utilisez un concentrateur USB, débranchez-le et branchez la webcam directement sur l'ordinateur.
+
+---------------------
+
+2.3  La LifeCam VX-6000 peut s'avérer incompatible avec la carte vidéo ATI Radeon 9600
+
+Lorsque vous utilisez cette carte, la capture vidéo à partir de la LifeCam VX-6000 risque de s'arrêter ou d'être instable. 
+
+---------------------
+
+2.4  La vidéo peut s'afficher en plein écran
+
+Certaines cartes vidéo disposent de fonctions permettant d'afficher les vidéos en plein écran.
+
+Cette fonction peut généralement être désactivée si vous ne souhaitez pas afficher votre vidéo en plein écran.  Pour savoir comment activer ou désactiver cette fonction, consultez la documentation fournie avec le matériel.
+
+---------------------
+
+2.5  Si vous lancez ou arrêtez une vidéo sur un second moniteur, un incident peut se produire sur la LifeCam
+
+Si vous utilisez plusieurs moniteurs et que vous exécutez la LifeCam à partir de votre second moniteur, un incident peut se produire sur la LifeCam.
+
+>>Pour éviter cette erreur :
+ - Exécutez le logiciel de la LifeCam sur le moniteur principal.
+
+
+
+
+
+---------------------
+3.0  Capture vidéo
+---------------------
+
+3.1  Résolutions non prises en charge lors de l'utilisation d'un port USB 1.1
+
+Si vous branchez les produits de la gamme LifeCam sur un port USB 1.1, la résolution vidéo maximum sera de 800 x 600 pixels. En outre, la résolution maximum des photographies sera de 1,9 mégapixels. 
+
+>>>Pour corriger cette erreur :
+- Dans la mesure du possible, branchez la LifeCam sur un port USB 2.0.
+  - ou -
+- Choisissez une résolution inférieure.
+
+---------------------
+
+3.2  Fonctions de pivotement, zoom et suivi du visage non prises en charge avec la résolution maximale
+
+Si vous choisissez la résolution maximale pour votre webcam, vous ne pourrez plus disposer des fonctions de pivotement, zoom et suivi du visage. Pour utiliser ces fonctions, veuillez choisir une résolution inférieure.
+
+---------------------
+
+3.3  LifeCam NX-6000 -- l'aperçu de la capture peut s'afficher en noir et blanc
+
+Dans certains cas, l'aperçu de la capture ne s'affiche pas du tout.
+
+>>>Pour corriger cette erreur :
+- Débranchez puis rebranchez la webcam.
+  - ou -
+- Choisissez une résolution inférieure.
+
+---------------------
+
+3.4  L'écran de capture reste au premier plan lorsque vous utilisez des pilotes vidéo génériques
+
+Dans certains cas, la capture vidéo reste au premier plan, même si vous ouvrez d'autres fenêtres.
+Ce problème peut se produire si vous utilisez des pilotes génériques pour afficher vos vidéos.
+
+>>>Pour corriger cette erreur :
+- Consultez la documentation fournie avec le matériel pour savoir comment mettre vos pilotes vidéo à jour.
+
+
+
+
+---------------------
+4.0  Programmes de messagerie instantanée
+---------------------
+
+4.1  L'emploi du logiciel Microsoft LifeCam peut s'avérer nécessaire pour certains clients de messagerie
+
+Pour assurer la compatibilité du produit avec certains clients de messagerie tels que Skype et Yahoo! Messenger, le logiciel Microsoft LifeCam peut s'avérer nécessaire.
+
+---------------------
+
+4.2  Les effets vidéo ne fonctionnent pas avec tous les programmes de messagerie instantanée
+
+Certains effets vidéo ne s'affichent pas dans les programmes de messagerie instantanée, tels que Skype.
+
+---------------------
+
+4.3  Les conversations vidéo peuvent être déconnectées dans la messagerie de America Online (AOL)
+
+Si vous êtes protégé par un pare-feu, les conversations vidéo établies par le biais de la messagerie instantanée peuvent être déconnectées rapidement après avoir débuté.
+
+>> Pour obtenir plus d'informations sur l'ajustement des paramètres du pare-feu ou du routeur, consultez le site www.aim.com.
+
+
+---------------------
+
+4.4  Lors des conversations vidéo dans Windows Live Messenger, aucun microphone n'est disponible.
+
+Sur les versions N et KN de Windows Vista, lorsque vous utilisez Windows Live Messenger, le volume du micro peut être désactivé et impossible à ajuster.
+
+>>>Pour corriger cette erreur :
+1. Consultez le site http://support.microsoft.com/support.
+2. Recherchez l'article KB929399.
+3. Cliquez sur le lien pour télécharger le kit de développement du format Windows Media 11 sur votre ordinateur.
+4. Suivez les instructions fournies pour télécharger et installer la mise à jour.
+
+Une fois l'installation terminée :
+   Naviguez jusqu'au répertoire C:\WMSDK\WMFSDK11\Redist et installez-y le kit de développement.
+
+
+
+
+-----------------------
+5.0  Autres applications
+-----------------------
+
+5.1  Il est possible que la LifeCam VX-6000 ne s'affiche pas dans l'Assistant Réglage audio et vidéo Microsoft Office Communicator. 
+
+Dans Microsoft Office Communicator, la LifeCam est réglée grâce à l'Assistant Réglage audio et vidéo.  Dans certains cas, la LifeCam VX-6000 n'apparaît pas dans la liste des choix.
+
+>>>Pour corriger cette erreur :
+-  Branchez la webcam LifeCam avant d'allumer votre ordinateur.
+
+---------------------
+
+5,2  Lorsque je dépose des fichiers sur Windows Live Spaces, une page m'indiquant que je suis déjà connecté ou du code HTML s'affiche à la place de mon espace perso
+
+Si vous déposez des photos sur plusieurs comptes Windows Live Spaces, par le biais de deux comptes utilisateur différents sur un même ordinateur, Windows Live Spaces affiche le message d'erreur « Déjà connecté ».
+
+>>>Pour corriger cette erreur :
+1.  Fermez toutes les fenêtres du navigateur Internet Explorer. 
+2.  Dans le logiciel LifeCam, cliquez à nouveau sur le bouton Déposer dans mon blog sur Windows Live Spaces. 
+
+>>Pour éviter cette erreur :
+
+- Fermez le navigateur Internet Explorer lorsque vous changez de session d'utilisateur.
+
+---------------------
+
+5.3  Si un utilisateur modifie les paramètres par défaut de la webcam, ces nouveaux paramètres par défaut s'appliquent à tous les utilisateurs.
+
+Les paramètres du logiciel LifeCam sont susceptibles de s'appliquer à tous les profils d'utilisateur.  Par exemple, si vous modifiez les paramètres par défaut d'une webcam, les modifications s'appliquent à tous les profils d'utilisateur de l'ordinateur auquel elle est branchée.
+
+
+
+
+---------------------
+6.0  Messages d'erreur
+---------------------
+
+6.1  L'erreur « Espace disque insuffisant » se produit lorsque le dossier Fichiers LifeCam est introuvable
+
+Si le dossier « Mes documents\Fichiers LifeCam » est supprimé ou devient inaccessible (du fait d'un partage réseau, par exemple), vous ne pourrez plus enregistrer vos clips vidéo et il est possible que le message d'erreur suivant s'affiche : « L'espace disque est insuffisant pour capturer une photo, un clip audio ou un clip vidéo. Libérez davantage d'espace sur votre disque dur puis essayez à nouveau. » 
+
+>>>Pour corriger cette erreur :
+- Recréez le dossier « Mes documents\Fichiers LifeCam ».
+  - ou -
+- Fermez le logiciel LifeCam, puis ouvrez-le à nouveau.  Le dossier sera créé automatiquement.
+
+---------------------
+
+6.2  Pannes du système, avec erreur grave dans le module Tiptsf.dll
+
+Il est possible qu'un message d'erreur grave s'affiche sur votre ordinateur (ARRET dans Tiptsf.dll). 
+
+>>>Pour corriger cette erreur :
+Téléchargez Windows XP Service Pack 2 (SP2).  
+1.  Consultez le site http://update.microsoft.com.
+2.  Téléchargez et installez Windows XP Service Pack 2 (SP2).
+
+
+---------------------
+
+6.3  LifeCam VX-6000 : écran bleu d'erreur dans Usbport.sys
+
+Il est possible qu'un message d'erreur grave s'affiche sur votre ordinateur (ARRET dans Usbport.sys). 
+
+>>>Pour corriger cette erreur :
+Téléchargez Windows XP Service Pack 2 (SP2).  
+1.  Consultez le site http://update.microsoft.com.
+2.  Téléchargez et installez Windows XP Service Pack 2 (SP2).
+
+
+---------------------
+
+6.4  Un incident se produit à l'ouverture du logiciel LifeCam (décodeur vidéo Nero)
+
+Ce problème peut se produire lorsque certaines versions du décodeur vidéo Nero sont installées.
+
+Le problème devrait se régler si vous mettez le logiciel à jour ou que vous le désinstallez.  
+
+Pour savoir comment mettre votre logiciel à jour, consultez la documentation fournie avec le matériel.
+
+
+---------------------
+
+6.5  Un incident se produit à l'ouverture du logiciel LifeCam (Pegasus PICVideo)
+
+Ce problème peut se produire lorsque certaines versions de Pegasus PICVideo sont installées.
+
+La désinstallation de Pegasus PICVideo permet de régler le problème.
+
+Vous pouvez également vérifier auprès du fabricant si des mises à jour sont disponibles.
+
+
+======================

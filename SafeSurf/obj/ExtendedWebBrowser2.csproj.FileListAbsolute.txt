@@ -1,0 +1,16 @@
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\ResolveAssemblyReference.cache
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\ExtendedWebBrowser2.csproj.GenerateResource.Cache
+C:\utilities\programming\browser\ExtendedWebBrowser2\bin\Debug\blockedTerms.txt
+C:\utilities\programming\browser\ExtendedWebBrowser2\bin\Debug\kidsafeBrowser.exe.config
+C:\utilities\programming\browser\ExtendedWebBrowser2\bin\Debug\kidsafeBrowser.exe
+C:\utilities\programming\browser\ExtendedWebBrowser2\bin\Debug\kidsafeBrowser.pdb
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.AboutForm.resources
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.BrowserControl.resources
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.MainForm.resources
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.OpenUrlForm.resources
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.OptionsForm.resources
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.Properties.Resources.resources
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.ScriptErrorWindow.resources
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.exe
+C:\utilities\programming\browser\ExtendedWebBrowser2\obj\Debug\kidsafeBrowser.pdb
+C:\utilities\programming\browser\ExtendedWebBrowser2\bin\Debug\SafeSurf.exe.config

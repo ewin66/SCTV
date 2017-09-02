@@ -1,0 +1,1010 @@
+<!-- 409 = american english -->
+<GRAMMAR LANGID="409">
+  <DEFINE>
+    <ID NAME="mainMenu" VAL="1" />
+    <ID NAME="mediaVerbs" VAL="2" />
+    <ID NAME="scroll" VAL="3" />
+    <ID NAME="playPause" VAL="4" />
+    <ID NAME="Close" VAL="5" />
+    <ID NAME="stop" VAL="6" />
+    <ID NAME="mediaLibrary" VAL="7" />
+    <ID NAME="media" VAL="8" />
+    <ID NAME="fastForward" VAL="9" />
+    <ID NAME="rewind" VAL="10" />
+    <ID NAME="information" VAL="11" />
+  </DEFINE>
+  <!-- xmlMain.xml - always active -->
+  <RULE NAME="ComputerName">
+    <P>computer</P>
+  </RULE>
+  <RULE NAME="mainMenu" ID="mainMenu" TOPLEVEL="ACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <P>
+      <L>
+        <P>mute</P>
+        <P>volume up</P>
+        <P>volume down</P>
+        <P>Admin</P>
+        <P>who is the fairest of them all</P>
+        <P>who is the master</P>
+      </L>
+    </P>
+  </RULE>
+  <!-- xmlMain.xml -->
+  <!-- general rules -->
+  <RULE NAME="playPause" ID="playPause" TOPLEVEL="INACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <L>
+      <P>play</P>
+      <P>pause</P>
+    </L>
+  </RULE>
+  <RULE NAME="Close" ID="Close" TOPLEVEL="INACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <P>close</P>
+  </RULE>
+  <RULE NAME="stop" ID="stop" TOPLEVEL="INACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <P>stop</P>
+  </RULE>
+  <RULE NAME="information" ID="information" TOPLEVEL="INACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <L>
+      <P>information</P>
+      <P>info</P>
+    </L>
+  </RULE>
+  <!-- general rules -->
+  <!-- xmlMediaLibrary.xml -->
+  <RULE NAME="mediaVerbs" ID="mediaVerbs">
+    <L>
+      <P>play</P>
+      <P>show me</P>
+      <P>show</P>
+      <P>display</P>
+      <P>find</P>
+      <P>scroll to</P>
+    </L>
+  </RULE>
+  <RULE NAME="scroll" ID="scroll" TOPLEVEL="INACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <L>
+      <P>scroll left</P>
+      <P>scroll right</P>
+      <P>scroll up</P>
+      <P>scroll down</P>
+      <P>scroll stop</P>
+      <P>left</P>
+      <P>right</P>
+      <P>up</P>
+      <P>down</P>
+      <P>stop</P>
+    </L>
+  </RULE>
+  <!-- xmlMediaLibrary.xml -->
+  <!-- xmlMediaPlayer.xml -->
+  <RULE NAME="fastForward" ID="fastForward" TOPLEVEL="INACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <L>
+      <P>fast forward</P>
+    </L>
+  </RULE>
+  <RULE NAME="rewind" ID="rewind" TOPLEVEL="INACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <L>
+      <P>rewind</P>
+    </L>
+  </RULE>
+  <!-- xmlMediaPlayer.xml -->
+  <!-- xmlMedia.xml -->
+  <!-- content is dynamically generated when looking for media for library -->
+  <RULE NAME="media" ID="media" TOPLEVEL="INACTIVE">
+    <RULEREF NAME="ComputerName" />
+    <RULEREF NAME="mediaVerbs" />
+    <L>
+      <P>Acrobatty Bunny</P>
+      <P>Bugs Bunny</P>
+      <P>AHare Grows In Manhattan</P>
+      <P>Banned Cartoons Bugs Bunny Coal Black And De Sebben Dwa</P>
+      <P>Banned Cartoons Bugs Bunny Herr Meets Hare banned on T V</P>
+      <P>Banned Cartoons Bugs Bunny Which Is Witch 1949 1</P>
+      <P>Banned Cartoons Bugs Bunny Which Is Witch 1949</P>
+      <P>Banned Cartoons Goofy Groceries Banned Missing End Blackf</P>
+      <P>Banned Cartoons Goofy Groceries</P>
+      <P>Bewitched Bunny Bugs Witch Hazel W B 1954</P>
+      <P>Bowery Bugs</P>
+      <P>Bugs Bunny Mississippi Hare banned</P>
+      <P>Bugs bunny Wile E Coyote Operation Rabbit1</P>
+      <P>Bugs Bunny Yosemite Sam Roman Legion Hare 1955</P>
+      <P>Bugs Bunny A Witchs Tangled Hare</P>
+      <P>Bugs Bunny Abdominable Snow Rabbit 1961</P>
+      <P>Bugs Bunny Ali Baba bunny</P>
+      <P>Bugs Bunny Ballot Box Bunny</P>
+      <P>Bugs Bunny Baseball Bugs 1946</P>
+      <P>Bugs Bunny Bewitched Bunny Bugs Witch Hazel W B 1954</P>
+      <P>Bugs Bunny Bewitched Bunny</P>
+      <P>Bugs Bunny Buccaneer Bunny</P>
+      <P>Bugs Bunny Bugs Sells U S War Bonds W W I I Banned</P>
+      <P>Bugs Bunny Bugsy and Mugsy</P>
+      <P>Bugs Bunny Bunker Hill Bunny</P>
+      <P>Bugs Bunny Bushy Hare</P>
+      <P>Bugs Bunny Daffy Duck Duck Dodgers</P>
+      <P>Bugs Bunny Duck rabbit duck</P>
+      <P>Bugs Bunny Experimental Rabbit No 46</P>
+      <P>Bugs Bunny Gorilla My Dreams</P>
+      <P>Bugs Bunny Herr Meets Hare</P>
+      <P>Bugs Bunny Hillbilly Hare</P>
+      <P>Bugs Bunny Knighty Knight Bugs</P>
+      <P>Bugs Bunny Southern Fried Rabbit Yosemite Sam</P>
+      <P>Bugs Bunny Spaced Out Bunny</P>
+      <P>Bugs Bunny Transylvania 65000</P>
+      <P>Bugs Bunny 1953 Bugs Daffy Elmer</P>
+      <P>Bugs Bunny and Yosemite Sam Southern Fried Rabbit</P>
+      <P>Bugs Bunny Gets The Boid 1942</P>
+      <P>Bugs Bunny Marvin the Martian</P>
+      <P>Bugs bunny</P>
+      <P>Cartoons Banned Bugs Bunny Jungle Jitters Banned Cart</P>
+      <P>Case Of The Missing Hare</P>
+      <P>Coal Black And De Sebben Dwarfs WWI I Banned</P>
+      <P>Daffy Duck The Up Standing Sitter</P>
+      <P>Daffy Duck Porky Pig Robin Hood Daffy</P>
+      <P>Duck Rabbit Duck</P>
+      <P>Easter Yeggs</P>
+      <P>Golden Collection V2 16</P>
+      <P>Golden Collection V2 17</P>
+      <P>Golden Collection V3 1</P>
+      <P>Golden Collection V3 13</P>
+      <P>Golden Collection V3 14</P>
+      <P>Golden Collection V3 15</P>
+      <P>Golden Collection V3 16</P>
+      <P>Golden Collection V3 2</P>
+      <P>Golden Collection V3 3</P>
+      <P>Golden Collection V3 4</P>
+      <P>Golden Collection V3 5</P>
+      <P>Golden Collection V3 6</P>
+      <P>Golden Collection V3 7</P>
+      <P>Golden Collection V3 8</P>
+      <P>Golden Collection V3 9</P>
+      <P>Golden Collection V3 18</P>
+      <P>Hare Do</P>
+      <P>Hare Force</P>
+      <P>Hare Remover</P>
+      <P>Hare Tonic</P>
+      <P>Herr Meets Hare banned on T V as offensive</P>
+      <P>Hillbilly Hare</P>
+      <P>Homeless Hare</P>
+      <P>Jungle Jitters Banned Cartoons</P>
+      <P>Porky Pig cussing funny</P>
+      <P>Rabbit Stew Divx</P>
+      <P>Rebel Rabbit</P>
+      <P>Road Runner Fast And Furryous</P>
+      <P>Road Runner Zoom and Bored</P>
+      <P>Speedy Gonzales Tabasco Road</P>
+      <P>The Wabbit Who Came To Supper</P>
+      <P>Wakiki Wabbit</P>
+      <P>WB 19440226 Bugs Bunny and the Three Bears M M Bugs</P>
+      <P>WB 19440226 Bugs Bunny and the Three Bears</P>
+      <P>WB 1955 Beanstalk Bunny Bugs Daffy</P>
+      <P>Friends S1 D1</P>
+      <P>Friends</P>
+      <P>Friends S1 D2</P>
+      <P>Friends S1 D3</P>
+      <P>FRIEND S S1 D4</P>
+      <P>Friends S1 E1</P>
+      <P>FRIEND S S2 D1</P>
+      <P>13 Ghosts</P>
+      <P>Horror</P>
+      <P>1408</P>
+      <P>28 WEEK S LATE R</P>
+      <P>Alien</P>
+      <P>Alone With Her</P>
+      <P>American Crime</P>
+      <P>American Werewolf In London</P>
+      <P>Army Of Darkness</P>
+      <P>Asylum Of The Damned</P>
+      <P>Blade</P>
+      <P>Blade2</P>
+      <P>Blade3 Trinity</P>
+      <P>Blood Chocolate</P>
+      <P>Bloodrayne</P>
+      <P>Boo</P>
+      <P>Brotherhood Of The Wolf</P>
+      <P>BURIE D ALIV E</P>
+      <P>Cabin Fever</P>
+      <P>CARRI E</P>
+      <P>Children Of The Corn</P>
+      <P>CHILD S PLA Y</P>
+      <P>CLOCKWOR K ORANG E</P>
+      <P>Cursed</P>
+      <P>CURS E O F ALCATRA Z</P>
+      <P>Darkness Falls</P>
+      <P>Dark Carnival</P>
+      <P>Dawn Of The Dead</P>
+      <P>Dead And Breakfast</P>
+      <P>Disturbing Beor</P>
+      <P>Doom</P>
+      <P>Dracula</P>
+      <P>Dracula2000</P>
+      <P>Dracula The Legacy Collection</P>
+      <P>Dreams In The Witch House</P>
+      <P>Ed Gein</P>
+      <P>Elvira</P>
+      <P>End Of Days</P>
+      <P>Evil Dead</P>
+      <P>Evil Dead2</P>
+      <P>Excorcist The Beginning</P>
+      <P>Exorcism Of Emily Rose</P>
+      <P>Exorcist3</P>
+      <P>Frankenstein</P>
+      <P>Freddy Vs Jason</P>
+      <P>FRIDA Y13PAR T6 1</P>
+      <P>FRIDA Y13 Part2</P>
+      <P>Friday The13th</P>
+      <P>FRIDAYTH E13T H PAR T3</P>
+      <P>Fright Night</P>
+      <P>Gacy</P>
+      <P>Ghost Ship</P>
+      <P>Ghostwatcher</P>
+      <P>Godsend</P>
+      <P>Halloween H20</P>
+      <P>Halloween Resurrection</P>
+      <P>HALLOWEE N 2007</P>
+      <P>Hallows End</P>
+      <P>Hangmans Curse</P>
+      <P>Hannibal</P>
+      <P>HATCHE T</P>
+      <P>HELLRAISE R</P>
+      <P>Hellraiser8 Hellworld</P>
+      <P>Hellraiser Deader</P>
+      <P>HELLRAISE R INFERN O</P>
+      <P>Hide And Seek</P>
+      <P>HILL S HAV E EYE S UNRATE D</P>
+      <P>House Of1000 Corpses</P>
+      <P>House On Haunted Hill</P>
+      <P>Hunt ForBT K</P>
+      <P>I Know Who Killed Me</P>
+      <P>Interview WithA Vampire</P>
+      <P>In The Mouth Of Madness</P>
+      <P>Jaws</P>
+      <P>KIL L BAB Y KIL L</P>
+      <P>Living Dead Girl</P>
+      <P>Lost Boys</P>
+      <P>Mary ShellyFRANKENSTEI N</P>
+      <P>Nightmare On Elm Street3</P>
+      <P>Nightmare On Elm Street4</P>
+      <P>NIGH T O F TH E DEMON S</P>
+      <P>Pans Labyrinth</P>
+      <P>PETSEMATAR Y</P>
+      <P>PIECE S</P>
+      <P>POLTERGEIS T2</P>
+      <P>POLTERGEIS T3</P>
+      <P>Popcorn</P>
+      <P>Prom Night</P>
+      <P>QUEE N O F TH E DAMNE D</P>
+      <P>Red Dragon</P>
+      <P>Rosemarys Baby</P>
+      <P>Rose Red</P>
+      <P>Rose Red Disc2</P>
+      <P>Rose Red Extras1</P>
+      <P>Rose Red Extras2</P>
+      <P>Saw</P>
+      <P>SA W 2</P>
+      <P>Scream</P>
+      <P>Scream2</P>
+      <P>Scream3</P>
+      <P>Shallow Ground</P>
+      <P>Silence Of The Lambs</P>
+      <P>Sixth Sense</P>
+      <P>Sleepy Hollow</P>
+      <P>Stigmata</P>
+      <P>The Amityville Horror2005</P>
+      <P>The Boogeyman</P>
+      <P>The Calling</P>
+      <P>The Cave</P>
+      <P>The Devils Nightmare</P>
+      <P>The Devils Rejects</P>
+      <P>The Diary Of Ellen Rimbauer</P>
+      <P>The Exorcist</P>
+      <P>The Grudge</P>
+      <P>The Hollow</P>
+      <P>The Messangers</P>
+      <P>The Number23</P>
+      <P>The Ring</P>
+      <P>The Ring2</P>
+      <P>The Skeleton Key</P>
+      <P>The Village</P>
+      <P>TH E CRAF T</P>
+      <P>TH E HAPPENIN G</P>
+      <P>TH E REAPIN G</P>
+      <P>TH E SHININ G D1 mini Series</P>
+      <P>TH E SHININ G D2 mini Series</P>
+      <P>TH E STRANGER S</P>
+      <P>Thr3e</P>
+      <P>Vampire Assassin</P>
+      <P>V FO R VENDETT A</P>
+      <P>WAXWOR K I</P>
+      <P>WAXWOR K I I</P>
+      <P>White Noise</P>
+      <P>White Zombie</P>
+      <P>WRONGTUR N2</P>
+      <P>Zombie</P>
+      <P>101 Dalmations</P>
+      <P>Kids</P>
+      <P>102 Dalmations</P>
+      <P>13 Going On30</P>
+      <P>8Below</P>
+      <P>Agent Cody Banks2</P>
+      <P>Aladdin</P>
+      <P>ALVI N AN D TH E CHIPMUNK S</P>
+      <P>Are We Done Yet</P>
+      <P>AWrinkle In Time</P>
+      <P>Barnyard</P>
+      <P>Because Of Winn Dixie</P>
+      <P>BE E MOVI E</P>
+      <P>Benchwarmers</P>
+      <P>Bend It Like Beckham</P>
+      <P>Bridge To Terabithia</P>
+      <P>Care Bears Fitness Fun</P>
+      <P>Care Bears big Wish</P>
+      <P>Cars</P>
+      <P>Casper Scare School</P>
+      <P>CA T I N TH E HA T</P>
+      <P>Charletts Web</P>
+      <P>Charlie And The Chocolate Factory</P>
+      <P>CHARLI E BROW N V1</P>
+      <P>CHARLI E BROW N V1 1</P>
+      <P>Cheaper By The Dozen</P>
+      <P>Cinderella</P>
+      <P>Cloak And Dagger</P>
+      <P>Corpse Bride</P>
+      <P>Daddy Daycare</P>
+      <P>DR SEUSS Celebration</P>
+      <P>FA T ALBER T</P>
+      <P>Finding Nemo</P>
+      <P>Flight Of Thegator</P>
+      <P>Flushed Away</P>
+      <P>Fox And The Hound</P>
+      <P>Freaky Friday</P>
+      <P>GARFIEL D2</P>
+      <P>GARFIELDTHEMOVI E</P>
+      <P>GE T SMAR T</P>
+      <P>Goonies</P>
+      <P>GOOSEBUMP S W6 NIGHTTERTOWE R</P>
+      <P>Happy Feet</P>
+      <P>HARRYPOTTE R 1 the Scorcerers Stone</P>
+      <P>Harry Potter 2 Chamber Of Secrets</P>
+      <P>Harry Potter 3 PRISONE R O F AZKABA N</P>
+      <P>Harry Potter 4 the Goblet Of Fire</P>
+      <P>HARRYPOTTE R 5 ORDE R PHOENI X</P>
+      <P>Haunted Mansion</P>
+      <P>HOCU S POCU S</P>
+      <P>Holes</P>
+      <P>Home Alone</P>
+      <P>Home On The Range</P>
+      <P>HOODWINKE D</P>
+      <P>HORTO N HEAR S A WH O</P>
+      <P>How To Eat Fried Worms</P>
+      <P>James And The Giant Peach</P>
+      <P>Jumanji</P>
+      <P>Jungle Book2</P>
+      <P>JUNGL E 2 JUNGL E</P>
+      <P>Kangaroo Jack</P>
+      <P>Kikis Delivery Service</P>
+      <P>Kung Fu Panda</P>
+      <P>LANDBEFORETIM E9</P>
+      <P>Lemony Snickets</P>
+      <P>LITTL E VAMPIR E</P>
+      <P>Looney Tunes Back In Action</P>
+      <P>MADAGASCA R</P>
+      <P>MAR Y POPPIN S</P>
+      <P>Matilda</P>
+      <P>MEE T TH E ROBINSON S</P>
+      <P>Monsters Inc</P>
+      <P>Monster House</P>
+      <P>Mortal Kombat2</P>
+      <P>MORTA L KOMBA T</P>
+      <P>MR MAGORIUM S</P>
+      <P>Mulan</P>
+      <P>Muppet Treasure Island</P>
+      <P>Narnia2</P>
+      <P>Neverending Story</P>
+      <P>Nightmare</P>
+      <P>NIGHTMAR E ROO M VOLUM E 2</P>
+      <P>Over The Hedge</P>
+      <P>Page Master</P>
+      <P>Peter Pan2</P>
+      <P>Poohs Heffalump Movie</P>
+      <P>Princess Diaries2</P>
+      <P>PRINCES S STORIE S</P>
+      <P>Quest For Camelot</P>
+      <P>RATATOUILL E</P>
+      <P>Return To Oz</P>
+      <P>ROBINHOO D cartoon</P>
+      <P>Robots</P>
+      <P>Roger Rabbit</P>
+      <P>Rugrats All Grown Up</P>
+      <P>RV</P>
+      <P>SCAR Y GODMOTHE R</P>
+      <P>SCHOO L O F ROC K</P>
+      <P>Scooby Doo</P>
+      <P>Scooby Doo2</P>
+      <P>Secret Garden</P>
+      <P>Shark Tale</P>
+      <P>Shes The Man</P>
+      <P>SHRE K TH E THIR D</P>
+      <P>SPAC E CHIMP S</P>
+      <P>SPAC E JA M</P>
+      <P>SPIDERWIC K</P>
+      <P>Sponge Bob The Movie</P>
+      <P>Spy Kids3 D</P>
+      <P>Surfs Up</P>
+      <P>Tarzan</P>
+      <P>Tarzan2</P>
+      <P>TEENAG E MUTAN T NINJ A TURTLE S</P>
+      <P>The Ant Bully</P>
+      <P>The Dark Crystal</P>
+      <P>The Hobbit</P>
+      <P>The Hunchback Of Notre Dame</P>
+      <P>The Incredibles</P>
+      <P>THEKARATEKI D</P>
+      <P>The Lizzie Mc Guire Movie</P>
+      <P>The Worst Witch</P>
+      <P>The Worst Witch S1 D2</P>
+      <P>TH E NEVERENDIN G STOR Y I I</P>
+      <P>TH E PAREN T TRA P</P>
+      <P>TINKE R BEL L</P>
+      <P>Toy Story</P>
+      <P>Toy Story2</P>
+      <P>Treasure Planet</P>
+      <P>WAL L E</P>
+      <P>WALLAC E AN D GROMI T</P>
+      <P>Water Horse Legend of the Deep</P>
+      <P>WHAT S NE W SCOOB Y DO O S1 D2</P>
+      <P>Who Framed Roger Rabbit</P>
+      <P>WILL Y WONK A</P>
+      <P>Young Black Stallion</P>
+      <P>10000 B C</P>
+      <P>Movies</P>
+      <P>10 ThingsI Hate About You</P>
+      <P>10th Kingdom Disc1</P>
+      <P>10th Kingdom disc2</P>
+      <P>10th Kingdom Disc3</P>
+      <P>300</P>
+      <P>40 Year Old Virgin</P>
+      <P>50 First Dates</P>
+      <P>Abandon</P>
+      <P>Absolute Power</P>
+      <P>Adaptation</P>
+      <P>Agnes Of God</P>
+      <P>AKnights Tale</P>
+      <P>Alexander</P>
+      <P>Along Came Polly</P>
+      <P>American Beauty</P>
+      <P>American Gangster</P>
+      <P>American History X</P>
+      <P>Americano</P>
+      <P>American Pie</P>
+      <P>AMERICA N WEDDIN G</P>
+      <P>Americas Sweethearts</P>
+      <P>Anger Management</P>
+      <P>Anna And The King</P>
+      <P>Apt Pupil</P>
+      <P>AQUAMARIN E</P>
+      <P>Assault On Precinct13</P>
+      <P>A NIGH T A T TH E MUSEU M</P>
+      <P>Babel</P>
+      <P>BAB Y MAM A</P>
+      <P>Back Draft</P>
+      <P>BALL S O F FUR Y</P>
+      <P>Basic</P>
+      <P>Beaches</P>
+      <P>Beetle Juice</P>
+      <P>Benny And Joon</P>
+      <P>Bewitched</P>
+      <P>BI G</P>
+      <P>Billy Madison</P>
+      <P>Black Sheep</P>
+      <P>BLAC K DAHLI A</P>
+      <P>Blade Runner</P>
+      <P>Blast From The Past</P>
+      <P>BLOO D DIAMON D</P>
+      <P>Blues Brothers</P>
+      <P>BOBB Y</P>
+      <P>BORA T</P>
+      <P>Bourne 1 Identity</P>
+      <P>BOURN E 2 SUPREMAC Y</P>
+      <P>BOURN E 3 ULTIMATU M</P>
+      <P>Braveheart</P>
+      <P>BREAC H</P>
+      <P>Bridget Jones The Edge</P>
+      <P>Bruce Almighty</P>
+      <P>Buffalo Soldiers</P>
+      <P>Butterfly Effect</P>
+      <P>Caddy Shack</P>
+      <P>Catch Me If You Can</P>
+      <P>Cellular</P>
+      <P>Charlies Angels Full Throttle</P>
+      <P>Children Of Men</P>
+      <P>Chonicles Of Riddick</P>
+      <P>Cider House Rules</P>
+      <P>CINDERELL A MA N</P>
+      <P>City Of Angels</P>
+      <P>CLIC K</P>
+      <P>Clue</P>
+      <P>COAC H CARTE R</P>
+      <P>Cold Creek Manor</P>
+      <P>Cold Mountain</P>
+      <P>Collateral</P>
+      <P>Constantine</P>
+      <P>Count Of Monte Cristo</P>
+      <P>Crow City Of Angels</P>
+      <P>Cruel Intentions</P>
+      <P>Dazed And Confused</P>
+      <P>Dead Poets Society</P>
+      <P>DEAT H PROO F</P>
+      <P>DEFINITEL Y MAYB E</P>
+      <P>DEJ A V U</P>
+      <P>Deuce Bigalow European Gigalo</P>
+      <P>Deuce Bigalow Malegigolo</P>
+      <P>DIRT Y HARR Y</P>
+      <P>Dodgeball</P>
+      <P>Dog TownZ Boys</P>
+      <P>Dragon Slayer</P>
+      <P>Dude Wheres My Car</P>
+      <P>Dumb And Dumber</P>
+      <P>Duplex</P>
+      <P>ELIZABET H TH E GOLDE N AG E</P>
+      <P>ELIZABT H</P>
+      <P>Ella Enchanted</P>
+      <P>Empire Records</P>
+      <P>Envy</P>
+      <P>ERAGO N W S</P>
+      <P>ET</P>
+      <P>Eternal Sunshine Of The Spotless Mind</P>
+      <P>European Vacation</P>
+      <P>Ever After</P>
+      <P>EXTREM E MEASURE S</P>
+      <P>Family Man</P>
+      <P>Fast Times</P>
+      <P>Ferris Buellers Day Off</P>
+      <P>Fever Pitch</P>
+      <P>Fifth Element</P>
+      <P>Fight Club</P>
+      <P>Finding Neverland</P>
+      <P>FIREWAL L</P>
+      <P>First Knight</P>
+      <P>Flight Plan</P>
+      <P>Forbidden Kingdom</P>
+      <P>FORGETTIN G SARA H MARSHAL L</P>
+      <P>Formula51</P>
+      <P>Forrest Gump</P>
+      <P>GANDH I</P>
+      <P>Gangs OfNY Disc1</P>
+      <P>Gangs OfN Ydisc2</P>
+      <P>Garden State</P>
+      <P>Generals Daughter</P>
+      <P>Get Over It</P>
+      <P>Ghostbusters</P>
+      <P>Ghostbusters2</P>
+      <P>GINGER Bread Man</P>
+      <P>Girl With Pearl Earring</P>
+      <P>Gladiator</P>
+      <P>Godzilla98</P>
+      <P>Good Will Hunting</P>
+      <P>Good Luck Chuck</P>
+      <P>Gremlins</P>
+      <P>HAMLE T</P>
+      <P>Hangem High</P>
+      <P>Happy Gilmore</P>
+      <P>HEARTBREA K KI D</P>
+      <P>Heathers</P>
+      <P>Hellboy</P>
+      <P>HELLBO Y I I TH E GOLDE N ARM Y</P>
+      <P>Hidalgo</P>
+      <P>Hitchhikers Guide To The Galaxy</P>
+      <P>HITMA N</P>
+      <P>Hostage</P>
+      <P>Hot Chick</P>
+      <P>House Of Sand And Fog</P>
+      <P>HOUS E O F D</P>
+      <P>IHeart Huckabees</P>
+      <P>Indiana Jones And The Temple Of Doom</P>
+      <P>Indiana Jones Last Crusade</P>
+      <P>INDIAN A JONE S LOS T AR K</P>
+      <P>INTHENAMEOFTHEKIN G</P>
+      <P>INT O TH E WIL D</P>
+      <P>IN BRUGE S</P>
+      <P>IRobot</P>
+      <P>ISpy</P>
+      <P>I A M LEGEN D</P>
+      <P>I NO W PRONOUNC E CHUC K LARR Y</P>
+      <P>I THIN K I LOV E M Y WIF E</P>
+      <P>Jawbreaker</P>
+      <P>Jerimiha Johnson</P>
+      <P>Jersey Girl</P>
+      <P>Jet Li Fearless</P>
+      <P>JOYLUC K</P>
+      <P>JUMPE R</P>
+      <P>JUN O</P>
+      <P>Jurassic Park</P>
+      <P>Just Married</P>
+      <P>Kill Bill Vol2</P>
+      <P>Kingdom Of Heaven</P>
+      <P>King Kong</P>
+      <P>Knocked Up</P>
+      <P>Ladder49</P>
+      <P>Ladyhawke</P>
+      <P>Lady In The Water</P>
+      <P>Last Samurai</P>
+      <P>LEGALLYBLOND E2</P>
+      <P>Legend</P>
+      <P>Liar Liar</P>
+      <P>Life Aquatic</P>
+      <P>Little Nicky</P>
+      <P>LIVEFRE E O R DIEHAR D</P>
+      <P>Lock Stock</P>
+      <P>Logans Run</P>
+      <P>Lord Of The Rings Return Of The King</P>
+      <P>Lord Of The Rings 2 Towers</P>
+      <P>Lord Of The Rings fellowship Of The Ring</P>
+      <P>Lord Of War</P>
+      <P>LORD S O F DOGTOW N</P>
+      <P>LOV E ACTUALL Y</P>
+      <P>LOV E GUR U</P>
+      <P>LUCK Y NUMBE R SLEVI N</P>
+      <P>Magdalenesisters</P>
+      <P>MAMM A MI A</P>
+      <P>MANCHURIA N CANDIDAT E</P>
+      <P>Man On Fire</P>
+      <P>MAS H</P>
+      <P>Master And Commander</P>
+      <P>Match Maker</P>
+      <P>Mean Girls</P>
+      <P>Medallion</P>
+      <P>Meet The Fockers</P>
+      <P>Meet The Parents</P>
+      <P>Men In Black</P>
+      <P>Men In Black2</P>
+      <P>Metallica Cliff Em All</P>
+      <P>MICHAE L CLAYTO N</P>
+      <P>Million Dollar Baby</P>
+      <P>Minority Report</P>
+      <P>Mission Impossible</P>
+      <P>MIS S CONGENIALIT Y 2</P>
+      <P>Moll Flanders</P>
+      <P>Mona Lisa Smiles</P>
+      <P>Monkees S1 E1</P>
+      <P>Monkees S1 E3</P>
+      <P>Monkees S1 E6</P>
+      <P>Monsters Ball</P>
+      <P>Mr And Mrs Smith</P>
+      <P>Mr Deeds</P>
+      <P>MUC H AD O ABOU T NOTHIN G</P>
+      <P>Murders In The Rue Morgue</P>
+      <P>Murials Wedding</P>
+      <P>MUS T LOV E DOG S</P>
+      <P>MY SUPE R E X G F</P>
+      <P>National Treasure</P>
+      <P>National Treasure2</P>
+      <P>NATIONA L LAMPOON S VACATIO N</P>
+      <P>NATURA L BOR N KILLER S</P>
+      <P>New York Minute</P>
+      <P>NEX T</P>
+      <P>No Country For Old Men</P>
+      <P>Norbit</P>
+      <P>Notting Hill</P>
+      <P>Oceans Eleven</P>
+      <P>Oceans Thirteen</P>
+      <P>Oceans Twelve</P>
+      <P>Office Space</P>
+      <P>ORANGECOUNT Y</P>
+      <P>Outlaw Josey Wales</P>
+      <P>Pale Rider</P>
+      <P>Passion Of The Christ</P>
+      <P>Paycheck</P>
+      <P>Pirates Of The Caribbean worlds End</P>
+      <P>PIRATE S O F TH E CARRIBEA N</P>
+      <P>Pitch Black</P>
+      <P>Platoon</P>
+      <P>Point Of No Return</P>
+      <P>Porkys</P>
+      <P>Porkys2</P>
+      <P>Practical Magic</P>
+      <P>Pride And Prejudice</P>
+      <P>PrinceN Me</P>
+      <P>Raise Your Voice</P>
+      <P>Rambo FIRS T BLOO D</P>
+      <P>Reign Of Fire</P>
+      <P>Reign Over Me</P>
+      <P>Ricochet</P>
+      <P>Robin Hood Prince Of Thieves1</P>
+      <P>Robin Hood Prince Of Thieves2</P>
+      <P>Romeo And Juliet</P>
+      <P>Roxanne</P>
+      <P>RUS H HOU R</P>
+      <P>RUS H HOU R2</P>
+      <P>Saved</P>
+      <P>Scarface</P>
+      <P>Schindlers List1</P>
+      <P>Schindlers List2</P>
+      <P>Schindlers List Disc2</P>
+      <P>Sea Biscuit</P>
+      <P>Sense And Sensibility</P>
+      <P>Serendipity</P>
+      <P>Shallow Hal</P>
+      <P>Shanghai Knights</P>
+      <P>Shes All That</P>
+      <P>SHOOTE R</P>
+      <P>Simply Irresistible</P>
+      <P>SIMPSON S</P>
+      <P>Sin City</P>
+      <P>Sixteen Candles</P>
+      <P>Sky Captain</P>
+      <P>Sling Blade</P>
+      <P>Smokin Aces</P>
+      <P>Snatch</P>
+      <P>SoI Married An Axe Murderer</P>
+      <P>STARDUS T</P>
+      <P>Star Wars E3 Revenge Of The Sith</P>
+      <P>Star Wars E4 A New Hope</P>
+      <P>Star Wars E5 Empire Strikes Back</P>
+      <P>Star Wars E6 Return Of The Jedi</P>
+      <P>Stealing Beauty</P>
+      <P>Stranger Than Fiction</P>
+      <P>STRANG E WILDERNES S</P>
+      <P>Stripes</P>
+      <P>Superbad Unrated</P>
+      <P>SUPERSTA R</P>
+      <P>Suspect Zero</P>
+      <P>Taxi</P>
+      <P>Taxi Driver</P>
+      <P>Tears Of The Sun</P>
+      <P>TERMINATO R</P>
+      <P>TERMINATO R2</P>
+      <P>Terminator3</P>
+      <P>THANKYOUFORSMOKIN G</P>
+      <P>The Breakfast Club Div X</P>
+      <P>The Beach</P>
+      <P>The Bounty</P>
+      <P>The Core</P>
+      <P>The Crow</P>
+      <P>The Departed</P>
+      <P>The Firm</P>
+      <P>The Fountain</P>
+      <P>The Fugitive</P>
+      <P>The Godfather</P>
+      <P>The Godfather2 1</P>
+      <P>The Godfather2 2</P>
+      <P>The Godfather3</P>
+      <P>The Good Shephard</P>
+      <P>The Good The Bad The Ugly</P>
+      <P>The Graduate</P>
+      <P>The Illusionist</P>
+      <P>The In Laws</P>
+      <P>The Jacket</P>
+      <P>The Ladykillers</P>
+      <P>The Longest Yard</P>
+      <P>The Matrix</P>
+      <P>The Matrix Reloaded</P>
+      <P>The Messenger</P>
+      <P>The Mummy</P>
+      <P>The Mummy2</P>
+      <P>The One</P>
+      <P>The Outsiders</P>
+      <P>The Perfect Score</P>
+      <P>The Prestige</P>
+      <P>The Princess Bride</P>
+      <P>The Punisher</P>
+      <P>Theres Something About Mary</P>
+      <P>The Royal Tenenbaums</P>
+      <P>The Saint</P>
+      <P>The Waterboy</P>
+      <P>The Whole Nine Yards</P>
+      <P>The Whole Ten Yards</P>
+      <P>The Believer</P>
+      <P>TH E CONTRAC T</P>
+      <P>TH E DEA D POO L</P>
+      <P>TH E ENFORCE R</P>
+      <P>TH E E X</P>
+      <P>TH E HOUS E BUNN Y</P>
+      <P>TH E LIF E O F DAVI D GAL E</P>
+      <P>TH E SHAWSHAN K REDEMPTIO N</P>
+      <P>Tomb Raider2</P>
+      <P>TOM B RAIDE R</P>
+      <P>Tommy Boy DVD Rip Div XK Si</P>
+      <P>TRANSFORMER S</P>
+      <P>TRAPPEDINPARADIS E</P>
+      <P>Troy</P>
+      <P>True Romance</P>
+      <P>Tuck Everlasting</P>
+      <P>Twisted</P>
+      <P>Under World</P>
+      <P>Unleashed</P>
+      <P>Van Helsing</P>
+      <P>Vanity Fair</P>
+      <P>VEGA S VACATIO N</P>
+      <P>Victory</P>
+      <P>Walk The Line</P>
+      <P>WANTE D</P>
+      <P>WA R</P>
+      <P>War Of The Worlds</P>
+      <P>WA R IN C</P>
+      <P>Wedding Crashers</P>
+      <P>WEDDIN G SINGE R</P>
+      <P>We Own the Night</P>
+      <P>What Women Want</P>
+      <P>When Harry Met Sally</P>
+      <P>White Oleander</P>
+      <P>Wild Hogs</P>
+      <P>WIL D A T HEAR T</P>
+      <P>WILLO W</P>
+      <P>Wimbledon</P>
+      <P>WINTE R SOLSTIC E</P>
+      <P>WithoutA Paddle</P>
+      <P>Wonderland</P>
+      <P>World Trade Center</P>
+      <P>WORL D ACCORDIN G T O GAR P</P>
+      <P>You Me And Dupree</P>
+      <P>YOUN G FRANKENSTEI N</P>
+      <P>Across The Universe</P>
+      <P>Musicals</P>
+      <P>Chicago</P>
+      <P>GREAS E</P>
+      <P>Grease2</P>
+      <P>Grease 2</P>
+      <P>Hairspray</P>
+      <P>HEL P</P>
+      <P>MOULI N ROUG E</P>
+      <P>AEONFLU X 43</P>
+      <P>Super Heroes</P>
+      <P>Batman</P>
+      <P>Batman Forever</P>
+      <P>BATMA N BEGIN S</P>
+      <P>Dare Devil</P>
+      <P>Elektra</P>
+      <P>Fantastic4</P>
+      <P>Fantastic4 Rise Of The Silver Surfer</P>
+      <P>HUL K</P>
+      <P>IRO N MA N</P>
+      <P>League Of Extraordinary Gentlemen</P>
+      <P>Spawn</P>
+      <P>Spiderman</P>
+      <P>Spider Man3</P>
+      <P>SUPERMA N</P>
+      <P>SUPERMA N RETURN S</P>
+      <P>The Hulk</P>
+      <P>TH E DAR K NIGH T</P>
+      <P>XME N</P>
+      <P>XMen2</P>
+      <P>XMen3</P>
+      <P>114 Stolen Car</P>
+      <P>That70s Show</P>
+      <P>402 That 70s Show 405 Bye Bye Basement</P>
+      <P>413 That 70s Show 416 Donna Dates A Kelso</P>
+      <P>70SSHOW S5</P>
+      <P>Laura Prepon Mila Kunis That 70s Show</P>
+      <P>Pilot</P>
+      <P>That 70s Show 105 Erics Burger Job</P>
+      <P>That 70s Show 204 Laurie and the Professor</P>
+      <P>That 70s Show 205 Halloween</P>
+      <P>That 70s Show 206 Vanstock</P>
+      <P>That 70s Show 208 Sleepover</P>
+      <P>That 70s Show 210 Reds Birthday</P>
+      <P>That 70s Show 211 Laurie Moves Out</P>
+      <P>That 70s Show 302 Red Sees Red</P>
+      <P>That 70s Show 313 Dine and Dash</P>
+      <P>That 70s Show 320 Holy Craps</P>
+      <P>That 70s Show 321 Erics Drunken Tatoo</P>
+      <P>That 70s Show 324 Backstage Pass</P>
+      <P>That 70 s Show 106 The Keg</P>
+      <P>That 70 s Show 113 Ski Trip</P>
+      <P>That 70 s Show 115 That Wrestling Show</P>
+      <P>That 70 s Show 117 The Pill</P>
+      <P>That 70 s Show 424 Musical</P>
+      <P>That 70s Show 102 Erics Birthday</P>
+      <P>That 70s Show 103 Streaking</P>
+      <P>That 70s Show 108 Drive In</P>
+      <P>That 70s Show 118 The Career Day</P>
+      <P>That 70s Show 122 Water Tower</P>
+      <P>That 70s Show 123 Punk Chick 1</P>
+      <P>That 70s Show 125 The Good Son</P>
+      <P>That 70s Show 202 Reds Last Day</P>
+      <P>That 70s Show 217 Afterglow</P>
+      <P>That 70s Show 222 Jackie Moves On</P>
+      <P>That 70s Show 303 Hydes Father</P>
+      <P>That 70s Show 304 Too Old To Trick Or Treat Too Young</P>
+      <P>That 70s Show 304 Too Old To Trick Or Treat Too Young To Die</P>
+      <P>That 70s Show 308 Jackie Bags Hyde</P>
+      <P>That 70s Show 313 Dine And Dash</P>
+      <P>That 70s show 316 Romantic Weekend</P>
+      <P>That 70s Show 317 Kittys Birthday Thats Today</P>
+      <P>That 70s Show 322 Fez Dates Donna</P>
+      <P>That 70s Show 325 The Promise Ring</P>
+      <P>That 70s Show 404 Hyde Gets A Girl</P>
+      <P>That 70s Show 405 Bye Bye Basement</P>
+      <P>That 70s Show 406 The Relapse</P>
+      <P>That 70s Show 410 Red and Stacey</P>
+      <P>That 70s Show 412 An Eric Forman Christmas</P>
+      <P>That 70s Show 415 Tornado Prom</P>
+      <P>That 70s Show 418 Leo loves Kitty</P>
+      <P>That 70s Show 423</P>
+      <P>That 70s Show 425 Erics False Alarm</P>
+      <P>That 70s Show 426 Everybody Loves Casey</P>
+      <P>That 70s Show 4x14 Erics Hot Cousin</P>
+      <P>That 70s Show 502</P>
+      <P>That 70s Show 503 Mila Kunis coconutbikini</P>
+      <P>That 70s Show 504 Heartbreaker</P>
+      <P>That 70s show 506 Over the Hills and Far Away</P>
+      <P>That 70s Show 522 You Shook Me</P>
+      <P>That 70s Show 523 Nobodys Fault But Mine</P>
+      <P>That 70s Show 525 Celebration Day</P>
+      <P>That 70s Show 604 The Acid Queen</P>
+      <P>That 70s Show 604the acid queen</P>
+      <P>That 70s Show 605 Im Free</P>
+      <P>That 70s Show 606</P>
+      <P>That 70s Show 608 Im A Boy so funny</P>
+      <P>That 70s Show 609</P>
+      <P>That 70s Show 610</P>
+      <P>That 70s Show 611 I Can See For Miles</P>
+      <P>That 70s Show 612 Sally Simpson</P>
+      <P>That 70s Show 615 Who Are You</P>
+      <P>That 70s Show 616 Man With Money</P>
+      <P>That 70s Show 617 Happy Jack</P>
+      <P>That 70s Show 618</P>
+      <P>That 70s Show 619 Substitute</P>
+      <P>That 70s Show 620</P>
+      <P>That 70s Show 622</P>
+      <P>That 70s Show 623 My Wife</P>
+      <P>That 70s Show 624 Going Mobile</P>
+      <P>That 70s Show 625 The Seeker</P>
+      <P>That 70s Show 702 Lets Spend The Night Together</P>
+      <P>That 70s Show 703 I Cant Get No Satisfaction</P>
+      <P>That 70s Show 704 Beast Of Burden</P>
+      <P>That 70s Show 705 Its Only Rock and Roll</P>
+      <P>That 70s Show 706 Rip This Joint</P>
+      <P>That 70s Show 707</P>
+      <P>That 70s Show 708</P>
+      <P>That 70s Show 711</P>
+      <P>That 70s Show 713 Cant You Hear Me Knocking</P>
+      <P>That 70s show Grandmas dead</P>
+      <P>That70SSHOW S5 D3</P>
+      <P>That70s Show S2 E1</P>
+      <P>That70s Show S2 E10</P>
+      <P>That70s Show S2 E11</P>
+      <P>That70s Show S2 E12</P>
+      <P>That70s Show S2 E13</P>
+      <P>That70s Show S2 E14</P>
+      <P>That70s Show S2 E2</P>
+      <P>That70s Show S2 E3</P>
+      <P>That70s Show S2 E4</P>
+      <P>That70s Show S2 E5</P>
+      <P>That70s Show S2 E6</P>
+      <P>That70s Show S2 E7</P>
+      <P>That70s Show S2 E8</P>
+      <P>That70s Show S2 E9</P>
+      <P>THA T70SSHO W S3 D1</P>
+      <P>THA T70SSHO W S3 D4</P>
+      <P>THA T70SSHO W S4 D1</P>
+      <P>THA T70SSHO W S4 D2</P>
+      <P>THA T70SSHO W S4 D4</P>
+      <P>THA T70SSHO W S5 D2</P>
+      <P>THA T70SSHO W S6 D1</P>
+      <P>THA T70SSHO W S6 D2</P>
+      <P>THA T70SSHO W S6 D3</P>
+      <P>THA T70SSHO W S6 D4</P>
+      <P>THA T70SSHO W S7 D1</P>
+      <P>THA T70SSHO W S7 D2</P>
+      <P>THA T70SSHO W S7 D3</P>
+      <P>THA T70SSHO W S7 D4</P>
+      <P>The Twilight Zone 021 Mirror Image</P>
+      <P>Twilight Zone</P>
+      <P>The Twilight Zone 139 Night Call 020764</P>
+      <P>The Twilight Zone S03 E03 The Shelter</P>
+      <P>The Twilight Zone S03 E24 To Serve Man</P>
+      <P>Twilight Zone Its a Good Life</P>
+      <P>TWILIGH T ZON E 101 WHER E</P>
+      <P>UF C 6</P>
+    </L>
+  </RULE>
+  <!-- xmlMedia.xml -->
+</GRAMMAR>

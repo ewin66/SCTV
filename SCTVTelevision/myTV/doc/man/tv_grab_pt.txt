@@ -1,0 +1,47 @@
+NAME
+    tv_grab_pt - Grab TV listings for Portugal.
+
+SYNOPSIS
+    tv_grab_pt --help
+
+    tv_grab_pt [--config-file FILE] --configure
+
+    tv_grab_pt [--config-file FILE] [--output FILE] [--days N] [--offset N]
+    [--quiet]
+
+    tv_grab_pt --list-channels
+
+DESCRIPTION
+    Output TV listings for several channels available in Portugal. It
+    supports the public network and the private NetCabo network.
+
+    First run tv_grab_pt --configure to choose, which channels you want to
+    download. Then running tv_grab_pt with no arguments will output listings
+    in XML format to standard output.
+
+    --configure Prompt for which channels, and write the configuration file.
+
+    --config-file FILE Set the name of the configuration file, the default
+    is ~/.xmltv/tv_grab_pt.conf. This is the file written by --configure and
+    read when grabbing.
+
+    --output FILE write to FILE rather than standard output.
+
+    --days N grab N days. The default is 3.
+
+    --offset N start N days in the future. The default is to start from
+    today.
+
+    --quiet suppress the progress messages normally written to standard
+    error.
+
+    --help print a help message and exit.
+
+SEE ALSO
+    xmltv(5).
+
+AUTHOR
+    Bruno Tavares, gawen@users.sourceforge.net, based on tv_grab_es, from
+    Ramon Roca.
+
+BUGS

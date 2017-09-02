@@ -1,0 +1,26 @@
+11/4/2009 11:28 AM : sctv load character didn't load path: C:\utilities\programming\projects\SCTV2\SCTV2\bin\Release\config\speech\vocab\characters\wartnose.acs
+11/4/2009 11:28 AM : System.InvalidOperationException: Collection was modified; enumeration operation might not execute.
+   at System.Data.RBTree`1.RBTreeEnumerator.MoveNext()
+   at SCTVObjects.MediaHandler.GetAllCategories(String mediaType) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 377
+11/4/2009 11:29 AM : SCTV - timerTick: Value of '458300' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+11/4/2009 11:30 AM : sctv load character didn't load path: C:\utilities\programming\projects\SCTV2\SCTV2\bin\Release\config\speech\vocab\characters\wartnose.acs
+11/4/2009 11:30 AM : System.InvalidOperationException: Collection was modified; enumeration operation might not execute.
+   at System.Data.RBTree`1.RBTreeEnumerator.MoveNext()
+   at SCTVObjects.MediaHandler.GetAllCategories(String mediaType) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 377
+11/4/2009 12:49 PM : sctv load character didn't load path: C:\utilities\programming\projects\SCTV2\SCTV2\bin\Release\config\speech\vocab\characters\wartnose.acs
+11/4/2009 12:49 PM : System.InvalidOperationException: Collection was modified; enumeration operation might not execute.
+   at System.Data.RBTree`1.RBTreeEnumerator.MoveNext()
+   at SCTVObjects.MediaHandler.GetAllCategories(String mediaType) in C:\utilities\programming\projects\SCTV2\Objects\mediaHandler.cs:line 377
+11/4/2009 12:56 PM : SCTV - timerTick: Value of '736' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+8/5/2013 6:38 PM : Could not find file 'D:\utilities\Programming\SCTV2\SCTV2\bin\Release\config\BlockedTerms.txt'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path, Encoding encoding)
+   at SCTV.MainForm.loadBlockedTerms(String path) in C:\utilities\programming\projects\SCTV2\SafeSurf\MainForm.cs:line 479
+   at SCTV.MainForm..ctor() in C:\utilities\programming\projects\SCTV2\SafeSurf\MainForm.cs:line 158

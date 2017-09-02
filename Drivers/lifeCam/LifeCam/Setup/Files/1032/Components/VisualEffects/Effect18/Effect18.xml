@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="95A1C082-4C31-430F-8CF8-C30E1938A60B"
+		Name="Effect18"
+		Description="Thought Bubble"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect18\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect18\config.ver"/>
+	</EffectList>
+</Root>

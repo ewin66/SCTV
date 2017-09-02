@@ -1,0 +1,5 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="3A4FF3F1-015F-4688-8D8B-FA6EDF6F12E3" Name="Mariposa" Description="Mariposa" VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" ImageRelativePath="Components\VisualEffects\Effect01\tn.bmp" DataRelativePath="Components\VisualEffects\Effect01\config.ver"/>
+	</EffectList>
+</Root>

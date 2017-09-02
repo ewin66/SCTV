@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="4C4EA0F3-38AE-4741-98EC-CC4E2E5A080E"
+		Name="Effect17"
+		Description="Candy"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect17\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect17\config.ver"/>
+	</EffectList>
+</Root>

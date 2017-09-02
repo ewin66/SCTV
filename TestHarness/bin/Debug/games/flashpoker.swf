@@ -1,0 +1,1364 @@
+<html>
+<head>
+<title>Flash Kit, A Flash Developer Resource - Online resource for Macromedia Flash Tutorials SWF FLA images clip art Sounds WAVS Animations Help and Support</title>
+<!-- begin skip -->
+<meta name="description" content="Flash Kit - an online resource for Macromedia Flash development. Join in our message board discussions, read the latest Flash news and tutorials, and download our free FLAs, SWFs, and sound loops.">
+<meta name="keywords" content="Flash kit A Flash Developer Resource, Flash, Flash 4, Flash 3, Macromedia Flash, Statistics, FLA, SWF, Store, Message Board, Resources, Sound Library, 3d Flash files, tutorials, Knowledge Base, FAQ, lessons, Links">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- end skip -->
+<style type="text/css">
+<!--
+
+/* Fixed Size Styles these need to be one pixel bigger to work nice in Netscape! */
+
+body 			{font-family: Verdana, Arial, helvetica, sans-serif; font-size: 10px;
+				}
+
+
+div.small 		{color: #000000; font-size: 11px; font-family: Verdana, Arial, helvetica, sans-serif; }	
+div.text 		{color: #000000; font-size: 13px; font-family: Verdana, Arial, helvetica, sans-serif; }
+div.main 		{margin-left: 30px; }
+div.arcadehead	{color: #000000; font-size: 19px; font-weight: bold;}
+div.margin 		{ margin-left: 60px;}
+td	 			{color: #000000; font-family: Verdana, Arial, helvetica, sans-serif; font-size: 10px;}
+td.heading		{color: #ffffff; background-color: #ff8300; font-size: 18px; font-weight: bold; font-style: italic;}
+td.announceback	{color: #000000; background-color: #FFEC8D; font-size: 12px;}
+td.homeback		{color: #000000; background-color: #eeeeee; font-size: 12px;}
+td.animeback	{color: #000000; background-color: #ffffff; font-size: 12px;}
+td.ymain		{color: #000000; background-color:#ffdb5a; font-size: 13px; font-weight: bold; padding: 2px;}
+td.categories	{color: #ffffff; background-color:#002874; font-size: 13px; font-weight: bold;}
+td.arcadehead	{color: #000000; font-size: 19px; font-weight: bold;}
+td.typerhow1	{color: #000000; background-color: #ffdb5a; font-size: 11px;}
+td.typerhow2	{color: #000000; background-color: #ffffff; font-size: 11px;}
+
+.text			{color: #000000; font-size: 13px;}
+.textbold		{color: #000000; font-size: 13px; font-weight: bold;}
+.textwhite		{color: #ffffff; font-size: 13px;}
+.textboldwhite	{color: #ffffff; font-size: 13px; font-weight: bold;}
+A.textboldwhite:visited  {color: #ffffff; font-size: 13px; font-weight: bold;}
+.translate		{color: #ffffff; background-color: #ff8300; font-size: 11px;}
+.mail			{color: #000000; background-color: #ffffff; font-size: 11px;}
+.mailbig		{color: #000000; font-size: 18px; font-family: Arial, helvetica, sans-serif; font-weight: bold;}
+.search			{color: #ffffff; background-color: #3184BD; font-size: 11px;}
+.link 			{color: #000000; font-size: 13px; font-weight: bold;}
+.linknew		{color: #ff0000; font-size: 13px; font-weight: bold;}
+.linksmall		{color: #000000; font-size: 11px;}
+.reviews		{color: #000000; background-color: #ffffc4; font-size: 12px;}
+
+/* Headers */
+h2 				{color: #333333; font-size: 18px; font-weight: bold; }
+h3				{color: #333333; font-size: 16px; font-weight: bold; }
+h4				{color: #0000dd; font-size: 14px; font-weight: bold;}
+
+/* Form Button settings */
+.pnorm 			{color:#000000; background-color:#f4ca00; font: 13px Verdana, Arial,Helvetica,Sans Serif; font-weight: bold}
+.pover 			{color:#ffffff; background-color:#f4ca00; font: 13px Verdana, Arial,Helvetica,Sans Serif; font-weight: bold}
+
+/* Navbar */
+A.nav 			{color: #ffffff; text-decoration:none;}
+A.nav:visited 	{color: #ffffff; text-decoration:none;}
+A.nav:hover 	{color: #ffc400; text-decoration:underline;}
+A.nav:active 	{color: #ffc400; text-decoration:underline;}
+td.nav  		{color: #0089cd; font-weight: bold;}
+th.nav  		{background-color: #000099; font-weight: bold;}
+tr.main 		{background-color: #000099;}
+		
+/* Title Bar */
+td.ysmall		{color: #000000; background-color:#ffdb5a; font-weight: bold;}
+		
+/* Lines Links */
+td.blueline 	{background-color: #0089cd;}
+td.whiteline	{background-color: #ffffff;}
+td.blackline 	{background-color: #000000;}
+		
+/* Text Styles */
+.smallbold		{color: #000000; font-weight: bold;}
+.smallboldgrey	{color: #333333; font-weight: bold;}
+.smallboldwhite	{color: #ffffff; font-weight: bold;}
+.small			{color: #000000;}
+.smallwhite		{color: #ffffff;}
+.smallgrey		{color: #777777;}
+			 							 
+/* Global Settings */
+A 				{color: #0000aa; text-decoration:underline;}
+A:visited 		{color: #0000aa; text-decoration:underline;}
+A:hover 		{color: #ff0000; text-decoration:underline;}
+A:active 		{color: #dd0000; text-decoration:underline;}
+
+A.links 		{color: #000000; text-decoration:none;}
+A.links:visited {color: #000000; text-decoration:none;}
+A.links:hover 	{color: #ff0000; text-decoration:underline;}
+A.links:active 	{color: #dd0000; text-decoration:underline;}
+
+A.white			{color: #ffffff; text-decoration:underline;}
+A.white:visited	{color: #ffffff; text-decoration:underline;}
+A.white:hover 	{color: #ffc400; text-decoration:underline;}
+A.white:active	{color: #ffc400; text-decoration:underline;}
+
+/* Homepage Specific */
+A.title			{font-size:12px; color: #ffc400; text-decoration:underline;}
+A.title:visited {font-size:12px; color: #ffc400; text-decoration:underline;}
+A.title:hover 	{font-size:12px; color: #ffffff; text-decoration:underline;}
+A.title:active 	{font-size:12px; color: #ffc400; text-decoration:underline;}
+td.dates		{font-size:12px; color: #000000; background-color: #ffffff;}		
+td.title		{font-size:12px; color: #ffffff}		
+td.titlewhite	{font-size:12px; color: #000000; background-color: #ffffff; font-weight: bold;}		
+
+/* Arcade Specific */
+td.arcadeback	{background-color: #FFD400;}
+
+/* FLASHtyper Specific */
+table.typerback  	{background-color: #4A91A0;}
+table.typerback2  	{background-color: #ffc400;}
+td.typerinner		{color: #000000; background-color: #ffffff; padding:4px;}		
+td.typerfeature 	{color: #000000; background-color: #ffffff;}		
+td.typerinnergrey 	{color: #000000; background-color: #dddddd; padding:4px;}		
+
+/* Loops Specific */
+table.loopleft  	{background-color: #3184BD;}
+table.loopright  	{background-color: #0000dd;}
+td.loopleftinner	{color: #000000; background-color: #FFF7BA;}	
+td.looprightinner	{color: #000000; background-color: #ffffff; padding:4px;}	
+
+/* movies Specific */
+.version4			{color: #000000; font-weight: bold;}	
+.version5			{color: #ff0000; font-weight: bold;}	
+
+/* email Specific */
+A.email				{color: #ffffff; text-decoration:underline;}
+A.email:visited	 	{color: #ffffff; text-decoration:underline;}
+A.email:hover 		{color: #ffc400; text-decoration:underline;}
+A.email:active		{color: #ffc400; text-decoration:underline;}
+
+/* Poll Specific */
+.pollTable 			{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; padding:0px; font-size: 13px;}
+.pollTitle 			{color: #ffffff; background-color: #3184BD; font-weight: bold; padding:2px; font-size: 13px;}		
+.pollItem			{color: #000000; background-color: #ffdb5a; padding:2px; font-size: 13px;}		
+.pollOption 		{background-color:#ffc400; vertical-align:middle; text-align:left;  font-size: 13px;}
+.pollSummary 		{color:#000000; background-color:#ffffff; padding:2px; vertical-align:middle; text-align:center; font-size: 13px;}
+.pollImage 			{text-align:left; background-color:#ffc400; padding:2px; vertical-align:middle;  font-size: 13px;}
+.pollPercent 		{color: #000000; background-color: #ffdb5a; padding:2px; text-align:right; font-size: 13px;}		
+.pollVotes 			{color: #000000; background-color: #ffc400; padding:2px; font-size: 13px;}		
+.maxReachedTable   	{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-size: 13px;}
+.maxReachedMessage 	{ text-align:center; color:#000000; background-color:#D2D8D6; padding:2px; text-align:left; font-size: 13px;}
+
+/* Announcement Specific */
+A.announce 			{color: #000000; text-decoration:underline;}
+A.announce:visited 	{color: #000000; text-decoration:underline;}
+A.announce:hover 	{color: #ffc400; text-decoration:underline;}	
+	
+/* Tutorial Specific */
+td.tuteclass		{color: #ffffff; background-color: #ff8300; font-size: 14px; font-weight: bold;}
+td.tutelevel		{color: #ff8000; font-size: 14px; font-weight: bold;}
+td.tuteheader		{color: #000000; font-size: 18px; font-weight: bold;}
+div.notes 			{background: #eeeeee; font-size: 12px; margin-left: 40px; margin-right: 40px; padding: 10px; border-color: #000000;}
+div.code 			{color: #3366CC; font-size: 12px; margin-left: 40px; margin-right: 40px; padding: 10px;}
+
+/*Links Engine settings*/
+.smalltext 			{font-size: 10px; }
+.descript			{color: #333333; font-size: 13px;}
+td.home 			{font-size: 10px;}
+td.nav				{color: #0089cd; font-size: 10px; font-weight: bold;}
+div.next 			{background-color:#ffdb5a; font-size: 13px; padding: 2px; border-width : 1px 1px 1px 1px; border-style : solid;}
+ul 					{margin-left: 40px; font-size: 12px; list-style: disc;}
+sup.new 			{color: #FF0000; font-size: 12px;}
+sup.pop 			{background: #ffc400; font-size: 12px;}
+small.date 			{color: #666666; font-size: 10px;}
+small.numlinks 		{color: #666666; font-size: 10px;}
+strong.search 		{font-size: 14px; font-weight: bold;}
+small.more 			{font-size: 10px;}
+strong.error 		{color: #ff0000; font-weight: bold;}
+strong.title 		{font-size: 13px; font-weight: bold;}
+td.catlist 			{font-size: 12px;}
+pre 				{color: #3366CC; margin-left: 40px; margin-right: 40px; padding: 10px; font-size: 12px;}
+.code 				{color: #3366CC; font-size: 12px;}
+small.update 		{color: #999999; font-size: 10px; font-weight: bold;}
+
+/* Fonts Specific */
+td.myfk 			{background: #FFF599; font-size: 10px;}
+ul.font 			{margin-left: 10px; font-size: 10px; font-weight: bold;}
+-->
+
+
+
+</style>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" marginheight=0 marginwidth=0 topmargin=0 leftmargin=0 rightmargin=0>
+
+<!-- Header -->
+	<script language="Javascript" type="text/javascript">
+	<!-- 
+	function search(){ location.href = "/search.php?cat=movies&per=10&page=1&field=Description&term=" + (escape(document.searching.term.value)); }	
+	//-->
+	</script>
+	<script type="text/javascript" language="JavaScript1.2">
+	<!--
+	function ClearError() { return true; }
+	window.onerror = ClearError;
+	//-->
+	</script>	
+	<a name="top"></a>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr bgcolor="#000099">
+		<td valign="top" align="left" width="232">
+		<map name="logo">
+		<area alt="internet.com" coords="0,0,89,14" href="http://www.internet.com" target="_blank">
+		<area alt="home" shape="poly" coords="90,0,90,15,0,15,0,60,232,60,232,0" href="/index.shtml">
+		</map>
+		<img src="http://images.flashkit.com/graphics/nav_logo.gif" width="232" height="60" border="0" usemap="#logo" />
+		</td>
+		<td valign="middle" align="left" width="100%">
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td Colspan="7" bgcolor="#0089cd"><img src="http://images.flashkit.com/graphics/blank.gif" width="1" height="1" border="0" /></td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/" target="_top" class="nav">Home</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/movies/" target="_top" class="nav">Movies</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/tutorials/" target="_top" class="nav">Tutorials</a></td>						
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/submissions/" target="_top" class="nav">Submissions</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/soundfx/" target="_top" class="nav">Sound FX</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="http://flashkit.com/store/" target="_top" class="nav">Flash Store</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="http://www.jupiterevents.com/" target="_top" class="nav">Conferences</a></td>
+			</TR>
+			<tr>
+				<td Colspan=7 bgcolor="#0089cd"><img src="http://images.flashkit.com/graphics/blank.gif" width=1 height=1 border="0" /></td>
+			</TR>
+			<tr>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/board/index.php" target="_top" class="nav">Board</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/sites/" target="_top" class="nav">Featured</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/links/" target="_top" class="nav">Links</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/board/forumdisplay.php?forumid=1" target="_top" class="nav">News</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/tutorials/Reviews/" target="_top" class="nav">Reviews</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="http://pro.flashkit.com/services.html" target="_top" class="nav">FK Pro</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/link.php" target="_top" class="nav">Link to Us!</a></td>
+			</TR>
+			<tr>
+				<td Colspan=7 bgcolor="#0089cd"><img src="http://images.flashkit.com/graphics/blank.gif" width="1" height="1" border="0" /></td>
+			</TR>
+			<tr>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="http://board.flashkit.com/board/register.php?action=signup" target="_top" class="nav">Join</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/fonts/" target="_top" class="nav">Fonts</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/guestbook/" target="_top" class="nav">Guestbook</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/board/forumdisplay.php?forumid=11" target="_top" class="nav">The Lounge</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/chat/" target="_top" class="nav">Chat</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/loops/" target="_top" class="nav">Sound Loops</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/feedback.php" target="_top" class="nav">Feedback</a></td>
+			</tr>			
+			<tr>
+				<td colspan="7" bgcolor="#0089cd"><img src="http://images.flashkit.com/graphics/blank.gif" width="1" height="1" border="0" /></td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/about.php" target="_top" class="nav">About FK</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/gallery/" target="_top" class="nav">Gallery</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/poll/index.php" target="_top" class="nav">Poll</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/textfx/start.shtml" target="_top" class="nav">FLASHtyper</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/search.php" target="_top" class="nav">Search</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/board/forumdisplay.php?forumid=2" target="_top" class="nav">Flash Help</a></td>
+				<td nowrap="nowrap" class="nav">&nbsp;&#187; <a href="/myfk2" target="_top" class="nav">myFK</a></td>
+			</tr>			
+			<tr>
+				<td Colspan="7" bgcolor="#0089cd"><img src="http://images.flashkit.com/graphics/blank.gif" width="1" height="1" border="0" /></td>
+			</tr>
+			</table>
+		</td>
+	</tr>	
+	<tr>
+		<td colspan="2" align="left">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td bgcolor="#ffffff" colspan=2><img src="http://images.flashkit.com/graphics/blank.gif" width="1" height="1" border="0" /></td>
+		</tr>
+		<tr bgcolor="#FF8300">
+			<td align="left" valign="middle">
+			<font size="4" color="White" face="Arial, Helvetica"><b>&nbsp;<i>Flash Kit- A Flash Developer Resource Site </i></b></font>
+			</td>
+			<td align="right" valign="middle">
+				<table border="0" width="240" cellspacing="0">
+                                <tr>
+                                        <td align=left width="99%" valign="middle"><a class="textboldwhite" href="http://jobs.webdeveloper.com">Flash Jobs</a></td>
+					<form name="searching" action="/search.php" method="get" onSubmit="search(); return false">
+					<td valign="middle">
+					<input type="text" name="term" value="Search Site" size="15" class="linksmall">
+					</td>
+					<td valign="middle"><input type="image" onClick="search(); return false" src="http://images.flashkit.com/graphics/button_go.gif" width="27" height="16" border="0"></td>
+					</form>
+				</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff" colspan=2><img src="http://images.flashkit.com/graphics/blank.gif" width="1" height="1" border="0" alt="spacer" /></td>
+		</tr>
+		</table>
+		</td>
+	</tr>
+	<tr bgcolor="#000099">
+		<td colspan="2"><img src="http://images.flashkit.com/graphics/blank.gif" width="1" height="2" border="0" /></td>
+	</tr>
+</table>
+<!-- End Header -->
+
+<table width="100%" cellpadding=0 cellspacing=0 border=0><tr>
+<td align=center>
+<!-- 468x60 ad tag-->
+<A HREF="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/1664364224/468x60-1/House_Flashkit_Australia_1b/fk-au02-750.gif/34343636666437663364643235393730" target="_top"><IMG SRC="http://www.flashkit.com/RealMedia/ads/Creatives/House_Flashkit_Australia_1b/fk-au02-750.gif"  ALT="The Event For Leading Edge Flash Development"  BORDER="0"></A><img src="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/1664364224/468x60-1/House_Flashkit_Australia_1b/fk-au02-750.gif/34343636666437663364643235393730?_RM_EMPTY_" Width="1" Height="1" Border="0"><!-- /468x60 ad tag --></td>
+</tr></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+	<td align=left class=small>
+	Flash Kit is a Flash Developer Community. <b><a href="/welcome.php">First time here?</a></b>	
+	</td>
+	<td valign=middle align=right class=small>
+	Members <b>378383</b> and growing! |
+	<a href="/myfk2/"><b>Personalize</b></a>
+	</td>
+</tr>
+<tr><td colspan=2><img src="http://images.flashkit.com/graphics/blank.gif" width="17" height="3"></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td colspan=2 class=blackline><img src="http://images.flashkit.com/graphics/blank.gif" width=1 height=1></td></tr>
+<tr>					
+	<td class=ymain>
+		&nbsp;Last Updated 12-November-2002
+
+	</td>
+	<td class=ysmall align=right>
+		<script language="JavaScript"><!--
+
+// Generates the info contained in the title bar. Automatically sets up the bookmark details
+
+document.write("Bookmark Us");
+
+if (navigator.appName == "Microsoft Internet Explorer")
+
+	{ document.write(" - <A href=\"javascript:window.external.AddFavorite('"+location.href+"','"+document.title+"')\">Click Here</A>");}	
+
+else if (navigator.appName == "Netscape")
+
+	{ document.write(" - Press Ctrl + D");	}
+
+document.write(" | ");
+
+document.write("<a href='http://www.flashkit.com/board/tellafriend.php?"+ location.href + "' target='_top'>Tell a friend!</a>");
+
+document.write(" | ");
+
+document.write("<a href='http://board.flashkit.com/board/register.php?action=signup' target='_top'>Join Up!</a>");
+document.write(" | ");
+
+document.write("<a href='/newsletter.php'>Newsletter</a>");
+
+//-->	
+</script>&nbsp;
+	</td>
+</tr>
+<tr><td colspan=2 class=blackline><img src="http://images.flashkit.com/graphics/blank.gif" width=1 height=1></td></tr>
+</table>
+
+<table border=0 cellpadding=0 cellspacing=8 width=100%>
+	<tr>
+		<td width="180" valign=top align=left>
+            <br />
+			<table border="0" cellpadding="0" cellspacing="0" width="180"><tr><td><img src="http://images.flashkit.com/graphics/flashkit-partners.gif" width="180" height="31" /></td></tr></table><table width="180" border="0" cellspacing="1" cellpadding="2" bgcolor="#000000"><tr><td bgcolor="#FFEDAD"><table border="0" cellspacing="2"><tr><td class="small"><img src="http://images.flashkit.com/graphics/erain_logo.gif" /><br /><a href="https://www.erain.com/store"><font face="verdana,arial" style="font-size: 8pt">Swift 3D v3 Now Available - Industry-leading 3D Flash Tool</font></a> <br /><hr /></td></tr><tr><td><a href="http://www.swishzone.com/flashkit.html"><img src="http://images.flashkit.com/graphics/swish_fkp.gif" /><br /><font face="verdana,arial" style="font-size: 8pt">Create Flash Animation in 5 minutes. Download SWiSH!</font></a><br /><hr /></td></tr><tr><td><a href="http://www.visionblazer.com/?fr=fk"><img src="http://images.flashkit.com/graphics/visionBlazer.gif" /><br />Make your own Flash Movies<br />Try VisionBlazer for Free!</a><br /><hr /></td></tr><tr><td><a href="http://www.proposalkit.com/kits/flash.htm"><img src="http://images.flashkit.com/graphics/proposalkit.gif" /><br />Formal Contract, Proposal & Estimating Tools for the Pro</a><hr /></td></tr><tr><td><a HREF="http://www.impactbuilderpro.com/index.asp?CMP=BA5046"><img src="http://images.flashkit.com/graphics/impactbuilderpro.gif" border="0"><br />Build Flash Online. Free Trial!</a><br /><hr /></td></tr><tr><td><a HREF="http://www.screentime.com/flash?s=fk8"><img src="http://images.flashkit.com/graphics/screentime_fkpartner.gif" border="0"><br />Screen Time for Flash makes Screen Saver creation easy!</a><hr /></td></tr><tr><td><script language="javascript" src="http://aff.oddcast.com/aff/banner.php?bannerId=6&affiliateId=285&newPage=0&text=Flash+3D+Animated+Characters+With+Your+Voice.+Try+It+Now%21%21%21"></script><br /><hr /></td></tr><tr><td><a href="http://www.eyeland.com/ff.php"><img src="http://images.flashkit.com/graphics/eyeland_partner.gif" /><br />Flash components, buttons, templates, animations.<hr /></td></tr><tr><td><a href="http://www.bsaa.com.au/mania"><img src="http://images.flashkit.com/graphics/bsaa.gif" /></a></td></tr></table></td></tr></table>&nbsp;<br />
+
+
+			<table width=180 border=0 cellspacing=1 cellpadding=2 bgcolor=#000000>
+   <tr>
+      <td class=smallboldwhite bgcolor="#2143DD">&#187; <a href="http://flashkit.com/store/" class="white">Visit the Flashkit Store!</a></td>
+   </tr>
+   <tr>
+      <td bgcolor="#ffffff" colspan=2 align=center>
+         <table cellspacing="2" cellpadding="0">
+            <tr>
+               <td valign=top><a href="http://linuxcentral.com/catalog/index.php3?prod_code=F000-005" target="_blank"><img src="http://images.flashkit.com/graphics/store/promo5.gif" width=75 height=75 border=0></a></td>
+               <td valign=top class=small><a href="http://linuxcentral.com/catalog/index.php3?prod_code=F000-005" target="_blank"><b>Featured Book</b></a><BR><b>Sams Teach Yourself Macromedia Flash 5 in 24 hr.</b> 
+                  Specifically written for the new Flash user.</td>
+            </tr>
+         </table>
+      </td>
+   </tr>
+</table>
+&nbsp;<BR>
+
+			Updated 2002-11-05
+<table width="180" border="0" cellspacing="1" cellpadding="2" bgcolor="#000000">
+<tr>
+	<td class="smallboldwhite" bgcolor="#2143DD"><a href="/links/" class="white">8347 Flash & Resource Links</a></td>
+</tr>
+<tr>
+	<td bgcolor="#E7EDFF" background="http://images.flashkit.com/graphics/bg_blue.gif">	
+		<table border="0" cellspacing="2">
+		<tr>
+			<td><img src="http://images.flashkit.com/graphics/icon_link.gif" width=16 height=16 border="0"></td>
+			<td class="small"><b></b> New Links Added!<br />
+			<b><a href="/links/New/">What's New</a> | <a href="/links/Ratings/">Top100</a></b></td>
+		</tr>
+		</table>
+	</td>		
+</tr>
+<tr>
+	<td bgcolor="#ffffff" colspan="2" align="center">
+		<table cellspacing="2" cellpadding="0">
+		<tr>
+            <td valign="top" class="small" colspan="2">
+                <a href="http://www.towardthesky.com" target="_blank"><b>Featured Site</b></a>
+            </td>
+		</tr>
+		<tr>
+			<td valign="top">
+                <a href="http://www.towardthesky.com">
+                <img border="no" width="70" height="58" src="http://images.flashkit.com/sites/graphics/20021018011041sky.gif" /></a>
+			</td>
+			<td valign="top">
+                <b>Towardsthesky</b><br />
+                Great work on this creative portfolio site.
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2">
+                <a href="/sites/"><img src="http://images.flashkit.com/graphics/button_archive.gif" width="53" height="15" alt="Feature Site Archive" border="0"></a>
+                <!-- <a href="/cgi-bin/links/rate.cgi?ID=708"><img src="http://images.flashkit.com/graphics/button_rate.gif" width="35" height="15" alt="Rate This Site" border="0"></a> -->
+                <a href="http://www.flashkit.com/board/showthread.php?threadid=384795"><img src="http://images.flashkit.com/graphics/button_comments.gif" width="69" height="15" alt="Read / Post Comments" border="0"></a>
+			</td>    
+		</tr>
+		<tr>
+			<form action="/search.php" method="get">
+			<td align="center" colspan="2">
+				<table cellspacing="1">
+				<tr>
+					<td valign="middle"><input type="text" size=11 name="term" class=reviews></td>
+					<td valign="middle"><input type="image" src="http://images.flashkit.com/graphics/button_search.gif" width="56" height="22" border="0" alt="Search"></td>
+				</tr>
+				</table>
+			</td>
+			</form>
+            </tr>
+            <tr>
+			<td align="center" class="smallbold" colspan="2">
+			<a href="/cgi-bin/links/jump.cgi?ID=random">Random Link</a> |
+			<a href="/cgi-bin/links/add.cgi">Add Site</a>
+			</td>
+		</tr>		
+		</table>	
+	</td>
+</tr>
+</table>
+ <br />
+
+			Updated 13-Nov-2002
+<table width=180 border=0 cellspacing=1 cellpadding=2 bgcolor=#000000><tr><td class=smallboldwhite bgcolor=#FF8300>&#187; <a href="/movies/" class="white">7120 Fla Downloads</a></td></tr><tr><td bgcolor="#FFEDAD" background="http://images.flashkit.com/graphics/bg_yellow.gif"><table border=0 cellspacing=2><tr><td><img src="http://images.flashkit.com/movies/graphics/nav_documenta.gif" width=16 height=16 border="0"></td><td class=small><b>35</b> New FLA's Added!<BR><b><a href="/movies/New/">What's&nbsp;New</a>&nbsp;|&nbsp;<a href="/movies/Ratings/">Top100</a></b></td></tr></table></td></tr><tr><td bgcolor="#ffffff" align=center><table cellspacing="2" cellpadding="0"><tr><td valign=top><a href="http://www.flashkit.com/cgi-bin/movies/jump.cgi?ID=7587"><img src="http://images.flashkit.com/movies/graphics/feature_144.gif
+" width=70 height=58 border="0"></a></td><td valign=top class=small><a href="http://www.flashkit.com/cgi-bin/movies/jump.cgi?ID=7587"><b>Feature FLA</b></a><BR>
+ A navigation interface I made for a group I'm in. Links are disabled at their behest.
+.
+</td></tr><tr><td align=center colspan=2><a href="/movies/features/"><img src="http://images.flashkit.com/graphics/button_archive.gif" width="53" height="15" alt="Feature FLA Archive" border="0"></a><a href="/cgi-bin/movies/rate.cgi?ID=7587"><img src="http://images.flashkit.com/graphics/button_rate.gif" width="35" height="15" alt="Rate This Movie" border="0"></a><!-- <a href="/board/reviews/checkreview.php?action=view&forumid=32&ID=7587&name=Unknown Tag: Title&author=Unknown Tag: Contact_Name&email=Unknown Tag: Contact_Email&website=Unknown Tag: Website&description=Unknown Tag: Description&URL=Unknown Tag: URL"><img src="http://images.flashkit.com/graphics/button_comments.gif" width="69" height="15" alt="Read / Post Comments" border="0"></a> --><!--<a href="/board/reviews/reviews_showthread.php?threadid=Unknown Tag: threadid"><img src="http://images.flashkit.com/graphics/button_comments.gif" width="69" height="15" alt="Read / Post Comments" border="0"></a>--></td></tr><tr><form action="/search.php" method="GET"><td align=center colspan=2><table cellspacing=1><tr><td valign=middle><input type="hidden" name="per" value="10"></input><input type="hidden" name="page" value="1"></input><input type="hidden" name="field" value="Description"></input><input type="hidden" name="cat" value="movies"></input><input type="text" size=11 name="term" class=reviews></td><td valign=middle><input type="image" src="http://images.flashkit.com/graphics/button_search.gif" width=56 height=22 border="0" alt="Search"></td></tr></table></td></form></tr><tr><td align=center class=smallbold colspan=2><a href="/cgi-bin/movies/jump.cgi?ID=random">Random&nbsp;Movie</a>&nbsp;|&nbsp;<a href="/cgi-bin/movies/add.cgi">Add&nbsp;Movie</a></td></tr></table></td></tr></table>
+&nbsp;<BR>
+
+			<table width=180 border=0 cellspacing=1 cellpadding=2 bgcolor=#000000>
+<tr>
+	<td bgcolor="#000000" align=center class=smallboldwhite>
+           <a href="http://www.internet.com/"><img src="http://images.flashkit.com/graphics/logos_shared/internet.gif" border=0 alt="internet.com" width=85 height=13></a><br>
+           <a href="http://www.internet.com/" class=white>The Internet & IT Network</a></td>
+</tr>
+<tr>
+	<td bgcolor="#ffffff" align=center>	
+		<table cellspacing=0 cellpadding=1 border=0 width="100%">
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/news.html">Internet News</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/stocks.html">Internet Investing</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/it.html">Internet Technology</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/win.html">Windows Internet Tech.</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/linux.html">Linux/Open Source</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/webdev.html">Web Developer</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/marketing.html">ECommerce/Marketing</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/isp.html">ISP Resources</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/asp.html">ASP Resources</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/wireless.html">Wireless Internet</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/downloads.html">Downloads</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/resources.html">Internet Resources</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/lists.html">Internet Lists</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/international.html">International</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.earthweb.com/">EarthWeb</A></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/sections/careers.html">Career Resources</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td colspan=2>&nbsp;</td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://search.internet.com">Search internet.com</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/mediakit/">Advertise</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.internet.com/corporate/">Corporate Info</a></td>
+		</tr>
+		<tr bgcolor="#ffffff">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://e-newsletters.internet.com/">Newsletters</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://e-newsletters.internet.com/mailinglists.html">E-mail Offers</a></td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+&nbsp;<BR>
+			<table width=180 border=0 cellspacing=1 cellpadding=2 bgcolor=#000000>
+<tr><td bgcolor="#000000" align=center class=smallboldwhite><a href="http://www.internet.com/partners/"><img src="http://images.flashkit.com/graphics/logos_shared/internetcommerce.gif" border=0 alt="internet.commerce" width=120 height=13></a><br><a href="http://www.internet.com/partners/" class=white>Be a Commerce Partner</a></td></tr>
+<tr><td bgcolor="#ffffff" align=center>	
+	<table cellspacing=0 cellpadding=1 border=0 width="100%">
+	<tr bgcolor="#ffffff">
+		<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+		<td class=small><!-- text ad tag--><a href="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/1820860621/cp1/DealTime_7b/CheckComputerPrices.html/34343636666437663364643235393730">Check Computer Prices</a>
+<IMG SRC="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/1820860621/cp1/DealTime_7b/CheckComputerPrices.html/34343636666437663364643235393730?_RM_EMPTY_" WIDTH=1 HEIGHT=1>
+<!-- /text ad tag --></td>
+	</tr>
+	<tr bgcolor="#eeeeee">
+		<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+		<td class=small><!-- text ad tag--><a href="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/1742031826/cp2/Top_Hosts_17c/tophosts.html/34343636666437663364643235393730">Find a Web Host</a>
+<IMG SRC="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/1742031826/cp2/Top_Hosts_17c/tophosts.html/34343636666437663364643235393730?_RM_EMPTY_" WIDTH=1 HEIGHT=1>
+<!-- /text ad tag --></td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+		<td class=small><!-- text ad tag--><a href="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/613336272/cp3/Trellian_12d/PromoteYourWebsite.html/34343636666437663364643235393730">Promote Your Website</a>
+<IMG SRC="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/613336272/cp3/Trellian_12d/PromoteYourWebsite.html/34343636666437663364643235393730?_RM_EMPTY_" WIDTH=1 HEIGHT=1>
+<!-- /text ad tag --></td>
+	</tr>
+	<tr bgcolor="#eeeeee">
+		<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+		<td class=small><!-- text ad tag--><a href="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/980956930/cp4/Moneris_Solutions_5d/CreditCardProcessing.html/34343636666437663364643235393730">CreditCard Processing</a>
+<IMG SRC="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/980956930/cp4/Moneris_Solutions_5d/CreditCardProcessing.html/34343636666437663364643235393730?_RM_EMPTY_" WIDTH=1 HEIGHT=1>
+
+<!-- /text ad tag --></td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+		<td class=small><!-- text ad tag--><a href="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/596371550/cp5/IBart.com_17c/ibart.html/34343636666437663364643235393730">Free Barter Account</a>
+<IMG SRC="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/596371550/cp5/IBart.com_17c/ibart.html/34343636666437663364643235393730?_RM_EMPTY_" WIDTH=1 HEIGHT=1>
+<!-- /text ad tag --></td>
+	</tr>
+	<tr bgcolor="#eeeeee">
+		<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+		<td class=small><!-- text ad tag--><a href="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/1355437338/cp6/Ektron_4d/TryContentManagement.html/34343636666437663364643235393730">Try Content Management</a>
+<IMG SRC="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/1355437338/cp6/Ektron_4d/TryContentManagement.html/34343636666437663364643235393730?_RM_EMPTY_" WIDTH=1 HEIGHT=1>
+<!-- /text ad tag --></td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+		<td class=small><!-- text ad tag--><a href="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/252649336/cp7/Comdex_Fall_3a/COMDEXRegistration.html/34343636666437663364643235393730">COMDEX Registration</a>
+<IMG SRC="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/252649336/cp7/Comdex_Fall_3a/COMDEXRegistration.html/34343636666437663364643235393730?_RM_EMPTY_" WIDTH=1 HEIGHT=1>
+<!-- /text ad tag --></td>
+	</tr>
+	<tr bgcolor="#eeeeee">
+		<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+		<td class=small><!-- text ad tag--><a href="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/314194718/cp8/Comdex_Fall_3b/COMDEXFreeExhibits.html/34343636666437663364643235393730">COMDEX Free Exhibits</a>
+<IMG SRC="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/314194718/cp8/Comdex_Fall_3b/COMDEXFreeExhibits.html/34343636666437663364643235393730?_RM_EMPTY_" WIDTH=1 HEIGHT=1>
+<!-- /text ad tag --></td>
+	</tr>
+	</table>	
+</td></tr>
+</table>
+&nbsp;<BR>
+
+		</td>
+		<td valign=top>
+			<!-- begin skip -->
+			<table cellpadding=0 cellspacing=0 border=0 width="100%">
+                        <tr><td align=center>
+			<A HREF="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/770182380/336x280/default/empty.gif/34343636666437663364643235393730" target="_top"><IMG SRC="http://www.flashkit.com/RealMedia/ads/Creatives/default/empty.gif"  WIDTH=2 HEIGHT=2 ALT="" BORDER=0 BORDER="0"></A><img src="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/770182380/336x280/default/empty.gif/34343636666437663364643235393730?_RM_EMPTY_" Width="1" Height="1" Border="0"></td></tr>
+			</table>
+			&nbsp;<br>
+			<!-- end skip -->
+                	<!-- text1 -->
+			<table width="100%" cellpadding=0 cellspacing=0 border=0 bgcolor="#FF8300">
+			<tr>
+				<td width=100 rowspan=2 class=textboldwhite>&nbsp;&raquo;&nbsp;Announcements</td>
+				<td width=17  rowspan=2 valign=top><img src="http://images.flashkit.com/graphics/orange_triangle.gif" width="17" height="17"></td>
+				<td width=100 bgcolor=white class=textbold>&nbsp;&raquo;&nbsp;<a href="/announce/index.shtml">Archive</a></td>
+				<td bgcolor=white align=right width=100%>&nbsp;</td>			
+			</tr>
+			<tr>
+				<td height=2><img src="http://images.flashkit.com/graphics/blank.gif" width="2" height="2"></td>
+			</tr>
+			</table>	
+			<table width="100%" border=0 cellspacing=1 cellpadding=4>
+			<tr bgcolor="#ffcc00">
+				<td class=announceback>				
+				<table border=0 cellpadding=0 cellspacing=3>
+<tr>
+<td valign=top width=50><img src="http://images.flashkit.com/graphics/announce/0036.gif" width=50 height=42></td>
+<td valign=top width="100%" class=announceback>
+<b>Today On internet.com</b><br>
+Breaking news and features from around internet.com:<br>
+<table cellspacing=0 cellpadding=1 border=0 width="100%">
+
+<tr>
+<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+<td class=announceback width="99%"><a href="http://redir.internet.com/inc/flk_1-11.13/dc.internet.com/news/article.php/1499011
+">Child Porn Law Heads to Supreme Court
+</a></td>
+</tr>
+
+<tr>
+<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+<td class=announceback width="99%"><a href="http://redir.internet.com/inc/flk_2-11.13/cyberatlas.com/big_picture/hardware/article/0,,5921_1498471,00.html
+">Semi-Good News for Semiconductor Market
+</a></td>
+</tr>
+
+<tr>
+<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+<td class=announceback width="99%"><a href="http://redir.internet.com/inc/flk_3-11.13/www.nanoelectronicsplanet.com/nanochannels/profiles/article/0,4028,10500_1498881,00.html
+">Thanks to MagiQ, Cryptography Goes Quantum
+</a></td>
+</tr>
+
+</table>
+</td></tr></table> 
+<hr noshade color="#000000" size=1>
+
+				
+<!-- EOM -->
+
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+	<td valign="top" width="50">
+         <!-- <a href="http://www.screentime.com/flash" target="_blank"> -->
+        <!-- <img src="http://images.flashkit.com/graphics/announce/screentime.jpg" width="52" height="40" border="0" /> --></a>
+    </td>
+	<td valign=top width=100% class=announceback><B>FlashKit Australia 2002, The Event for Leading Edge Flash Development</B><br />
+<p>December 5th, Sydney, Australia. FlashKit Australia 2002 is a comprehensive one-day seminar that explores the critical components of professional Flash MX development, including:</p>
+
+<UL>
+<LI>Usability and Design Standards
+<LI>Audience Measurement in Flash Applications
+<LI>Video and Audio Integration
+<LI>J2EE Application Development and Flash
+</UL>
+
+<p>For more on the agenda, visit the FlashKit Australia 2002
+<A HREF="http://www.australia.internet.com/events/fk02/agenda.html">web site</A>. </p>
+</td>
+</tr>
+</table>
+<hr noshade color="#000000" size="1">
+
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+	<td valign="top" width="50">
+<a href="http://www.macromedia.com/macromedia/proom/pr/2002/sony_clie.html" target="_blank"><img src="http://images.flashkit.com/graphics/announce/sony_mm.gif" border="no" /></a>
+    </td>
+	<td valign=top width=100% class=announceback><b>Flash Player on CLIE!</b><br />
+Macromedia and Sony have announced that Flash Player is now embedded in all CLIE NX-series devices. The new CLIE NX-series devices allow users to take photos, record voice memos, play MP3 files and surf the net using <a href="http://www.80211-planet.com/">802.11</a> technology and an optional LAN card. <a href="http://www.macromedia.com/macromedia/proom/pr/2002/sony_clie.html">more...</a>.
+</td>
+</tr>
+</table>
+<hr noshade color="#000000" size="1">
+
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+	<td valign="top" width="50">
+<a href="http://www.macromedia.com/software/flashplayer/special/beta" target="_blank"><img src="http://www.rigent.com/junk/flash-linux.gif" border="no" /></a>
+    </td>
+	<td valign=top width=100% class=announceback><b>Flash Player 6 beta for Linux, Mac and Windows released!!</b><br />
+    Macromedia has announced the release of public betas for Flash Player 6. This release introduces the long awaited Linux version and fixes quite a few things in the Mac and Windows versions. More info can be found <a href="http://www.macromedia.com/software/flashplayer/special/beta" target="_blank">here</a>.
+</td>
+</tr>
+</table>
+<hr noshade color="#000000" size="1">
+
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+	<td valign="top" width="50">
+<a href="http://www.macromedia.com/go/flashremoting/" target="_blank">
+        <img src="http://images.flashkit.com/graphics/announce/flashremoting.gif" width="52" height="40" border="0" /></a>
+    </td>
+	<td valign=top width=100% class=announceback><b>Flash Remoting MX available!!</b><br />
+    Macromedia has announced the release of Flash Remoting MX. Combined with Flash MX, .NET and JRun, Flash Remoting MX provides the essentials need to create extremely rich Internet applications, from the ground up! More info is available <a href="http://www.macromedia.com/go/flashremoting/" target="_blank">here</a>.
+</td>
+</tr>
+</table>
+
+<hr noshade color="#000000" size="1">
+
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+	<td valign="top" width="50">
+<a href="http://www.erain.com" target="_blank">
+        <img src="http://images.flashkit.com/graphics/announce/swift3dv3new.gif" width="52" height="40" border="0" /></a>
+    </td>
+	<td valign=top width=100% class=announceback><b>Drum roll please....Swift 3D v3 is now available.</b><br />
+The industry-leading 3D Flash tool just got a whole lot better. Swift 3D v3 includes new rendering capabilities (3D vector realism and photorealistic raster output) and enhanced design workflow (SmartLayer technology) unmatched by any product at any price. Visit <a href="http://www.erain.com" target="_blank">www.erain.com</a> to learn more about all the new Swift 3D additions.
+</td>
+</tr>
+</table>
+
+<hr noshade color="#000000" size="1">
+
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+	<td valign="top" width="50">
+         <a href="http://www.databasejournal.com" target="_blank">
+        <img src="http://images.flashkit.com/graphics/announce/dbj.gif" width="52" height="40" border="0" /> </a>
+    </td>
+	<td valign=top width=100% class=announceback><b>Database Journal Launched!</b><br />
+    Having troubles hitting the DB with Flash and PHP? Jupitermedia has announced the launch of <a href="http://www.databasejournal.com" target="_blank">Database Journal</a>. DBJ offers SQL courses and other database related resources for beginner to expert developers.
+</td>
+</tr>
+</table>
+<hr noshade color="#000000" size="1">
+
+<table border=0 cellpadding=0 cellspacing=3>
+<tr>
+	<td valign="top" width="50">
+        <a href="http://www.thebig3d.com" target="blank">
+        <img src="http://images.flashkit.com/graphics/announce/thebig3d.gif" width="52" height="40" border="0" /></a>
+    </td>
+	<td valign=top width=100% class=announceback><b>Think big...think 3D...think Big 3D Contest!</b><br />
+FlashKit and <a href="http://www.erain.com" target="_blank">Electric Rain</a> have joined along with many other sponsors to
+bring you The Big 3D contest. The Big 3D contest is the largest 3D web
+contest ever assembled with over $15,000 in prizes and exposure to 200,000
+people. To learn more about elevating yourself to the stats of "3D Flash
+Guru" visit <a href="http://www.thebig3d.com" target="blank">www.thebig3d.com</a>.
+</td>
+</tr>
+</table>
+
+<hr noshade color="#000000" size="1">
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+	<td valign="top" width="50">
+         <a href="http://www.eyeland.com" target="_blank">
+        <img src="http://images.flashkit.com/graphics/announce/ffeyeland.jpg" width="52" height="40" border="0" /></a>
+    </td>
+	<td valign="top" width="100%" class="announceback"><b>Eyeland in Overhaul!!</b><br />
+Eyeland Studio is currently in the process of overhauling its Flash Foundry membership product with new components, tutorials, interfaces, animations, buttons and more. Flash Foundry will be updated daily through the end of September. Check out Eyeland' Studio's growing collection of components in Flash Foundry at <a href="http://www.eyeland.com" target="_blank">www.eyeland.com</a>.
+</td>
+</tr>
+</table>
+
+				</td>
+			</tr>
+			</table>
+			<br>    
+			<table width="100%" cellpadding=0 cellspacing=0 border=0 bgcolor="#000000">
+<tr>
+	<td width=100 rowspan=2 class=textboldwhite>&nbsp;&raquo;&nbsp;Latest&nbsp;Headlines</td>
+	<td width=17  rowspan=2 valign=top><img src="http://images.flashkit.com/graphics/black_triangle.gif" width="17" height="17"></td>
+	<td width="100%" bgcolor=white class=textbold align=right><a href="http://internetnews.com"><img src="http://images.flashkit.com/graphics/logos_shared/internetnews.gif" width=113 height=13 border=0 alt="internetnews.com"></a></td>
+</tr>
+<tr>
+	<td height=2><img src="http://images.flashkit.com/graphics/blank.gif" width=2 height=2></td>
+</tr>
+</table>	
+<table width="100%" border=0 cellspacing=1 cellpadding=2 bgcolor=#000000>
+   <tr><td bgcolor="#ffffff" align=center>	
+   <table cellspacing=0 cellpadding=2 border=0 width="100%">
+
+   <tr>
+   
+      <td valign=middle class=animeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=animeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/www.internetnews.com/ec-news/article/0,,10793_1499501,00.html">End of the Beginning: Internet Sales Tax</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=homeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=homeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/www.internetnews.com/dev-news/article/0,,10792_1499561,00.html">Opera 7 Beta Launched</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=animeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=animeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/dc.internet.com/news/article/0,,10849_1499391,00.html">House OKs $903M for Cyber Security Research</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=homeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=homeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/dc.internet.com/news/article/0,,10849_1499011,00.html">Child Porn Law Heads to Supreme Court</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=animeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=animeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/www.internetnews.com/dev-news/article/0,,10792_1499321,00.html">Serious BIND Server Flaws Detected</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=homeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=homeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/www.atnewyork.com/news/article/0,,10856_1499021,00.html">AOL&#39;s Interactive Chief de Castro Departs</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=animeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=animeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/dc.internet.com/news/article/0,,10849_1499211,00.html">U.S. Indicts British Hacker</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=homeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=homeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/siliconvalley.internet.com/news/article/0,,10862_1499271,00.html">EMC: Global Replay is the Next &#39;Killer App&#39;</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=animeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=animeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/www.internetnews.com/dev-news/article/0,,10792_1499051,00.html">W3C Advances XForms 1.0</a></td></tr>
+
+   <tr>
+   
+      <td valign=middle class=homeback width=1><b>&nbsp;&raquo;&nbsp;</b></td>
+      <td valign=top width="99%" class=homeback>
+   
+   <a href="http://redir.internet.com/rss/top-news/siliconvalley.internet.com/news/article/0,,10862_1499161,00.html">OracleWorld: Partners Fall in Line</a></td></tr>
+
+   </table></td></tr>
+</table>
+&nbsp;<BR>
+
+	                <br>
+	                <!-- text2 -->
+			<table width="100%" cellpadding=0 cellspacing=0 border=0 bgcolor="#000000">
+<tr>
+	<td width=100 rowspan=2 class=textboldwhite>&nbsp;&raquo;&nbsp;FlashKit&nbsp;Newsletters</td>
+	<td width=17  rowspan=2 valign=top><img src="http://images.flashkit.com/graphics/black_triangle.gif" width="17" height="17"></td>
+	<td width="100%" bgcolor=white class=textbold align=right><img src="http://images.flashkit.com/graphics/blank.gif" width=1 height=15 alt=""></td>
+</tr>
+<tr>
+	<td><img src="http://images.flashkit.com/graphics/blank.gif" width=2 height=1></td>
+</tr>
+</table>	
+<table width="100%" border=0 cellspacing=1 cellpadding=2 bgcolor=#000000>
+   <tr><td class=homeback align=center>	
+   <p><form method=post action=http://newsletters.internet.com/cgi-bin/subscribe target=_blank>
+      <span class=textbold><a href="/newsletter.php">Free FlashKit Newsletters!</a></span><br>   
+      <input type=hidden name=Action value=subscribe>
+      <input type=hidden name=List_Name value=flashkit>
+   <input type=checkbox name=type value=html checked><span class=small><b>HTML (daily)</b></span>&nbsp;<input type=checkbox name=type value=text checked><span class=small><b>Text (weekly)</b></span><br>
+   <input class=small type=text size=20 name=Email_Address value="E-mail Address"
+          onFocus="if (this.value==this.defaultValue) {this.value='';}"><input class=small type=submit value=Join>
+   <input type=hidden name=LAST Value=THE_END>
+   </form></p>
+   </td></tr>
+</table>
+&nbsp;<BR>
+
+		</td>
+		<td width="180" valign=top align=Left> 
+        <div align="center">
+	                <link rel=stylesheet type="text/css" href="http://a1964.g.akamaitech.net/7/1964/452/000000007/www.dealtime.com/cobrands/dealtime/style.css">
+<script language=javascript>
+function dtsearch() {
+	sendflag = "false";	
+
+	if (document.frmGSRequest.keyword.value == '') {
+		alert('Please enter a keyword.');
+		return;
+	}
+	else {	
+		if (document.frmGSRequest.keyword.value != '') { 
+			location.href='http://www.dealtime.com/dt-app/GS/PartnerId-1921/BEFID-0/Keyword-' + document.frmGSRequest.keyword.value + '/IsPrd-0/LinkinId-2061772/';
+		}
+	}
+}
+</SCRIPT>
+<form name ="frmGSRequest" method="get">
+<input type="hidden" name="nFormID" VALUE="">
+<input type="hidden" name="nParentFormID" VALUE="">
+<input type="hidden" name="NavigationGroupId" VALUE="1">
+<input type="hidden" name="WeightGroupId" VALUE="1">
+<input type="hidden" name="bParent" VALUE="on">
+<input type="hidden" name="uid" VALUE="">
+<input type="hidden" name="bid" VALUE="1">
+<input type="hidden" name="Operator" value="2">
+<input type="hidden" name="linkin_id" VALUE="2061772">
+<table cellpadding="0" cellspacing="0" border="0" width="120">
+	<tr>
+		<td width="120" colspan="2"><img src="http://a1964.g.akamaitech.net/7/1964/452/000000001/www.dealtime.com/dealtime2000/images/misc/banner/compare.gif"></td>
+	</tr>
+	<tr bgcolor="#FFCC00" height="25">
+		<td width="85" align="right"><INPUT type="text" size="9" name="keyword" maxlength="50"></td>
+		<td width="35"><a href="javascript:dtsearch()"><img src="http://a1964.g.akamaitech.net/7/1964/452/000000001/www.dealtime.com/dealtime2000/images/misc/banner/go.gif" border="0"></a></td>
+	</tr>
+	<tr bgcolor="#FFCC00">
+		<td width="120" colspan="2" valign="bottom"><img src="http://a1964.g.akamaitech.net/7/1964/452/000000001/www.dealtime.com/dealtime2000/images/misc/banner/dt_logo.gif"></td>
+	</tr>
+</table>
+</form>
+<br />&nbsp;<br />
+
+        </div>
+			<!-- begin skip -->
+	                <table width="100%" cellpadding=0 cellspacing=0 border=0>
+<tr><td valign=top align=center><A HREF="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/260192295/sitetext-1/default/empty.gif/34343636666437663364643235393730" target="_top"><IMG SRC="http://www.flashkit.com/RealMedia/ads/Creatives/default/empty.gif"  WIDTH=2 HEIGHT=2 ALT="" BORDER=0 BORDER="0"></A><img src="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/260192295/sitetext-1/default/empty.gif/34343636666437663364643235393730?_RM_EMPTY_" Width="1" Height="1" Border="0"><br><!-- 125x125 ad tag--><A HREF="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/1115226792/125x125-1/House_Flashkit_Australia_1x/fk-au02-125.gif/34343636666437663364643235393730" target="_top"><IMG SRC="http://www.flashkit.com/RealMedia/ads/Creatives/House_Flashkit_Australia_1x/fk-au02-125.gif"  ALT="The Event For Leading Edge Flash Development"  BORDER="0"></A><img src="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/1115226792/125x125-1/House_Flashkit_Australia_1x/fk-au02-125.gif/34343636666437663364643235393730?_RM_EMPTY_" Width="1" Height="1" Border="0"><!-- /125x125 ad tag --></td></tr>
+</TABLE>
+&nbsp;<BR>
+
+			<table width=180 border=0 cellspacing=0 cellpadding=0><tr><td><a href="http://pro.flashkit.com/services.html"><img src="http://images.flashkit.com/graphics/fkpro_logo.gif" width=180 height=31 border=0 alt="FlashKit Classifieds"></a></td></tr></table><table width=180 border=0 cellspacing=1 cellpadding=2 bgcolor=#000000><tr><td bgcolor="#FFEDAD" valign="top">     <table border=0 cellspacing=2><tr><td valign="top"><img src="http://images.flashkit.com/graphics/icon_tute.gif" width=16 height=16 border="0"></td><td class=small>MyFlashkitPro offers its members the ability to post business related
+messages, solutions and tools on the Flashkit Web site. MyFlashKitPro can
+provide you with a unique opportunity to reach millions of potential clients
+per month!
+<p>
+Only $19.95 for a 6-month listing!
+Just click on the submit button below and follow the 4 easy steps.</p><center><a href="http://pro.flashkit.com/services.html"><img src="http://images.flashkit.com/graphics/fkpro_clickhere.gif" border="0" vspace="5"></a></center></td></tr></table></td>           </tr></table> &nbsp;<br>
+		
+			
+                        <!-- end skip -->
+			<table width="180" cellpadding="0" border="1" cellspacing="0" bgcolor="#ffffff" border-color="#000000">
+<tr>
+<td class="smallboldwhite" bgcolor="#ffffff" class="small" align="center"><a href="http://www.australia.internet.com/events/fk02/agenda.html"><img src="http://images.flashkit.com/graphics/flashkit_oz02.gif" border="no" /></a></td>
+</tr><tr>
+<td bgolor="white" class="small"><table cellpadding="4" cellspacing="0" border="0" bgcolor="white"><tr bgcolor="#ffffff"><td align="center"><font face="arial, verdana" size="1"><b>09:00 am  -â 10:00 am<br />Keynote Presentation - High Impact Flash</b></font><br /><hr /></td></tr><tr><td bgcolor="white" class="small" align="left">As the Internet steers more toward a rich media environment, popular Flash sites are already beginning to resemble other media like television and film. Gain insight into developing presentations that will not only be enjoyed but remembered and revisited again and again.</td></tr><tr><td align="center"><a href="http://www.australia.internet.com/events/fk02/agenda.html"><font face="arial, verdana">full agenda</font></a></td></tr></table></td>
+</tr>
+</table>
+<br />&nbsp;<br />
+			
+            Become a member now!
+<table width="100%" border=0 cellspacing=1 cellpadding=2 bgcolor=#000000>
+<tr>
+	<td class=smallboldwhite bgcolor="#2143DD">&#187; <a href="http://board.flashkit.com/board/index.php" class="white">Message Boards</a> | 
+	<a href="http://board.flashkit.com/board/register.php?action=signup" class="white">Join!</a>
+	</td>
+</tr>
+<tr>
+	<td bgcolor="#E7EDFF" background="http://images.flashkit.com/graphics/bg_blue.gif">	
+		<table border=0 cellspacing=2>
+		<tr>
+			<td valign=middle><img src="http://images.flashkit.com/graphics/icon_tute.gif" width=16 height=16 border="0"></td>
+			<td class=small>
+				<table align=center cellspacing=1>	
+				<form action="http://board.flashkit.com/board/search.php" method="GET">
+				<input type="hidden" name="action" value="simplesearch">
+				<tr>
+					<td valign=middle><input type="text" NAME="query" SIZE="11" MAXLENGTH="800" class=mail></td>
+					<td valign=middle><input type="image" src="http://images.flashkit.com/graphics/button_search.gif" width=56 height=22 border="0" alt="Search"></td>
+				</tr>
+				</form>
+				</table>				
+				Problems? Look here for quick answers!
+			</td>
+		</tr>
+		</table>
+	</td>		
+</tr>
+<tr>
+	<td bgcolor="#ffffff" colspan=2 align=center>	
+		<table cellspacing=0 cellpadding=1 border=0 width="100%">
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://board.flashkit.com/board/forumdisplay.php?forumid=61">Flash MX Help</a></td>
+		</tr>
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://board.flashkit.com/board/forumdisplay.php?forumid=43">The Boardroom</a></td>
+		</tr>	
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://board.flashkit.com/board/forumdisplay.php?forumid=9">Flash Site Check</a></td>
+		</tr>	
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://board.flashkit.com/board/forumdisplay.php?forumid=29">Newbies</a></td>
+		</tr>	
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://board.flashkit.com/board/forumdisplay.php?forumid=2">General Help</a></td>
+		</tr>		
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://board.flashkit.com/board/forumdisplay.php?forumid=30">Flash 5 Actionscript</a></td>
+		</tr>	
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=smallbold><a href="http://board.flashkit.com/board/index.php">37 More Boards...</a></td>
+		</tr>	
+		<tr bgcolor="#eeeeee">
+			<td align=center class=smallbold colspan=2>
+			<a href="http://board.flashkit.com/board/search.php?action=getdaily">View Today's Posts</a>
+			</td>
+		</tr>		
+		</table>	
+	</td>
+</tr>
+</table>
+&nbsp;<BR>
+
+			Updated 8-Nov-2002
+<table width="180" border="0" cellspacing="1" cellpadding="2" bgcolor="#000000"><tr><td class="smallboldwhite" bgcolor="#2143dd">&#187; <a href="/tutorials/" class="white">528 Tutorials</a></td></tr><tr><td bgcolor="#e7edff" background="http://images.flashkit.com/graphics/bg_blue.gif"><table border="0" cellspacing="2"><tr><td><img src="http://images.flashkit.com/graphics/icon_tute.gif" width="16" height="16" border="0"></td><td class="small"><b>2</b> New Tutorials Added!<br /><b><a href="/tutorials/New/">What's&nbsp;New</a>&nbsp;|&nbsp;<a href="/tutorials/Ratings/">Top100</a></b></td></tr></table></td></tr><tr><td bgcolor="#ffffff" colspan="2" align="center"><table cellspacing="0" cellpadding="2" border="0"><tr bgcolor="#ffffff"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class="small"><a href="/jump.php?type=tutorials&ID=858">Understanding objects in ActionScript</a></td></tr><tr bgcolor="#eeeeee"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class="small"><a href="/jump.php?type=tutorials&ID=857">Vectors to Speeds</a></td></tr><tr bgcolor="#ffffff"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class="small"><a href="/jump.php?type=tutorials&ID=856">Create Colored Masking Effect</a></td></tr><tr bgcolor="#eeeeee"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class=small><a href="/jump.php?type=tutorials&ID=855">Create A Communicative Preloader</a></td></tr><tr bgcolor="#ffffff"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class="small"><a href="/jump.php?type=tutorials&ID=854">attaching to MovieClips together withouth combining them</a></td></tr><tr bgcolor="#eeeeee"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class="small"><a href="/jump.php?type=tutorials&ID=853">Flash Labirynth</a></td></tr><tr bgcolor="#ffffff"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class="small"><a href="/jump.php?type=tutorials&ID=852">Variable variables in actionscript</a></td></tr><tr bgcolor="#eeeeee"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class="small"><a href="/jump.php?type=tutorials&ID=851">Consistent Animation of a Background Movie Clip Across Different Scenes</a></td></tr><tr bgcolor="#ffffff"><td valign="middle" class="smallbold">&nbsp;&raquo;</td><td class="small"><a href="/jump.php?type=tutorials&ID=850">Password Protected movies</a></td></tr><!-- <tr bgcolor="#eeeeee"><td valign=middle class=smallbold>&nbsp;&raquo;</td><td class=small><a href="/jump.php?type=tutorials&Unknown Tag: ID10">Unknown Tag: Title10</a></td></tr> --><tr><form action="/search.php" method="get"><td align="center" colspan="2"><table cellspacing="1"><tr><td valign="middle"><input type="text" size="11" name="term" class="reviews"><input type="hidden" name="per" value="10"></input><input type="hidden" name="cat" value="tutorials"></input><input type="hidden" name="page" value="1"></input></td><input type="hidden" name="field" value="Description"></input></td><td valign="middle"><input type="image" src="http://images.flashkit.com/graphics/button_search.gif" width="56" height="22" border="0" alt="Search"></td></tr></table></td></form></tr><tr><td align="center" class="smallbold" colspan="2"><a href="/jump.php?type=tutorials&ID=ID=random">Random Tute</a> |
+<a href="/cgi-bin/tutorials/add.cgi">Add Tute</a></td></tr></table></td></tr></table>
+&nbsp;<br />
+
+			<table width=180 border=0 cellspacing=1 cellpadding=2 bgcolor=#000000>
+<tr>
+	<td bgcolor="#000000" align=center class=smallboldwhite>
+           <a href="http://www.internet.com/sections/webdev.html"><img src="http://images.flashkit.com/graphics/logos_shared/internet.gif" border=0 alt="internet.com" width=85 height=13></a><br>
+           <a href="http://www.internet.com/sections/webdev.html" class=white>WebDeveloper Network</a></td>
+</tr>
+<tr>
+	<td bgcolor="#ffffff" align=center>	
+		<table cellspacing=0 cellpadding=1 border=0 width="100%">
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.Gif.com">GIF.com</a></td>
+		</tr>
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://javaboutique.internet.com">Java Boutique</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://javascript.com/">JavaScript.com</a></td>
+		</tr>
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://javascriptsource.com/">JavaScript Source</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://jobs.webdeveloper.com">Jobs</a></td>
+		</tr>
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://justsmil.com/">JustSMIL</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.scriptsearch.com">ScriptSearch</a></td>
+		</tr>
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://streamingmediaworld.com">Streaming Media World</a></td>
+		</tr>
+                <tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.voicexmlplanet.com">VoiceXML Planet</a></td>
+		</tr>
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://webhost.thelist.com">Web Hosts</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.WebDevelopersJournal.com">WebDeveloper's Journal</a></td>
+		</tr>
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://wdvl.com">WebDeveloper's Virtual Library</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://WebDeveloper.com">WebDeveloper.com</a></td>
+		</tr>
+		<tr>
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://webreference.com">WebReference.com</a></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td valign=middle class=smallbold>&nbsp;&raquo;</td>
+			<td class=small><a href="http://www.xmlfiles.com/">XML Files</a></td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+&nbsp;<BR>
+
+			<!-- begin skip -->
+			<!-- end skip -->
+		</td>
+	</tr>
+</table>
+<CENTER><!-- 468x60 ad tag2--><A HREF="http://www.flashkit.com/RealMedia/ads/click_lx.cgi/intm/webdev/www.flashkit.com/index/919057150/468x60-2/House_Content_Webinar_1b/webinar-12-12-02.gif/34343636666437663364643235393730" target="_top"><IMG SRC="http://www.flashkit.com/RealMedia/ads/Creatives/House_Content_Webinar_1b/webinar-12-12-02.gif"  ALT="Content Management From The Web To The Enterprise"  BORDER="0"></A><img src="http://www.flashkit.com/RealMedia/ads/adstream_lx.cgi/intm/webdev/www.flashkit.com/index/919057150/468x60-2/House_Content_Webinar_1b/webinar-12-12-02.gif/34343636666437663364643235393730?_RM_EMPTY_" Width="1" Height="1" Border="0"><!-- /468x60 ad tag2 --></CENTER>
+<!-- Footer -->
+<SCRIPT LANGUAGE="Javascript">
+<!--
+function jump( f ){
+   var bindex = f.selectedIndex;
+   if (f.options[bindex].value != ""){
+      var lNodeID = f.options[bindex].value;
+      window.open(lNodeID,"flashkit","toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizeable=1,width=750,height=550");
+   }
+}
+//-->
+</SCRIPT>
+
+<A NAME="newsletter"></A>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td colspan=2 class=blackline><img src="http://images.flashkit.com/graphics/blank.gif" width=1 height=1></td></tr>
+<tr>					
+	<td class=ysmall>
+		&nbsp;<script language="JavaScript"><!--
+
+// Generates the info contained in the title bar. Automatically sets up the bookmark details
+
+document.write("Bookmark Us");
+
+if (navigator.appName == "Microsoft Internet Explorer")
+
+	{ document.write(" - <A href=\"javascript:window.external.AddFavorite('"+location.href+"','"+document.title+"')\">Click Here</A>");}	
+
+else if (navigator.appName == "Netscape")
+
+	{ document.write(" - Press Ctrl + D");	}
+
+document.write(" | ");
+
+document.write("<a href='http://www.flashkit.com/board/tellafriend.php?"+ location.href + "' target='_top'>Tell a friend!</a>");
+
+document.write(" | ");
+
+document.write("<a href='http://board.flashkit.com/board/register.php?action=signup' target='_top'>Join Up!</a>");
+document.write(" | ");
+
+document.write("<a href='/newsletter.php'>Newsletter</a>");
+
+//-->	
+</script>
+	</td>
+	<td class=ymain align=right>
+	^ <a href="#top">Page Top</a>
+	</td>
+</tr>
+<tr><td colspan=2 class=blackline><img src="http://images.flashkit.com/graphics/blank.gif" width=1 height=1></td></tr>
+</table>
+<table border=0 cellpadding=0 cellspacing=4 width=100%>	
+	<tr>
+		<td valign=top width="20%"> 
+		<div class=textbold><img src="http://images.flashkit.com/graphics/board_arrow.gif" width=17 height=13 border="0" align=center><a href="/newsletter.php" class="links">Newsletter</a></div>
+		Get our weekly newsletter! Don't miss out on the latest action 
+		here at Flash Kit! <b><a href="/newsletter.php">Join Here!</a></b>	
+		</td>		
+				
+		<td width=1 valign=top bgcolor="#000000">
+		<img src="http://images.flashkit.com/graphics/blank.gif" height=1 width=1>
+		</td>
+
+		<td valign=top width="20%"> 
+        <script LANGUAGE="JavaScript">
+<!-- Begin
+function checkrequired() {
+    var fields = 0
+    var i = 0
+    var empty = true
+    var fields = document.form1.length  
+    var textvalue = ""
+
+    for (i = 0; i < fields ; i++) { 
+        switch (document.form1.elements[i].type){
+        case "select-one" :
+        case "select-multiple" :
+        if (document.form1.elements[i].selectedIndex != -1)
+        {
+            empty = false
+        }
+        break;
+        case "checkbox" :
+        if ( document.form1.elements[i].checked) {
+            empty = false
+        }  
+        break;
+        default :
+        break;
+        } 
+    }
+
+    if (!empty) {
+        document.form1.submit();
+    } else {
+        alert ("You must select at least one item.")
+    } 
+}
+//  End -->
+</script>
+	
+<form action="http://webhost.thelist.com/parse.php" method="post" name="form1">
+<input type="hidden" name="WHL_Node_Selections" value="3561"></input>
+<input type="hidden" name="type" value="business"></input>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<div class="textbold">
+<img src="http://images.flashkit.com/graphics/board_arrow.gif" width=17 height=13 border="0" align="center">Find a web host!
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<input type="checkbox" name="F" value="1"><small> CGI Access<br /></small></input>
+</td>
+</tr>
+<tr>
+<td>
+<input type="checkbox" name="K" value="1"><small> DB Support<br /></small></input>
+</td>
+</tr>
+<tr>
+<td>
+<input type="checkbox" name="G" value="1"><small> NT Servers<br /></small></input>
+</td>
+</tr>
+<tr>
+<td>
+<input type="checkbox" name="H" value="1"><small> UNIX Servers<br /></small></input>
+</td>
+</tr>
+<tr>
+<td>
+<input type="checkbox" name="Z" value="1"><small> Telnet Access<br /></small></input>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"><input type="button" value="Find Hosts" onclick="checkrequired()"></input></div>
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://webhosts.thelist.com/business.php">advanced search</a>
+</td>
+</tr>
+</table>
+</FORM>
+
+		</td>		
+
+		<td width=1 valign=top bgcolor="#000000">
+		<img src="http://images.flashkit.com/graphics/blank.gif" height=1 width=1>
+		</td>
+
+		<td valign=top width="20%"> 
+		<div class=textbold><img src="http://images.flashkit.com/graphics/board_arrow.gif" width=17 height=13 border="0" align=center>Contact&nbsp;Us!</div>
+		<a href="/feedback.php">Webmaster</a><BR>
+		<a href="mailto:adsales@internet.com">Advertising</a><BR>
+		<a href="/submissions/">Submissions</a><BR>
+		<a href="/board/index.php" target="_top">Flash Help</a>
+        <br />&nbsp;<br />
+		<div class="textbold"><img src="http://images.flashkit.com/graphics/board_arrow.gif" width=17 height=13 border="0" align=center>About&nbsp;Flashkit</div>
+		<a href="/about.php" target="_top">About&nbsp;Us</a><BR>
+		<a href="/awards.php" target="_top">Site&nbsp;Awards</a>		
+		</td>
+
+		<td width=1 valign=top bgcolor="#000000">
+		<img src="http://images.flashkit.com/graphics/blank.gif" height=1 width=1>
+		</td>
+
+		<td valign=top width="20%"> 
+		<div class=textbold><img src="http://images.flashkit.com/graphics/board_arrow.gif" width=17 height=13 border="0" align=center>Link to Us!</div>
+		<a href="/link.php">Buttons, Banners, Logos</a><BR>
+		Feel free to link to us! We appreciate it!
+		</td>
+
+		<td width=1 valign=top bgcolor="#000000">
+		<img src="http://images.flashkit.com/graphics/blank.gif" height=1 width=1>
+		</td>
+
+		<form name="list">
+		<td valign=top width="20%"> 
+		<div class=textbold><img src="http://images.flashkit.com/graphics/board_arrow.gif" width=17 height=13 border="0" align=center>Flash Resources</div>
+			<div align=center>
+			<SELECT NAME="jumplist" onChange="jump(this);" class="smalltext">
+			<OPTION VALUE="">---- Flash Links ----</option>
+			<OPTION VALUE="http://www.virtual-fx.net">Virtual F/X</option>
+	        <OPTION VALUE="http://www.moock.org">Colin Moock</option>
+			<OPTION VALUE="http://www.flashzone.com">Flashzone</option>
+			<OPTION VALUE="http://www.coolhomepages.com">Cool Home Pages</option>
+			<OPTION VALUE="http://www.flashguru.co.uk">Flashguru</option>
+	        <OPTION VALUE="http://www.flash.com">Macromedia</option>
+			<OPTION VALUE="http://www.thelinkz.com">thelinkz.com</option>
+			<OPTION VALUE="http://www.shockfusion.com">ShockFusion</option>
+	        <OPTION VALUE="http://www.cyber-college.de">Cybercollege</option>
+			<OPTION VALUE="http://66.70.72.50">Were Here</option>					
+			</SELECT><BR>
+			<A HREF="http://www.flashkit.com/cgi-bin/links/add.cgi" target="_top">Suggest a Link!</a>
+			</div>
+		</td>
+		</form>
+	</tr>
+</table>
+<table cellpadding=0 cellspaing=0 border=0 width="100%">
+	<tr><td bgcolor="#000000"><img src="http://images.flashkit.com/graphics/blank.gif" height=1 width=1></td></tr>
+	<tr><td><img src="http://images.flashkit.com/graphics/blank.gif" height=4 width=1></td></tr>
+	<tr><td align=center>			
+		&copy 2002 Jupitermedia Corp. All Rights Reserved.
+		<BR>
+		<a href="http://www.internet.com/corporate/legal.html" target="_blank">Legal Notices</a>, <a href="http://www.internet.com/corporate/legal.html" target="_blank">Reprints</a>, 
+		<a href="http://www.internet.com/corporate/privacy/privacypolicy.html" target="_blank">Privacy Policy</a>
+	</td></tr>
+</table>
+<!-- End Footer -->
+
+
+ 
+
+</body>
+</html>

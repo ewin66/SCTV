@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9C63B36B-335B-42DA-ACAD-50C47885D655}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SCTVTelevision</RootNamespace>
+    <AssemblyName>SCTVTelevision</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.MSFlexGridLib, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\AxInterop.MSFlexGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DirectX.Capture, Version=1.0.1122.23301, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\DirectX.Capture.dll</HintPath>
+    </Reference>
+    <Reference Include="DShowNET, Version=1.0.0.1, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\DShowNET.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.ConfigurationManagement, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\Microsoft.ApplicationBlocks.ConfigurationManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.ConfigurationManagement.Interfaces, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\Microsoft.ApplicationBlocks.ConfigurationManagement.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.ExceptionManagement, Version=1.0.1307.35254, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\Microsoft.ApplicationBlocks.ExceptionManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces, Version=1.0.1307.35253, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xml.XQuery, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCTV3rdPartyDLLs\Microsoft.Xml.XQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AsyncOperation.cs" />
+    <Compile Include="channelListsArrayList.cs" />
+    <Compile Include="ColumnStyle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ConfigurationData.cs" />
+    <Compile Include="conflictDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomHighlight.cs" />
+    <Compile Include="CustomHighlightCollection.cs" />
+    <Compile Include="favorites.cs" />
+    <Compile Include="favoritesArrayList.cs" />
+    <Compile Include="favoritesCollection.cs" />
+    <Compile Include="favoritesComparer.cs" />
+    <Compile Include="favoritesListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="favoritesOrganizer.cs" />
+    <Compile Include="FileNameSelector.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mediaGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="mediaHandler.cs" />
+    <Compile Include="objects\listings.cs" />
+    <Compile Include="playSchedule.cs" />
+    <Compile Include="playScheduleArrayList.cs" />
+    <Compile Include="playScheduleCollection.cs" />
+    <Compile Include="playScheduleComparer.cs" />
+    <Compile Include="playScheduleListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="playScheduleOrganizer.cs" />
+    <Compile Include="ProcessCaller.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgrammeOrganizer.cs" />
+    <Compile Include="ProgramSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ColumnStyle.resx">
+      <DependentUpon>ColumnStyle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="conflictDisplay.resx">
+      <DependentUpon>conflictDisplay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="favoritesListView.resx">
+      <DependentUpon>favoritesListView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mediaGridView.resx">
+      <DependentUpon>mediaGridView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="playScheduleListView.resx">
+      <DependentUpon>playScheduleListView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgramSettingsForm.resx">
+      <DependentUpon>ProgramSettingsForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TVGridView.resx">
+      <DependentUpon>TVGridView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TVListView.resx">
+      <DependentUpon>TVListView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TVRichTextBox.resx">
+      <DependentUpon>TVRichTextBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TVShowNotificationListView.resx">
+      <DependentUpon>TVShowNotificationListView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TVViewer.resx">
+      <DependentUpon>TVViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="config\xmltv.dtd" />
+    <None Include="Images\notificationBar\darkBlueBackground1.psp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Images\notificationBar\lightBlueLogoBackground1.psp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="myTV\.xmltv\tv_grab_na_dd.conf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="myTV\doc\COPYING" />
+    <None Include="myTV\doc\QuickStart" />
+    <None Include="myTV\README">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="myTV\README.tv_check">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="myTV\share\xmltv\tv_grab_de_tvtoday\channel_ids">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="myTV\share\xmltv\tv_grab_it\channel_ids">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="myTV\share\xmltv\tv_grab_nl\channels">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="myTV\share\xmltv\tv_grab_uk_rt\channel_ids">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="myTV\xmltv.dtd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ShowNotification.cs" />
+    <Compile Include="ShowNotificationArrayList.cs" />
+    <Compile Include="ShowNotificationCollection.cs" />
+    <Compile Include="ShowNotificationComparer.cs" />
+    <Compile Include="ShowNotificationOrganizer.cs" />
+    <Compile Include="TaskbarNotifier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TVChannel.cs" />
+    <Compile Include="TVComparer.cs" />
+    <Compile Include="TVException.cs" />
+    <Compile Include="TVGridView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TVListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TVProgramme.cs" />
+    <Compile Include="TVRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TVShowNotificationListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TVViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilities\DataReceivedEventArgs.cs" />
+    <Compile Include="utilities\StringParser.cs" />
+    <Compile Include="WAVFileNameSelector.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\channelLists.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\compressors.txt" />
+    <Content Include="config\favorites.xml" />
+    <Content Include="config\fileTypes.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\locations.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\myTV.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="config\notifications.xml" />
+    <Content Include="config\playSchedules.xml" />
+    <Content Include="config\record.xml" />
+    <Content Include="Images\close.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\notificationBar\darkBlueBackground.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\notificationBar\darkBlueBackgroundBar.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\notificationBar\darkBlueBackgroundBar.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\notificationBar\darkBlueBar.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\notificationBar\darkBlueLeft.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\notificationBar\darkBlueRight.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\notificationBar\lightBlueLogoBackground.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\notificationBar\lightBlueLogoBackground.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="myTV\doc\man\date_formats.txt" />
+    <Content Include="myTV\doc\man\tv_cat.txt" />
+    <Content Include="myTV\doc\man\tv_check.txt" />
+    <Content Include="myTV\doc\man\tv_extractinfo_en.txt" />
+    <Content Include="myTV\doc\man\tv_grab_de_tvtoday.txt" />
+    <Content Include="myTV\doc\man\tv_grab_dk.txt" />
+    <Content Include="myTV\doc\man\tv_grab_es.txt" />
+    <Content Include="myTV\doc\man\tv_grab_es_digital.txt" />
+    <Content Include="myTV\doc\man\tv_grab_fi.txt" />
+    <Content Include="myTV\doc\man\tv_grab_fr.txt" />
+    <Content Include="myTV\doc\man\tv_grab_huro.txt" />
+    <Content Include="myTV\doc\man\tv_grab_it.txt" />
+    <Content Include="myTV\doc\man\tv_grab_na_dd.txt" />
+    <Content Include="myTV\doc\man\tv_grab_na_icons.txt" />
+    <Content Include="myTV\doc\man\tv_grab_nl.txt" />
+    <Content Include="myTV\doc\man\tv_grab_nl_wolf.txt" />
+    <Content Include="myTV\doc\man\tv_grab_no.txt" />
+    <Content Include="myTV\doc\man\tv_grab_pt.txt" />
+    <Content Include="myTV\doc\man\tv_grab_se.txt" />
+    <Content Include="myTV\doc\man\tv_grab_uk_rt.txt" />
+    <Content Include="myTV\doc\man\tv_grep.txt" />
+    <Content Include="myTV\doc\man\tv_imdb.txt" />
+    <Content Include="myTV\doc\man\tv_remove_some_overlapping.txt" />
+    <Content Include="myTV\doc\man\tv_sort.txt" />
+    <Content Include="myTV\doc\man\tv_split.txt" />
+    <Content Include="myTV\doc\man\tv_to_latex.txt" />
+    <Content Include="myTV\doc\man\tv_to_text.txt" />
+    <Content Include="myTV\doc\tv_check_doc.html" />
+    <Content Include="myTV\doc\tv_check_doc.jpg" />
+    <Content Include="myTV\myTV.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="myTV\xmltv.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="speech\vocab\XMLMain.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="config\speech\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

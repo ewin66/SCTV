@@ -1,0 +1,10 @@
+<Root>
+	<EffectList>
+		<Effect EffectID="A8920A28-9974-480A-A981-6487DA041EAD"
+		Name="Effect14"
+		Description="Rain"
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43"
+		ImageRelativePath="Components\VisualEffects\Effect14\tn.bmp"
+		DataRelativePath="Components\VisualEffects\Effect14\config.ver"/>
+	</EffectList>
+</Root>

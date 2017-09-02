@@ -1,0 +1,104 @@
+<!-- 409 = american english -->
+
+<GRAMMAR LANGID="409">
+	<DEFINE>
+		<!--<ID NAME="RID_Mute" VAL="5"></ID>-->
+		<ID NAME="RID_showInformation" VAL="10"></ID>
+		<ID NAME="RID_futureAirDates" VAL="20"></ID>
+		<ID NAME="RID_previousChannel" VAL="30"></ID>
+		<ID NAME="RID_Space" VAL="40"></ID>
+		<ID NAME="RID_BackSpace" VAL="50"></ID>
+		<!--<ID NAME="RID_volumeDown" VAL="60"></ID>
+		<ID NAME="RID_volumeUp" VAL="70"></ID>-->
+		<ID NAME="RID_mediaLibrary" VAL="80"></ID>
+		<ID NAME="RID_king" VAL="90"></ID>
+		<ID NAME="RID_stacy" VAL="91"></ID>
+		<ID NAME="RID_Escape" VAL="102"></ID>
+		<ID NAME="RID_scan" VAL="103"></ID>
+		
+		<!--<ID NAME="RID_Zero" VAL="0"></ID>
+		<ID NAME="RID_One" VAL="1"></ID>
+		<ID NAME="RID_Two" VAL="2"></ID>
+		<ID NAME="RID_Three" VAL="3"></ID>
+		<ID NAME="RID_Four" VAL="4"></ID>
+		<ID NAME="RID_Five" VAL="5"></ID>
+		<ID NAME="RID_Six" VAL="6"></ID>
+		<ID NAME="RID_Seven" VAL="7"></ID>
+		<ID NAME="RID_Eight" VAL="8"></ID>
+		<ID NAME="RID_Nine" VAL="9"></ID>-->
+	</DEFINE>
+
+	<!--<RULE NAME="Mute" ID="RID_Mute" TOPLEVEL="ACTIVE">
+		<P>mute</P>
+	</RULE>-->
+	<RULE NAME="curentShowInformation" ID="RID_showInformation" TOPLEVEL="ACTIVE">
+		<P>show information</P>
+	</RULE>
+	<RULE NAME="futureAirDates" ID="RID_futureAirDates" TOPLEVEL="ACTIVE">
+		<P>future air dates</P>
+	</RULE>
+	<RULE NAME="previousChannel" ID="RID_previousChannel" TOPLEVEL="ACTIVE">
+		<P>previous channel</P>
+	</RULE>
+	<RULE NAME="Space" ID="RID_Space" TOPLEVEL="ACTIVE">
+		<P>channel up</P>
+	</RULE>
+	<RULE NAME="BackSpace" ID="RID_BackSpace" TOPLEVEL="ACTIVE">
+		<P>channel down</P>
+	</RULE>
+	<RULE NAME="scan" ID="RID_scan" TOPLEVEL="ACTIVE">
+		<L>
+			<P>scan up</P>
+			<P>scan down</P>
+			<P>stop</P>
+		</L>
+	</RULE>
+	<!--<RULE NAME="volumeUp" ID="RID_volumeUp" TOPLEVEL="ACTIVE">
+		<P>volume up</P>
+	</RULE>
+	<RULE NAME="volumeDown" ID="RID_volumeDown" TOPLEVEL="ACTIVE">
+		<P>volume down</P>
+	</RULE>-->
+	<RULE NAME="mediaLibrary" ID="RID_mediaLibrary" TOPLEVEL="ACTIVE">
+		<P>media library</P>
+	</RULE>
+	<RULE NAME="king" ID="RID_king" TOPLEVEL="ACTIVE">
+		<P>who is the master</P>
+	</RULE>
+	<RULE NAME="stacy" ID="RID_stacy" TOPLEVEL="ACTIVE">
+		<P>who is the fairest of them all</P>
+	</RULE>
+	<RULE NAME="Escape" ID="RID_Escape" TOPLEVEL="ACTIVE">
+		<P>close</P>
+	</RULE>	
+	<!--<RULE NAME="Zero" ID="RID_Zero" TOPLEVEL="ACTIVE">
+		<P DISP="0">zero</P>
+	</RULE>
+	<RULE NAME="One" ID="RID_One" TOPLEVEL="ACTIVE">
+		<P DISP="1">one</P>
+	</RULE>
+	<RULE NAME="Two" ID="RID_Two" TOPLEVEL="ACTIVE">
+		<P DISP="2">two</P>
+	</RULE>
+	<RULE NAME="Three" ID="RID_Three" TOPLEVEL="ACTIVE">
+		<P DISP="3">three</P>
+	</RULE>
+	<RULE NAME="Four" ID="RID_Four" TOPLEVEL="ACTIVE">
+		<P DISP="4">four</P>
+	</RULE>
+	<RULE NAME="Five" ID="RID_Five" TOPLEVEL="ACTIVE">
+		<P DISP="5">five</P>
+	</RULE>
+	<RULE NAME="Six" ID="RID_Six" TOPLEVEL="ACTIVE">
+		<P DISP="6">six</P>
+	</RULE>
+	<RULE NAME="Seven" ID="RID_Seven" TOPLEVEL="ACTIVE">
+		<P DISP="7">seven</P>
+	</RULE>
+	<RULE NAME="Eight" ID="RID_Eight" TOPLEVEL="ACTIVE">
+		<P DISP="8">eight</P>
+	</RULE>
+	<RULE NAME="Nine" ID="RID_Nine" TOPLEVEL="ACTIVE">
+		<P DISP="9">nine</P>
+	</RULE>-->
+</GRAMMAR>

@@ -1,0 +1,11 @@
+[autorun]
+open = Setup.exe
+icon = Setup.exe
+
+[DeviceInstall]
+DriverPath="LifeCam\Setup\Files\Driver32"
+DriverPath="LifeCam\Setup\Files\Driver64"
+HardwareId="USB\VID_045E&PID_00F4&MI_00","USB\VID_045E&PID_00F4&MI_01"
+HardwareId="USB\VID_045E&PID_00F5&MI_00","USB\VID_045E&PID_00F5&MI_01"
+HardwareId="USB\VID_045E&PID_00F7&MI_00","USB\VID_045E&PID_00F7&MI_01"
+HardwareId="USB\VID_045E&PID_00F8&MI_00","USB\VID_045E&PID_00F8&MI_02"

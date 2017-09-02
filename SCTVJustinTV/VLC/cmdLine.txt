@@ -1,0 +1,18 @@
+--qt-display-mode=2 dshow:// --sout=\"#transcode{vcodec=mp4v,vb=1024,fps=30,width=320,acodec=mpga,ab=128,scale=1,channels=2,deinterlace,audio-sync}:duplicate{dst=rtp{mux=ts,dst=127.0.0.1,port=1234,ttl=10,sdp=file://C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Debug\VLC\testing.sdp},dst=standard{access=file,mux=ps,dst=\"C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Debug\videos\\testing_CopyOfFile.cel\"},dst=display{noaudio}\"}
+
+
+//displays camera locally and never seems to connect on justin.tv
+--qt-display-mode=2 dshow:// :dshow-vdev="Logitech Webcam 250" :dshow-adev= --sout="#transcode{vcodec=mp4v,vb=1024,fps=30,width=320,acodec=mpga,ab=128,scale=1,channels=2,deinterlace,audio-sync}:duplicate{dst=rtp{mux=ts,dst=127.0.0.1,port=1244,ttl=10,sdp=file://C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Debug\vlc\vlc_1244.sdp},dst=standard{access=file,mux=ps,dst="C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Debug\videos\11-18-2010-16-29-4_Logitech_Webcam_250.cel"},dst=display{noaudio}"}
+
+//works with justin
+dshow:// :dshow-vdev="Logitech Webcam 250" :dshow-adev= --sout="#transcode{venc=x264{keyint=60,idrint=2},vcodec=h264,vb=1800,acodec=mp4a,ab=32,channels=2,samplerate=96000}:rtp{dst=127.0.0.1,port=1234,ttl=10,sdp=file://C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Debug\vlc\vlc_1234.sdp}"
+
+
+
+//plays locally and is making the correct files for justin(should be working)
+dshow:// :dshow-vdev="Logitech Webcam 250" :dshow-adev= --sout="#transcode{venc=x264{keyint=60,idrint=2},vcodec=h264,vb=1800,acodec=mp4a,ab=32,channels=2,samplerate=96000}:duplicate{dst=rtp{dst=127.0.0.1,port=1234,ttl=10,sdp=file://C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Debug\vlc\vlc_1.sdp},dst=display{noaudio}}"
+
+
+//saves file but the file doesn't play
+dshow:// :dshow-vdev="Logitech Webcam 250" :dshow-adev= --sout="#transcode{venc=x264{keyint=60,idrint=2},vcodec=h264,vb=1800,acodec=mp4a,ab=32,channels=2,samplerate=96000}:duplicate{dst=rtp{dst=127.0.0.1,port=1234,ttl=10,sdp=file://C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Debug\vlc\vlc_1.sdp},dst=display{noaudio},dst=standard{access=file,mux=ps,dst="C:\utilities\programming\projects\SCTV2\SCTVJustinTV\bin\Debug\videos\test-1-_Logitech_Webcam_250.cel"}}"
+

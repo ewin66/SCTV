@@ -1,0 +1,10 @@
+﻿<Root>
+	<EffectList>
+		<Effect EffectID="55D735BB-D3BD-4A2B-893A-7EF4592E4941" 
+		Name="Effect36" 
+		Description="Foul" 
+		VERCLSID="CD0F4A49-CD24-4ABF-AE66-F73D527DAA43" 
+		ImageRelativePath="Components\VisualEffects\Effect36\tn.bmp" 
+		DataRelativePath="Components\VisualEffects\Effect36\config.ver"/>
+	</EffectList>
+</Root>

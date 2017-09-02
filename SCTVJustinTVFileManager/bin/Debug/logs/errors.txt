@@ -1,0 +1,112 @@
+11/18/2010 11:19 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 11:32 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 11:33 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 11:41 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 11:42 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 11:44 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 11:59 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 12:02 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 12:39 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 12:43 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 12:47 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/18/2010 12:50 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 10:41 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 10:43 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 10:44 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 11:37 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 11:46 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record)
+   at SCTVJustinTVFileManager.FileManager.fillListView()
+11/19/2010 11:51 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 11:54 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 11:54 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 161
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 71
+11/19/2010 11:56 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 11:57 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 161
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 71
+11/19/2010 11:59 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 11:59 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 161
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 71
+11/19/2010 11:59 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/19/2010 11:59 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 161
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 71
+11/20/2010 12:47 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 12:48 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 12:49 AM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 161
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 72
+11/20/2010 12:51 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 12:52 AM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record)
+   at SCTVJustinTVFileManager.FileManager.fillListView()
+11/20/2010 12:56 AM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 3:30 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 3:30 PM : String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.DateTime.Parse(String s)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 148
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 66
+11/20/2010 3:31 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 3:32 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 3:57 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 7:52 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 7:53 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 7:53 PM : Index was outside the bounds of the array.
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 145
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 66
+11/20/2010 7:54 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 8:01 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record)
+   at SCTVJustinTVFileManager.FileManager.fillListView()
+11/20/2010 8:06 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 8:08 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 141
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 72
+11/20/2010 8:09 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 8:10 PM : Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record) in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 141
+   at SCTVJustinTVFileManager.FileManager.fillListView() in C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\FileManager.cs:line 72
+11/20/2010 8:10 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 8:12 PM : String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.DateTime.Parse(String s)
+   at SCTVJustinTVFileManager.FileManager.createListViewItem(JustinRecord record)
+   at SCTVJustinTVFileManager.FileManager.fillListView()
+11/20/2010 8:14 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 8:18 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 8:20 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
+11/20/2010 8:22 PM : Invalid file type: C:\utilities\programming\projects\SCTV2\SCTVJustinTVFileManager\bin\Debug\videoFiles\playFLV.html
