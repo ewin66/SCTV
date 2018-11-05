@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.797</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-01191BF7621</Company_UIN>
+    <Company_Description></Company_Description>
+    <Product_UIN>APP-01191B72D3</Product_UIN>
+    <Publish_on_CD>FALSE</Publish_on_CD>
+    <Search_String>SCTV</Search_String>
+    <Search_Engine_Search_String>SCTV</Search_Engine_Search_String>
+    <RSProductType></RSProductType>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Search_String_Unique></Search_String_Unique>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>ScTech</Company_Name>
+    <Address_1>2915 Stonehaven dr, Fort Collins, CO</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Fort Collins</City_Town>
+    <State_Province>Colorado</State_Province>
+    <Zip_Postal_Code>80525</Zip_Postal_Code>
+    <Country>United States of America</Country>
+    <Company_WebSite_URL>https://snicklefritz.itch.io/sctv</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Bob</Contact_First_Name>
+      <Contact_Last_Name>Moncivias</Contact_Last_Name>
+      <Contact_Email>bob@sctechllc.com</Contact_Email>
+      <Author_Email>bob@sctechllc.com</Author_Email>
+      <Author_First_Name>Bob</Author_First_Name>
+      <Author_Last_Name>Moncivias</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>bob@sctechllc.com</Sales_Email>
+      <Support_Email>bob@sctechllc.com</Support_Email>
+      <General_Email>bob@sctechllc.com</General_Email>
+      <Sales_Phone>720-608-0095</Sales_Phone>
+      <Support_Phone>720-608-0095</Support_Phone>
+      <General_Phone>720-608-0095</General_Phone>
+      <Fax_Phone>720-608-0095</Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage></LinkedinPage>
+    <TwitterCompanyPage></TwitterCompanyPage>
+    <FacebookCompanyPage></FacebookCompanyPage>
+    <CompanyStorePage></CompanyStorePage>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>bob@sctechllc.com</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Bob</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Moncivias</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Contact_Email>bob@sctechllc.com</Site_Contact_Email>
+    <Site_Contact_First_Name>Bob</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Moncivias</Site_Contact_Last_Name>
+    <Site_Site_Title>SCTV</Site_Site_Title>
+    <Site_Site_URL>http://snicklefritz.itch.io/sctv</Site_Site_URL>
+    <Site_Description_100>SCTV is a Home Multimedia Player, Media Library and Media Recorder.</Site_Description_100>
+    <Site_Description_250>SCTV is a Full Feature Home Multimedia Player, Media Library and Media Recorder.  It is designed to Play and Categorize all of your media files in one easy to navigate Media Library.  SCTV runs as a set top box running Windows.</Site_Description_250>
+    <Site_Description_450>SCTV is a Full Feature Home Multimedia Player, Media Library and Media Recorder.  It is designed to Play and Categorize all of your media files in one easy to navigate Media Library.  SCTV runs as a set top box running Windows. SCTV is compatible with many optional accessories including remote controls, wireless mouse and keyboard, custom sound systems, etc.</Site_Description_450>
+    <Site_Keywords>Home Theatre, Multimedia, Media Player, Movies, DVD Player, DVD Recorder, Movie Library, Audio Player, Music Library, TV Show Library, Multimedia Library, DVD Library, Multimedia Player</Site_Keywords>
+  </Site>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+  </Dynamic_PAD>
+  <Program_Info>
+    <File_Info>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
+      <File_Size_Bytes>15499264</File_Size_Bytes>
+      <File_Size_K>15136</File_Size_K>
+      <File_Size_MB>14.78</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <Program_Name>SCTV</Program_Name>
+    <Program_Version>3.0.0.9</Program_Version>
+    <Program_Release_Month>09</Program_Release_Month>
+    <Program_Release_Day>27</Program_Release_Day>
+    <Program_Release_Year>2017</Program_Release_Year>
+    <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_System_Requirements>Windows, .NET 4</Program_System_Requirements>
+    <Program_Category_Class>Audio &amp; Multimedia::Other</Program_Category_Class>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Home Theatre,Multimedia Player,Multimedia,Audio,Other</Program_Categories>
+    <Limitations>No Limitations</Limitations>
+    <Program_Cost_Other>0.00</Program_Cost_Other>
+    <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+    <Program_Change_Info>This is a new release, there are no changes.</Program_Change_Info>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <FacebookProductPage></FacebookProductPage>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://snicklefritz.itch.io/sctv</Application_Info_URL>
+      <Application_Order_URL>https://snicklefritz.itch.io/sctv</Application_Order_URL>
+      <Application_Icon_URL>https://www.dropbox.com/s/2lbzw6nop3d07eb/tv_icon.gif?dl=1&amp;icon.gif</Application_Icon_URL>
+      <Application_Screenshot_URL>https://www.dropbox.com/s/u041scnmohfy80z/screenshot.gif?dl=1&amp;screenshot.gif</Application_Screenshot_URL>
+      <Application_XML_File_URL>http://www.dropbox.com/s/2alpjlyby814usx/SCTV_pad.xml?dl=1&amp;pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://drive.google.com/uc?authuser=0&amp;id=0B_vRT75tpIZnekZKekNpTWp3SU0&amp;export=download</Primary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>SCTV can be freely distributed.  Have Fun!</Distribution_Permissions>
+    <EULA>Generic EULA template
+
+End-User License Agreement ("Agreement")
+
+Last updated: (add date)
+
+Please read this End-User License Agreement ("Agreement") carefully before clicking the "I Agree" button, downloading or using My Application (change this) ("Application").
+
+By clicking the "I Agree" button, downloading or using the Application, you are agreeing to be bound by the terms and conditions of this Agreement.
+
+If you do not agree to the terms of this Agreement, do not click on the "I Agree" button and do not download or use the Application.
+
+License
+
+My Company (change this) grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the Application solely for your personal, non-commercial purposes strictly in accordance with the terms of this Agreement.
+
+Restrictions
+
+You agree not to, and you will not permit others to:
+
+a) license, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the Application or make the Application available to any third party.
+
+The Restrictions section is for applying certain restrictions on the app usage, e.g. user can't sell app, user can't distribute the app. For the full disclosure section, create your own EULA &lt;https://termsfeed.com/eula/generator/?utm_source=Generic&amp;utm_medium=DOCX&amp;utm_campaign=EULA+Templates&amp;utm_nooverride=1&gt;.	
+
+Modifications to Application
+
+My Company (change this) reserves the right to modify, suspend or discontinue, temporarily or permanently, the Application or any service to which it connects, with or without notice and without liability to you.
+
+The Modifications to Application section is for apps that will be updated or regularly maintained. For the full disclosure section, create your own EULA &lt;https://termsfeed.com/eula/generator/?utm_source=Generic&amp;utm_medium=DOCX&amp;utm_campaign=EULA+Templates&amp;utm_nooverride=1&gt;.	
+
+
+
+Term and Termination
+
+This Agreement shall remain in effect until terminated by you or My Company (change this). 
+
+My Company (change this) may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+
+This Agreement will terminate immediately, without prior notice from My Company (change this), in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your mobile device or from your desktop.
+
+Upon termination of this Agreement, you shall cease all use of the Application and delete all copies of the Application from your mobile device or from your desktop.
+
+Severability
+
+If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+Amendments to this Agreement
+
+My Company (change this) reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material we will provide at least 30 (changes this) days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+Contact Information
+
+If you have any questions about this Agreement, please contact us.</EULA>
+  </Permissions>
+  <Allmyapps>
+    <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
+  </Allmyapps>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Home Theatre, Multimedia, Media Player, Movies, DVD Player, DVD Recorder, Movie Library, Audio Player, Music Library, TV Show Library, Multimedia Library, DVD Library, Multimedia Player</Keywords>
+      <Char_Desc_45>Home Multimedia Player, Library and Recorder.</Char_Desc_45>
+      <Char_Desc_80>SCTV is a Home Multimedia Player, Media Library and Media Recorder.</Char_Desc_80>
+      <Char_Desc_250>SCTV is a Full Feature Home Multimedia Player, Media Library and Media Recorder.  It is designed to Play and Categorize all of your media files in one easy to navigate Media Library.  SCTV runs as a set top box running Windows.</Char_Desc_250>
+      <Char_Desc_450>SCTV is a Full Feature Home Multimedia Player, Media Library and Media Recorder.  It is designed to Play and Categorize all of your media files in one easy to navigate Media Library.  SCTV runs as a set top box running Windows. SCTV is compatible with many optional accessories including remote controls, wireless mouse and keyboard, custom sound systems, etc.</Char_Desc_450>
+      <Char_Desc_2000>The media library displays a categorized list of all available media files.  As you highlight the media files you will be able to see data specific to that file, things like description, ratings,  reviews and odd facts taken from the IMDB data base.  I would also like to add user ratings and comments and the ability to password protect media files, so only those who should be viewing a movie can.
+The media library can be pointed to any number of local and network locations to find and display available media.  It will automatically watch and update itself when new files are added to these locations.
+The media player plays our media files and displays information about the currently running file.  As the file is playing you are able to control all playback functions as well as view current position in the file and view the next queued media file.  You will be able to view information about current media including a description, ratings,  reviews and odd facts taken from the IMDB data base.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
