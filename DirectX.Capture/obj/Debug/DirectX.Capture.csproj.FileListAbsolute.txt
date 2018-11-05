@@ -1,3 +1,4 @@
+<<<<<<< .mine
 D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
 D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.dll
 D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
@@ -17,3 +18,31 @@ D:\utilities\Programming\c#\SCTV2\DirectX.Capture\bin\Debug\DShowNET.dll
 D:\utilities\Programming\c#\SCTV2\DirectX.Capture\obj\Debug\DirectX.Capture.csprojResolveAssemblyReference.cache
 D:\utilities\Programming\c#\SCTV2\DirectX.Capture\obj\Debug\DirectX.Capture.dll
 D:\utilities\Programming\c#\SCTV2\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+D:\utilities\Programming\c#\SCTV\trunk\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+D:\utilities\Programming\c#\SCTV\trunk\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+D:\utilities\Programming\c#\SCTV\trunk\DirectX.Capture\bin\Debug\DShowNET.dll
+D:\utilities\Programming\c#\SCTV\trunk\DirectX.Capture\obj\Debug\DirectX.Capture.csprojResolveAssemblyReference.cache
+D:\utilities\Programming\c#\SCTV\trunk\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+D:\utilities\Programming\c#\SCTV\trunk\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+||||||| .r0
+=======
+D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DShowNET.dll
+D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DShowNET.pdb
+D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+D:\utilities\Programming\Examples\webcam capture\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+D:\utilities\Programming\SCTV2\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+D:\utilities\Programming\SCTV2\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+D:\utilities\Programming\SCTV2\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+D:\utilities\Programming\SCTV2\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+D:\utilities\Programming\SCTV2\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+D:\utilities\Programming\SCTV2\DirectX.Capture\bin\Debug\DShowNET.dll
+D:\utilities\Programming\c#\SCTV2\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+D:\utilities\Programming\c#\SCTV2\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+D:\utilities\Programming\c#\SCTV2\DirectX.Capture\bin\Debug\DShowNET.dll
+D:\utilities\Programming\c#\SCTV2\DirectX.Capture\obj\Debug\DirectX.Capture.csprojResolveAssemblyReference.cache
+D:\utilities\Programming\c#\SCTV2\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+D:\utilities\Programming\c#\SCTV2\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+>>>>>>> .r3
