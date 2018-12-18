@@ -790,8 +790,10 @@ D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\bin\x86\Debug\DShowNET.dll
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\bin\x86\Debug\SCTVObjects.pdb
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\bin\x86\Debug\SCTVControls.pdb
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\bin\x86\Debug\SCTVSecurity.pdb
+D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\bin\x86\Debug\SCTVSecurity.exe.config
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\bin\x86\Debug\TabCtrl.pdb
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\bin\x86\Debug\DeviceVolumeMonitor.pdb
+D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.csprojAssemblyReference.cache
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SCTV.AboutForm.resources
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SCTV.BrowserControl.resources
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SCTV.Login.resources
@@ -800,10 +802,8 @@ D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SCTV.OpenUrlForm.r
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SCTV.OptionsForm.resources
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SCTV.Properties.Resources.resources
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SCTV.ScriptErrorWindow.resources
-D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.csproj.GenerateResource.Cache
-D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.exe
-D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.pdb
-D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\bin\x86\Debug\SCTVSecurity.exe.config
-D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.csprojAssemblyReference.cache
+D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.csproj.GenerateResource.cache
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.csproj.CoreCompileInputs.cache
 D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.csproj.CopyComplete
+D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.exe
+D:\utilities\Programming\c#\SCTV\trunk\SafeSurf\obj\x86\Debug\SafeSurf.pdb
