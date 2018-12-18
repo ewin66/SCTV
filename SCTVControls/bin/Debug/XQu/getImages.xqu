@@ -1,2 +1,0 @@
-FOR $image IN document("theFile") //images//image
-RETURN $image

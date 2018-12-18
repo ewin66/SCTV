@@ -1,2 +1,0 @@
-FOR $media IN document("theFile") //mediaFiles//media
-RETURN $media
